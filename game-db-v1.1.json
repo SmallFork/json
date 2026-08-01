@@ -1,0 +1,7039 @@
+{
+  "_meta": {
+    "version": "1.1",
+    "description": "Steam 游戏库供应商/系列分类数据库，基于云收藏数据扩充",
+    "updated": "2026-07-12"
+  },
+  "2K Games": {
+    "NBA 2K": [
+      {
+        "id": 519490,
+        "name": "NBA 2KVR 体验"
+      },
+      {
+        "id": 726590,
+        "name": "NBA 2K 游乐场2"
+      },
+      {
+        "id": 282350,
+        "name": "NBA 2K15"
+      },
+      {
+        "id": 370240,
+        "name": "NBA 2K16"
+      },
+      {
+        "id": 385760,
+        "name": "NBA 2K17"
+      },
+      {
+        "id": 577800,
+        "name": "NBA 2K18"
+      },
+      {
+        "id": 841370,
+        "name": "NBA 2K19"
+      },
+      {
+        "id": 1089350,
+        "name": "NBA 2K20"
+      },
+      {
+        "id": 1225330,
+        "name": "NBA 2K21"
+      },
+      {
+        "id": 1644960,
+        "name": "NBA 2K22"
+      },
+      {
+        "id": 1919590,
+        "name": "NBA 2K23"
+      },
+      {
+        "id": 2338770,
+        "name": "NBA 2K24"
+      },
+      {
+        "id": 2878980,
+        "name": "NBA 2K25"
+      },
+      {
+        "id": 3472040,
+        "name": "NBA 2K26"
+      }
+    ],
+    "WWE 2K": [
+      {
+        "id": 1142100,
+        "name": "WWE 2K 角斗场"
+      },
+      {
+        "id": 240460,
+        "name": "WWE 2K15"
+      },
+      {
+        "id": 385730,
+        "name": "WWE 2K16"
+      },
+      {
+        "id": 510510,
+        "name": "WWE 2K17"
+      },
+      {
+        "id": 664430,
+        "name": "WWE 2K18"
+      },
+      {
+        "id": 817130,
+        "name": "WWE 2K19"
+      },
+      {
+        "id": 1015500,
+        "name": "WWE 2K20"
+      },
+      {
+        "id": 1255630,
+        "name": "WWE 2K22"
+      },
+      {
+        "id": 1942660,
+        "name": "WWE 2K23"
+      },
+      {
+        "id": 2315690,
+        "name": "WWE 2K24"
+      },
+      {
+        "id": 2878960,
+        "name": "WWE 2K25"
+      }
+    ],
+    "无主之地": [
+      {
+        "id": 261640,
+        "name": "无主之地：前传"
+      },
+      {
+        "id": 8980,
+        "name": "无主之地 年度版"
+      },
+      {
+        "id": 729040,
+        "name": "无主之地 年度版 加强版"
+      },
+      {
+        "id": 49520,
+        "name": "无主之地2"
+      },
+      {
+        "id": 991260,
+        "name": "无主之地2 VR"
+      },
+      {
+        "id": 397540,
+        "name": "无主之地3"
+      },
+      {
+        "id": 1285190,
+        "name": "无主之地4"
+      },
+      {
+        "id": 330830,
+        "name": "无主之地传说"
+      },
+      {
+        "id": 1454970,
+        "name": "新无主之地传说"
+      },
+      {
+        "id": 1286680,
+        "name": "小蒂娜的奇幻之地"
+      },
+      {
+        "id": 1712840,
+        "name": "小蒂娜的龙堡奇兵"
+      }
+    ],
+    "文明": [
+      {
+        "id": 3910,
+        "name": "席德·梅尔的文明3 完整版"
+      },
+      {
+        "id": 3900,
+        "name": "席德·梅尔的文明4"
+      },
+      {
+        "id": 3990,
+        "name": "文明4：战争之王"
+      },
+      {
+        "id": 8800,
+        "name": "文明4：刀剑之上"
+      },
+      {
+        "id": 16810,
+        "name": "文明4：殖民"
+      },
+      {
+        "id": 8930,
+        "name": "席德·梅尔的文明5"
+      },
+      {
+        "id": 289070,
+        "name": "席德·梅尔的文明6"
+      },
+      {
+        "id": 1295660,
+        "name": "席德·梅尔的文明7"
+      },
+      {
+        "id": 65980,
+        "name": "席德·梅尔的文明：超越地球"
+      },
+      {
+        "id": 3980,
+        "name": "文明城市：罗马"
+      },
+      {
+        "id": 7600,
+        "name": "席德·梅尔的铁路！"
+      },
+      {
+        "id": 244070,
+        "name": "席德·梅尔的名牌巡逻"
+      },
+      {
+        "id": 244090,
+        "name": "席德·梅尔的名牌巡逻：太平洋天空"
+      },
+      {
+        "id": 282210,
+        "name": "席德·梅尔的星际战舰"
+      }
+    ],
+    "生化奇兵": [
+      {
+        "id": 7670,
+        "name": "生化奇兵"
+      },
+      {
+        "id": 409710,
+        "name": "生化奇兵 重制版"
+      },
+      {
+        "id": 8850,
+        "name": "生化奇兵2"
+      },
+      {
+        "id": 409720,
+        "name": "生化奇兵2 重制版"
+      },
+      {
+        "id": 8870,
+        "name": "生化奇兵：无限"
+      }
+    ],
+    "黑手党": [
+      {
+        "id": 40990,
+        "name": "黑手党"
+      },
+      {
+        "id": 1030840,
+        "name": "黑手党：最终版"
+      },
+      {
+        "id": 50130,
+        "name": "黑手党2（经典版）"
+      },
+      {
+        "id": 1030830,
+        "name": "黑手党2：最终版"
+      },
+      {
+        "id": 360430,
+        "name": "黑手党3：最终版"
+      },
+      {
+        "id": 1941540,
+        "name": "黑手党：故乡"
+      }
+    ],
+    "幽浮": [
+      {
+        "id": 7770,
+        "name": "X-COM：执行者"
+      },
+      {
+        "id": 7730,
+        "name": "X-COM：截击者"
+      },
+      {
+        "id": 7660,
+        "name": "X-COM：天启"
+      },
+      {
+        "id": 7650,
+        "name": "X-COM：来自深海的恐怖"
+      },
+      {
+        "id": 7760,
+        "name": "X-COM:UFO防御"
+      },
+      {
+        "id": 65930,
+        "name": "调查局：幽浮解密"
+      },
+      {
+        "id": 200510,
+        "name": "幽浮：未知敌人"
+      },
+      {
+        "id": 268500,
+        "name": "幽浮2"
+      },
+      {
+        "id": 882100,
+        "name": "幽浮：奇美拉小队"
+      }
+    ],
+    "其他 2K 游戏": [
+      {
+        "id": 3920,
+        "name": "席德·梅尔的海盗！"
+      },
+      {
+        "id": 3960,
+        "name": "破碎联盟"
+      },
+      {
+        "id": 7610,
+        "name": "铁路大亨3"
+      },
+      {
+        "id": 7620,
+        "name": "铁路大亨2 白金版"
+      },
+      {
+        "id": 8880,
+        "name": "Freedom Force"
+      },
+      {
+        "id": 8890,
+        "name": "Freedom Force vs. the Third Reich"
+      },
+      {
+        "id": 8900,
+        "name": "Freedom Force Demo"
+      },
+      {
+        "id": 8910,
+        "name": "Freedom Force vs. the Third Reich Demo"
+      },
+      {
+        "id": 8970,
+        "name": "阿克塞尔与皮克塞尔"
+      },
+      {
+        "id": 40930,
+        "name": "温特博顿的不幸历险"
+      },
+      {
+        "id": 50280,
+        "name": "Mafia II Demo"
+      },
+      {
+        "id": 50300,
+        "name": "特殊行动：一线生机"
+      },
+      {
+        "id": 57900,
+        "name": "永远的毁灭公爵"
+      },
+      {
+        "id": 65900,
+        "name": "Sid Meier's Civilization® V: Demo"
+      },
+      {
+        "id": 67370,
+        "name": "黑暗领域2"
+      },
+      {
+        "id": 213910,
+        "name": "Sid Meier's Civilization V: Gods & Kings Demo"
+      },
+      {
+        "id": 216690,
+        "name": "XCOM: Enemy Unknown Demo"
+      },
+      {
+        "id": 273350,
+        "name": "进化 第二阶段"
+      },
+      {
+        "id": 368260,
+        "name": "漫威暗夜之子"
+      },
+      {
+        "id": 394170,
+        "name": "Sid Meier's Civilization: Beyond Earth - Rising Tide Demo"
+      },
+      {
+        "id": 394230,
+        "name": "为战而生"
+      },
+      {
+        "id": 433050,
+        "name": "XCOM 2: War of the Chosen - Propaganda Center"
+      },
+      {
+        "id": 458920,
+        "name": "Carnival Games® VR"
+      },
+      {
+        "id": 600160,
+        "name": "Mafia III Demo"
+      },
+      {
+        "id": 632360,
+        "name": "雨中冒险 2"
+      },
+      {
+        "id": 695290,
+        "name": "The Golf Club™ 2019 featuring PGA TOUR"
+      },
+      {
+        "id": 703320,
+        "name": "Hidden & Dangerous 2: Courage Under Fire"
+      },
+      {
+        "id": 1190170,
+        "name": "奥利奥利世界"
+      },
+      {
+        "id": 1249740,
+        "name": "嘉年华游戏"
+      },
+      {
+        "id": 1294420,
+        "name": "轮滑德罗姆"
+      },
+      {
+        "id": 1337520,
+        "name": "雨中冒险: 回归"
+      },
+      {
+        "id": 1451810,
+        "name": "乐高2K竞速"
+      },
+      {
+        "id": 1577120,
+        "name": "采石场惊魂"
+      },
+      {
+        "id": 1785650,
+        "name": "《TOPSPIN 2K25》"
+      },
+      {
+        "id": 1840080,
+        "name": "家园3"
+      },
+      {
+        "id": 1982340,
+        "name": "白之旅"
+      }
+    ]
+  },
+  "505 Games": {
+    "神力科莎系列": [
+      {
+        "id": 3058630,
+        "name": "神力科莎 EVO"
+      },
+      {
+        "id": 3917090,
+        "name": "神力科莎 拉力赛"
+      },
+      {
+        "id": 805550,
+        "name": "神力科莎 竞速"
+      },
+      {
+        "id": 520950,
+        "name": "漂移CE"
+      }
+    ],
+    "死亡搁浅系列": [
+      {
+        "id": 1850570,
+        "name": "死亡搁浅 导演剪辑版"
+      },
+      {
+        "id": 1190460,
+        "name": "死亡搁浅"
+      }
+    ],
+    "幽灵行者系列": [
+      {
+        "id": 1139900,
+        "name": "幽灵行者"
+      },
+      {
+        "id": 2144740,
+        "name": "幽灵行者2"
+      }
+    ],
+    "血污系列": [
+      {
+        "id": 692850,
+        "name": "血污：夜之仪式"
+      },
+      {
+        "id": 1883810,
+        "name": "血污：猩红之约"
+      }
+    ],
+    "其他 505 游戏": [
+      {
+        "id": 221540,
+        "name": "DG2: Defense Grid 2"
+      },
+      {
+        "id": 225080,
+        "name": "兄弟：双子传说"
+      },
+      {
+        "id": 244210,
+        "name": "神力科莎 Assetto Corsa"
+      },
+      {
+        "id": 249680,
+        "name": "Marlow Briggs and the Mask of Death"
+      },
+      {
+        "id": 250400,
+        "name": "How to Survive"
+      },
+      {
+        "id": 279440,
+        "name": "Joe Dever's Lone Wolf HD Remastered"
+      },
+      {
+        "id": 300060,
+        "name": "ADR1FT 失重"
+      },
+      {
+        "id": 329110,
+        "name": "Gems of War - Puzzle RPG"
+      },
+      {
+        "id": 360170,
+        "name": "How to Survive 2"
+      },
+      {
+        "id": 374030,
+        "name": "Virginia"
+      },
+      {
+        "id": 374040,
+        "name": "传送门骑士"
+      },
+      {
+        "id": 384190,
+        "name": "ABZÛ"
+      },
+      {
+        "id": 402040,
+        "name": "The Guest"
+      },
+      {
+        "id": 421170,
+        "name": "Indivisible"
+      },
+      {
+        "id": 421830,
+        "name": "Indivisible Prototype Demo"
+      },
+      {
+        "id": 438590,
+        "name": "The Guest Demo"
+      },
+      {
+        "id": 518070,
+        "name": "Virginia Demo"
+      },
+      {
+        "id": 629090,
+        "name": "Horace"
+      },
+      {
+        "id": 635320,
+        "name": "六月衷曲"
+      },
+      {
+        "id": 674500,
+        "name": "Total Tank Simulator"
+      },
+      {
+        "id": 705040,
+        "name": "HAWKEN REBORN"
+      },
+      {
+        "id": 768520,
+        "name": "红色至日2：幸存者"
+      },
+      {
+        "id": 870780,
+        "name": "控制 - 终极合辑 / Control Ultimate Edition"
+      },
+      {
+        "id": 942970,
+        "name": "疑案追声"
+      },
+      {
+        "id": 973810,
+        "name": "狂野星球之旅"
+      },
+      {
+        "id": 1249200,
+        "name": "Ghostrunner Demo"
+      },
+      {
+        "id": 1337920,
+        "name": "连环清道夫"
+      },
+      {
+        "id": 1380420,
+        "name": "成长物语：永恒树之歌 / Grow: Song of the Evertree"
+      },
+      {
+        "id": 1414230,
+        "name": "奥德赛：你的太空你的路"
+      },
+      {
+        "id": 1649010,
+        "name": "迷瘴纪事 (Miasma Chronicles)"
+      },
+      {
+        "id": 1707290,
+        "name": "实况！救援大作战"
+      },
+      {
+        "id": 1770050,
+        "name": "全面坦克将军"
+      },
+      {
+        "id": 2091020,
+        "name": "火焰之刃"
+      },
+      {
+        "id": 2149950,
+        "name": "Total Tank Generals Demo"
+      },
+      {
+        "id": 2153350,
+        "name": "兄弟：双子传说 重制版"
+      },
+      {
+        "id": 2277560,
+        "name": "乌昌：落羽"
+      },
+      {
+        "id": 2933080,
+        "name": "《法外枭雄：滚石城》Crime Boss: Rockay City"
+      },
+      {
+        "id": 4159360,
+        "name": "《超能蕾雅的异次元之旅》MIGHTREYA"
+      },
+      {
+        "id": 4335780,
+        "name": "Blades of Fire Demo"
+      }
+    ]
+  },
+  "育碧": {
+    "刺客信条系列": [
+      {
+        "id": 359600,
+        "name": "刺客信条编年史：俄罗斯"
+      },
+      {
+        "id": 359610,
+        "name": "刺客信条编年史：印度"
+      },
+      {
+        "id": 354380,
+        "name": "刺客信条编年史：中国"
+      },
+      {
+        "id": 260210,
+        "name": "刺客信条：解放HD"
+      },
+      {
+        "id": 277590,
+        "name": "刺客信条：自由呐喊"
+      },
+      {
+        "id": 15100,
+        "name": "刺客信条：导演剪辑版"
+      },
+      {
+        "id": 33230,
+        "name": "刺客信条2"
+      },
+      {
+        "id": 48190,
+        "name": "刺客信条：兄弟会"
+      },
+      {
+        "id": 201870,
+        "name": "刺客信条：启示录"
+      },
+      {
+        "id": 911400,
+        "name": "刺客信条3：重制版"
+      },
+      {
+        "id": 208480,
+        "name": "刺客信条3"
+      },
+      {
+        "id": 242050,
+        "name": "刺客信条4：黑旗"
+      },
+      {
+        "id": 311560,
+        "name": "刺客信条：叛变"
+      },
+      {
+        "id": 289650,
+        "name": "刺客信条：大革命"
+      },
+      {
+        "id": 368500,
+        "name": "刺客信条：枭雄"
+      },
+      {
+        "id": 582160,
+        "name": "刺客信条：起源"
+      },
+      {
+        "id": 812140,
+        "name": "刺客信条：奥德赛"
+      },
+      {
+        "id": 2208920,
+        "name": "刺客信条：英灵殿"
+      },
+      {
+        "id": 3035570,
+        "name": "刺客信条：幻景"
+      },
+      {
+        "id": 3159330,
+        "name": "刺客信条：影"
+      }
+    ],
+    "孤岛惊魂系列": [
+      {
+        "id": 220240,
+        "name": "孤岛惊魂3"
+      },
+      {
+        "id": 298110,
+        "name": "孤岛惊魂3：血龙"
+      },
+      {
+        "id": 298180,
+        "name": "孤岛惊魂4"
+      },
+      {
+        "id": 461660,
+        "name": "孤岛惊魂：原始杀戮"
+      },
+      {
+        "id": 552520,
+        "name": "孤岛惊魂5"
+      },
+      {
+        "id": 939960,
+        "name": "孤岛惊魂：新曙光"
+      },
+      {
+        "id": 2369390,
+        "name": "孤岛惊魂6"
+      }
+    ],
+    "看门狗系列": [
+      {
+        "id": 243470,
+        "name": "看门狗"
+      },
+      {
+        "id": 447040,
+        "name": "看门狗2"
+      },
+      {
+        "id": 2239550,
+        "name": "看门狗：军团"
+      }
+    ],
+    "彩虹六号系列": [
+      {
+        "id": 359550,
+        "name": "彩虹六号：围攻"
+      },
+      {
+        "id": 1250410,
+        "name": "彩虹六号：异种"
+      }
+    ],
+    "其他育碧游戏": [
+      {
+        "id": 3600,
+        "name": "超越善恶"
+      },
+      {
+        "id": 12310,
+        "name": "波斯王子：时之沙"
+      },
+      {
+        "id": 12320,
+        "name": "波斯王子：武者之心"
+      },
+      {
+        "id": 12330,
+        "name": "波斯王子：王者无双"
+      },
+      {
+        "id": 12800,
+        "name": "雷曼：起源"
+      },
+      {
+        "id": 13500,
+        "name": "Prince of Persia: Warrior Within™"
+      },
+      {
+        "id": 13520,
+        "name": "Far Cry®"
+      },
+      {
+        "id": 13530,
+        "name": "Prince of Persia: The Two Thrones™"
+      },
+      {
+        "id": 13540,
+        "name": "Tom Clancy's Rainbow Six® Vegas"
+      },
+      {
+        "id": 13560,
+        "name": "细胞分裂"
+      },
+      {
+        "id": 13570,
+        "name": "细胞分裂：潘多拉明日"
+      },
+      {
+        "id": 13580,
+        "name": "细胞分裂：混沌法则"
+      },
+      {
+        "id": 13600,
+        "name": "Prince of Persia®: The Sands of Time"
+      },
+      {
+        "id": 13620,
+        "name": "Tom Clancy's Ghost Recon® Desert Siege™"
+      },
+      {
+        "id": 13630,
+        "name": "Tom Clancy's Ghost Recon® Island Thunder™"
+      },
+      {
+        "id": 15000,
+        "name": "Tom Clancy's Rainbow Six Lockdown™"
+      },
+      {
+        "id": 15080,
+        "name": "Rayman Raving Rabbids™"
+      },
+      {
+        "id": 15120,
+        "name": "Tom Clancy's Rainbow Six® Vegas 2"
+      },
+      {
+        "id": 15300,
+        "name": "幽灵行动"
+      },
+      {
+        "id": 19830,
+        "name": "Tom Clancy's Rainbow Six® 3 Gold"
+      },
+      {
+        "id": 19900,
+        "name": "Far Cry® 2"
+      },
+      {
+        "id": 19980,
+        "name": "Prince of Persia®"
+      },
+      {
+        "id": 21800,
+        "name": "Tom Clancy's EndWar™"
+      },
+      {
+        "id": 33220,
+        "name": "细胞分裂：断罪"
+      },
+      {
+        "id": 33320,
+        "name": "Prince of Persia: The Forgotten Sands™"
+      },
+      {
+        "id": 33600,
+        "name": "波斯王子：遗忘之沙"
+      },
+      {
+        "id": 48100,
+        "name": "细胞分裂：定罪"
+      },
+      {
+        "id": 48240,
+        "name": "Anno 2070™"
+      },
+      {
+        "id": 204450,
+        "name": "Call of Juarez: Gunslinger"
+      },
+      {
+        "id": 207490,
+        "name": "Rayman® Origins"
+      },
+      {
+        "id": 212630,
+        "name": "幽灵行动：未来战士"
+      },
+      {
+        "id": 213670,
+        "name": "South Park™: The Stick of Truth™"
+      },
+      {
+        "id": 220160,
+        "name": "Trials Evolution: Gold Edition"
+      },
+      {
+        "id": 222480,
+        "name": "幽灵行动：荒野"
+      },
+      {
+        "id": 233270,
+        "name": "Far Cry 3 - Blood Dragon"
+      },
+      {
+        "id": 235600,
+        "name": "细胞分裂：黑名单"
+      },
+      {
+        "id": 241560,
+        "name": "The Crew™"
+      },
+      {
+        "id": 242550,
+        "name": "Rayman® Legends"
+      },
+      {
+        "id": 242640,
+        "name": "雷曼：传奇"
+      },
+      {
+        "id": 256290,
+        "name": "光之子"
+      },
+      {
+        "id": 260230,
+        "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™"
+      },
+      {
+        "id": 304390,
+        "name": "《荣耀战魂》"
+      },
+      {
+        "id": 305050,
+        "name": "Outland"
+      },
+      {
+        "id": 323320,
+        "name": "Grow Home"
+      },
+      {
+        "id": 365590,
+        "name": "Tom Clancy’s The Division™"
+      },
+      {
+        "id": 371660,
+        "name": "Far Cry® Primal"
+      },
+      {
+        "id": 408250,
+        "name": "Eagle Flight"
+      },
+      {
+        "id": 426790,
+        "name": "Grow Up"
+      },
+      {
+        "id": 435480,
+        "name": "Trials of the Blood Dragon"
+      },
+      {
+        "id": 444560,
+        "name": "Agent Origins: Escape"
+      },
+      {
+        "id": 446560,
+        "name": "Just Dance 2017"
+      },
+      {
+        "id": 460920,
+        "name": "Steep™"
+      },
+      {
+        "id": 460930,
+        "name": "幽灵行动：荒野"
+      },
+      {
+        "id": 488790,
+        "name": "South Park™: The Fractured But Whole™"
+      },
+      {
+        "id": 488950,
+        "name": "Werewolves Within™"
+      },
+      {
+        "id": 527100,
+        "name": "Star Trek™: Bridge Crew"
+      },
+      {
+        "id": 537420,
+        "name": "Agent Origins: Pursuit"
+      },
+      {
+        "id": 537421,
+        "name": "Agent Origins: Conspiracies"
+      },
+      {
+        "id": 537422,
+        "name": "Agent Origins: Ashes"
+      },
+      {
+        "id": 619880,
+        "name": "ATOMEGA"
+      },
+      {
+        "id": 646910,
+        "name": "The Crew™ 2"
+      },
+      {
+        "id": 756680,
+        "name": "幽灵行动：断点"
+      },
+      {
+        "id": 775430,
+        "name": "《刺客信条》出品 - 发现之旅：古埃及"
+      },
+      {
+        "id": 1075340,
+        "name": "The Crew 2 Demo"
+      },
+      {
+        "id": 1099490,
+        "name": "Trials Rising Demo"
+      },
+      {
+        "id": 2221490,
+        "name": "全境封锁2"
+      }
+    ]
+  },
+  "EA Games": {
+    "F1 系列": [
+      {
+        "id": 3059520,
+        "name": "F1 25"
+      },
+      {
+        "id": 2108330,
+        "name": "F1 23"
+      },
+      {
+        "id": 1134570,
+        "name": "F1 2021"
+      },
+      {
+        "id": 1080110,
+        "name": "F1 2020"
+      },
+      {
+        "id": 928600,
+        "name": "F1 2019"
+      },
+      {
+        "id": 737800,
+        "name": "F1 2018"
+      },
+      {
+        "id": 515220,
+        "name": "F1 2017"
+      },
+      {
+        "id": 391040,
+        "name": "F1 2016"
+      },
+      {
+        "id": 226580,
+        "name": "F1 2014"
+      },
+      {
+        "id": 208500,
+        "name": "F1 2012"
+      }
+    ],
+    "极品飞车系列": [
+      {
+        "id": 1222680,
+        "name": "极品飞车：热度"
+      },
+      {
+        "id": 1262580,
+        "name": "极品飞车：复仇"
+      },
+      {
+        "id": 1328660,
+        "name": "极品飞车：热力追踪 重制版"
+      },
+      {
+        "id": 47870,
+        "name": "极品飞车：热力追踪"
+      }
+    ],
+    "战地系列": [
+      {
+        "id": 1238840,
+        "name": "战地1"
+      },
+      {
+        "id": 1238860,
+        "name": "战地4"
+      },
+      {
+        "id": 24960,
+        "name": "战地：恶人连2"
+      },
+      {
+        "id": 24840,
+        "name": "荣誉勋章：空降神兵"
+      }
+    ],
+    "死亡空间系列": [
+      {
+        "id": 1693980,
+        "name": "死亡空间 重制版"
+      },
+      {
+        "id": 47780,
+        "name": "死亡空间2"
+      },
+      {
+        "id": 17470,
+        "name": "死亡空间（2008）"
+      }
+    ],
+    "龙腾世纪系列": [
+      {
+        "id": 47810,
+        "name": "龙腾世纪：起源 终极版"
+      },
+      {
+        "id": 47730,
+        "name": "龙腾世纪：起源 觉醒"
+      },
+      {
+        "id": 17450,
+        "name": "龙腾世纪：起源"
+      },
+      {
+        "id": 17410,
+        "name": "龙腾世纪：起源（经典版）"
+      },
+      {
+        "id": 1238040,
+        "name": "龙腾世纪2 终极版"
+      }
+    ],
+    "质量效应系列": [
+      {
+        "id": 1328670,
+        "name": "质量效应 传奇版"
+      },
+      {
+        "id": 17460,
+        "name": "质量效应（2007）"
+      },
+      {
+        "id": 24980,
+        "name": "质量效应2（2010版）"
+      }
+    ],
+    "模拟人生系列": [
+      {
+        "id": 1222670,
+        "name": "模拟人生4"
+      },
+      {
+        "id": 47890,
+        "name": "模拟人生3"
+      }
+    ],
+    "命令与征服系列": [
+      {
+        "id": 1213210,
+        "name": "命令与征服 重制版合集"
+      },
+      {
+        "id": 2229850,
+        "name": "命令与征服：红色警戒2及尤里的复仇"
+      },
+      {
+        "id": 2229880,
+        "name": "命令与征服：泰伯利亚之日及火风暴"
+      },
+      {
+        "id": 2229870,
+        "name": "命令与征服：将军"
+      },
+      {
+        "id": 2732960,
+        "name": "命令与征服：将军 绝命时刻"
+      },
+      {
+        "id": 2229890,
+        "name": "命令与征服：变节者"
+      },
+      {
+        "id": 24790,
+        "name": "命令与征服3：泰伯利亚之战"
+      },
+      {
+        "id": 24810,
+        "name": "命令与征服3：凯恩之怒"
+      },
+      {
+        "id": 17480,
+        "name": "命令与征服：红色警戒3"
+      },
+      {
+        "id": 24800,
+        "name": "命令与征服：红色警戒3 起义"
+      }
+    ],
+    "星球大战系列": [
+      {
+        "id": 1172380,
+        "name": "星球大战 绝地：陨落的武士团"
+      },
+      {
+        "id": 1237950,
+        "name": "星球大战 战场前线2"
+      },
+      {
+        "id": 1286830,
+        "name": "星球大战：旧共和国"
+      }
+    ],
+    "其他 EA 游戏": [
+      {
+        "id": 2001120,
+        "name": "双影奇境"
+      },
+      {
+        "id": 1426210,
+        "name": "双人成行"
+      },
+      {
+        "id": 1222700,
+        "name": "逃出生天"
+      },
+      {
+        "id": 1225590,
+        "name": "孤独之海"
+      },
+      {
+        "id": 1237970,
+        "name": "泰坦陨落2"
+      },
+      {
+        "id": 1233570,
+        "name": "镜之边缘：催化剂"
+      },
+      {
+        "id": 17440,
+        "name": "镜之边缘"
+      },
+      {
+        "id": 1225560,
+        "name": "毛线小精灵"
+      },
+      {
+        "id": 19680,
+        "name": "爱丽丝：疯狂回归"
+      },
+      {
+        "id": 102500,
+        "name": "阿玛拉王国：惩罚"
+      },
+      {
+        "id": 24720,
+        "name": "孢子：银河冒险"
+      },
+      {
+        "id": 17390,
+        "name": "孢子"
+      }
+    ]
+  },
+  "卡普空": {
+    "生化危机系列": [
+      {
+        "id": 3764200,
+        "name": "生化危机9：安魂曲"
+      },
+      {
+        "id": 2050650,
+        "name": "生化危机4"
+      },
+      {
+        "id": 1196590,
+        "name": "生化危机8：村庄"
+      },
+      {
+        "id": 952060,
+        "name": "生化危机3 重制版"
+      },
+      {
+        "id": 883710,
+        "name": "生化危机2 重制版"
+      },
+      {
+        "id": 418370,
+        "name": "生化危机7：生化危险"
+      },
+      {
+        "id": 339340,
+        "name": "生化危机0"
+      },
+      {
+        "id": 304240,
+        "name": "生化危机 重制版"
+      },
+      {
+        "id": 254700,
+        "name": "生化危机4（2005）"
+      },
+      {
+        "id": 221040,
+        "name": "生化危机6"
+      },
+      {
+        "id": 21690,
+        "name": "生化危机5"
+      },
+      {
+        "id": 287290,
+        "name": "生化危机：启示录2"
+      },
+      {
+        "id": 222480,
+        "name": "生化危机：启示录"
+      },
+      {
+        "id": 209100,
+        "name": "生化危机：浣熊市行动"
+      }
+    ],
+    "鬼泣系列": [
+      {
+        "id": 601150,
+        "name": "鬼泣5"
+      },
+      {
+        "id": 220440,
+        "name": "DmC：鬼泣"
+      },
+      {
+        "id": 45710,
+        "name": "鬼泣4"
+      },
+      {
+        "id": 65600,
+        "name": "鬼泣3 特别版"
+      }
+    ],
+    "怪物猎人系列": [
+      {
+        "id": 582010,
+        "name": "怪物猎人：世界"
+      },
+      {
+        "id": 1118010,
+        "name": "怪物猎人世界：冰原"
+      },
+      {
+        "id": 1446780,
+        "name": "怪物猎人：崛起"
+      },
+      {
+        "id": 1641460,
+        "name": "怪物猎人崛起：曙光"
+      },
+      {
+        "id": 2246340,
+        "name": "怪物猎人：荒野"
+      }
+    ],
+    "街霸系列": [
+      {
+        "id": 1364780,
+        "name": "街霸6"
+      },
+      {
+        "id": 310950,
+        "name": "街霸5"
+      },
+      {
+        "id": 45760,
+        "name": "街霸X铁拳"
+      },
+      {
+        "id": 245130,
+        "name": "超级街霸4 AE"
+      }
+    ],
+    "其他卡普空游戏": [
+      {
+        "id": 6550,
+        "name": "Devil May Cry® 3 Special Edition"
+      },
+      {
+        "id": 6580,
+        "name": "Lost Planet Demo"
+      },
+      {
+        "id": 45740,
+        "name": "Dead Rising® 2"
+      },
+      {
+        "id": 226720,
+        "name": "LOST PLANET® 3"
+      },
+      {
+        "id": 228300,
+        "name": "Remember Me"
+      },
+      {
+        "id": 235210,
+        "name": "STRIDER™ / ストライダー飛竜®"
+      },
+      {
+        "id": 363440,
+        "name": "Mega Man Legacy Collection"
+      },
+      {
+        "id": 367500,
+        "name": "龙之信条：黑暗觉者"
+      },
+      {
+        "id": 414340,
+        "name": "洛克人 遗产合集"
+      },
+      {
+        "id": 519470,
+        "name": "洛克人 遗产合集2"
+      },
+      {
+        "id": 743300,
+        "name": "洛克人11"
+      },
+      {
+        "id": 786370,
+        "name": "逆转裁判456"
+      },
+      {
+        "id": 814380,
+        "name": "只狼：影逝二度"
+      },
+      {
+        "id": 1154770,
+        "name": "大逆转裁判1&2"
+      },
+      {
+        "id": 1168280,
+        "name": "Resident Evil 2 \"R.P.D. Demo\""
+      },
+      {
+        "id": 1173690,
+        "name": "Resident Evil 3: Raccoon City Demo"
+      },
+      {
+        "id": 1236300,
+        "name": "Resident Evil Re:Verse"
+      },
+      {
+        "id": 1277400,
+        "name": "Monster Hunter Stories 2: Wings of Ruin"
+      },
+      {
+        "id": 1310590,
+        "name": "逆转裁判123"
+      },
+      {
+        "id": 1412570,
+        "name": "Monster Hunter Stories 2: Wings of Ruin Trial Version"
+      },
+      {
+        "id": 1515950,
+        "name": "Capcom Arcade Stadium"
+      },
+      {
+        "id": 1581570,
+        "name": "卡普空街机馆"
+      },
+      {
+        "id": 1752200,
+        "name": "龙之信条2"
+      },
+      {
+        "id": 1755910,
+        "name": "Capcom Arcade 2nd Stadium"
+      },
+      {
+        "id": 1836450,
+        "name": "MONSTER HUNTER RISE: SUNBREAK DEMO"
+      },
+      {
+        "id": 1971230,
+        "name": "Ghost Trick: Phantom Detective Demo"
+      },
+      {
+        "id": 2062120,
+        "name": "Resident Evil Village Gold Edition Gameplay Demo"
+      },
+      {
+        "id": 2154900,
+        "name": "Street Fighter 6 Demo"
+      },
+      {
+        "id": 2183650,
+        "name": "ROCKMAN X DiVE Offline"
+      },
+      {
+        "id": 2231770,
+        "name": "Resident Evil 4 Chainsaw Demo"
+      },
+      {
+        "id": 2356560,
+        "name": "Monster Hunter Stories"
+      },
+      {
+        "id": 2636870,
+        "name": "ROCKMAN X DiVE Offline Demo"
+      },
+      {
+        "id": 2674810,
+        "name": "Dragon's Dogma 2 角色编辑＆保存"
+      },
+      {
+        "id": 2728410,
+        "name": "逆转检察官1&2 御剑精选集 DEMO"
+      },
+      {
+        "id": 2842890,
+        "name": "Kunitsu-Gami: Path of the Goddess - Demo"
+      },
+      {
+        "id": 2892640,
+        "name": "Dead Rising Deluxe Remaster Demo"
+      },
+      {
+        "id": 3357650,
+        "name": "PRAGMATA"
+      },
+      {
+        "id": 3464430,
+        "name": "鬼武者2 Demo (Onimusha 2: Samurai's Destiny Demo)"
+      },
+      {
+        "id": 3470630,
+        "name": "Monster Hunter Stories 3: 命运双龙 体验版"
+      },
+      {
+        "id": 4003800,
+        "name": "PRAGMATA SKETCHBOOK - DEMO"
+      },
+      {
+        "id": 4249100,
+        "name": "Resident Evil (1996)"
+      },
+      {
+        "id": 4249110,
+        "name": "Resident Evil 2 (1998)"
+      },
+      {
+        "id": 4249120,
+        "name": "Resident Evil 3 Nemesis (1999)"
+      }
+    ]
+  },
+  "Rockstar Games": {
+    "GTA 系列": [
+      {
+        "id": 3240220,
+        "name": "侠盗猎车手5 增强版"
+      },
+      {
+        "id": 271590,
+        "name": "侠盗猎车手5 旧版"
+      },
+      {
+        "id": 12210,
+        "name": "侠盗猎车手4：完整版"
+      },
+      {
+        "id": 12220,
+        "name": "侠盗猎车手：自由城之章"
+      },
+      {
+        "id": 1546970,
+        "name": "侠盗猎车手3 最终版"
+      },
+      {
+        "id": 1546990,
+        "name": "侠盗猎车手：罪恶都市 最终版"
+      },
+      {
+        "id": 1547000,
+        "name": "侠盗猎车手：圣安地列斯 最终版"
+      },
+      {
+        "id": 12100,
+        "name": "侠盗猎车手3"
+      },
+      {
+        "id": 12110,
+        "name": "侠盗猎车手：罪恶都市"
+      },
+      {
+        "id": 12120,
+        "name": "侠盗猎车手：圣安地列斯"
+      }
+    ],
+    "荒野大镖客系列": [
+      {
+        "id": 2668510,
+        "name": "荒野大镖客：救赎"
+      },
+      {
+        "id": 1174180,
+        "name": "荒野大镖客：救赎2"
+      },
+      {
+        "id": 1404210,
+        "name": "荒野大镖客Online"
+      }
+    ],
+    "马克思佩恩系列": [
+      {
+        "id": 12140,
+        "name": "马克思佩恩"
+      },
+      {
+        "id": 12150,
+        "name": "马克思佩恩2：佩恩的坠落"
+      },
+      {
+        "id": 204100,
+        "name": "马克思佩恩3"
+      }
+    ],
+    "其他 Rockstar 游戏": [
+      {
+        "id": 110800,
+        "name": "黑色洛城"
+      },
+      {
+        "id": 722230,
+        "name": "黑色洛城：VR案卷"
+      },
+      {
+        "id": 12200,
+        "name": "恶霸鲁尼：奖学金版"
+      },
+      {
+        "id": 12130,
+        "name": "侠盗猎魔"
+      },
+      {
+        "id": 2327240,
+        "name": "领地争夺"
+      }
+    ]
+  },
+  "索尼 PlayStation": {
+    "漫威蜘蛛侠系列": [
+      {
+        "id": 1817070,
+        "name": "漫威蜘蛛侠 重制版"
+      },
+      {
+        "id": 1817190,
+        "name": "漫威蜘蛛侠：迈尔斯·莫拉莱斯"
+      },
+      {
+        "id": 2651280,
+        "name": "漫威蜘蛛侠2"
+      }
+    ],
+    "战神系列": [
+      {
+        "id": 1593500,
+        "name": "战神"
+      },
+      {
+        "id": 2322010,
+        "name": "战神：诸神黄昏"
+      }
+    ],
+    "地平线系列": [
+      {
+        "id": 1151640,
+        "name": "地平线：零之曙光 完整版"
+      },
+      {
+        "id": 2561580,
+        "name": "地平线：零之曙光 重制版"
+      },
+      {
+        "id": 2420110,
+        "name": "地平线：西之绝境 完整版"
+      },
+      {
+        "id": 2428810,
+        "name": "乐高地平线冒险"
+      }
+    ],
+    "最后生还者系列": [
+      {
+        "id": 1888930,
+        "name": "最后生还者 第一章"
+      },
+      {
+        "id": 2531310,
+        "name": "最后生还者 第二章 重制版"
+      }
+    ],
+    "其他索尼游戏": [
+      {
+        "id": 394510,
+        "name": "绝地潜兵 潜行版"
+      },
+      {
+        "id": 417880,
+        "name": "Everybody's Gone to the Rapture"
+      },
+      {
+        "id": 553850,
+        "name": "绝地潜兵2"
+      },
+      {
+        "id": 1085660,
+        "name": "命运2"
+      },
+      {
+        "id": 1259420,
+        "name": "往日不再"
+      },
+      {
+        "id": 1599660,
+        "name": "麻布仔大冒险"
+      },
+      {
+        "id": 1649240,
+        "name": "死亡回归"
+      },
+      {
+        "id": 1659420,
+        "name": "神秘海域：盗贼传奇合集"
+      },
+      {
+        "id": 1895880,
+        "name": "瑞奇与叮当：时空跳转"
+      },
+      {
+        "id": 2172010,
+        "name": "直到黎明"
+      },
+      {
+        "id": 2215430,
+        "name": "对马岛之魂 导演剪辑版"
+      },
+      {
+        "id": 3280350,
+        "name": "死亡搁浅2：海滩上"
+      },
+      {
+        "id": 3489700,
+        "name": "剑星"
+      },
+      {
+        "id": 3564860,
+        "name": "《剑星》体验版"
+      },
+      {
+        "id": 3787240,
+        "name": "漫威斗魂"
+      },
+      {
+        "id": 3857710,
+        "name": "失落之魂 Demo"
+      }
+    ]
+  },
+  "P 社": {
+    "欧陆风云系列": [
+      {
+        "id": 236850,
+        "name": "欧陆风云4"
+      },
+      {
+        "id": 25800,
+        "name": "欧陆风云3"
+      },
+      {
+        "id": 71340,
+        "name": "欧陆风云：罗马"
+      }
+    ],
+    "十字军之王系列": [
+      {
+        "id": 1158310,
+        "name": "十字军之王3"
+      },
+      {
+        "id": 203770,
+        "name": "十字军之王2"
+      }
+    ],
+    "群星系列": [
+      {
+        "id": 281990,
+        "name": "群星"
+      }
+    ],
+    "维多利亚系列": [
+      {
+        "id": 529340,
+        "name": "维多利亚3"
+      },
+      {
+        "id": 42960,
+        "name": "维多利亚2"
+      }
+    ],
+    "钢铁雄心系列": [
+      {
+        "id": 394360,
+        "name": "钢铁雄心4"
+      },
+      {
+        "id": 25890,
+        "name": "钢铁雄心3"
+      }
+    ],
+    "城市天际线系列": [
+      {
+        "id": 255710,
+        "name": "城市天际线"
+      },
+      {
+        "id": 846470,
+        "name": "城市天际线2"
+      }
+    ],
+    "其他 P 社 游戏": [
+      {
+        "id": 22100,
+        "name": "Mount & Blade"
+      },
+      {
+        "id": 22110,
+        "name": "Mount and Blade Demo"
+      },
+      {
+        "id": 22160,
+        "name": "Europa Universalis: Rome - Gold Edition Demo"
+      },
+      {
+        "id": 22170,
+        "name": "Hearts of Iron 2 Demo"
+      },
+      {
+        "id": 25980,
+        "name": "Majesty 2"
+      },
+      {
+        "id": 25990,
+        "name": "Majesty Gold HD"
+      },
+      {
+        "id": 42910,
+        "name": "Magicka"
+      },
+      {
+        "id": 42980,
+        "name": "Victoria I Complete"
+      },
+      {
+        "id": 49340,
+        "name": "Pirates of Black Cove Demo"
+      },
+      {
+        "id": 73010,
+        "name": "Cities in Motion"
+      },
+      {
+        "id": 73020,
+        "name": "Majesty 2 Collection"
+      },
+      {
+        "id": 73230,
+        "name": "Majesty Gold HD"
+      },
+      {
+        "id": 203670,
+        "name": "Defenders of Ardania Demo"
+      },
+      {
+        "id": 225420,
+        "name": "Cities in Motion 2"
+      },
+      {
+        "id": 233450,
+        "name": "Prison Architect"
+      },
+      {
+        "id": 234650,
+        "name": "Shadowrun Returns"
+      },
+      {
+        "id": 238370,
+        "name": "Magicka 2"
+      },
+      {
+        "id": 300550,
+        "name": "Shadowrun: Dragonfall - Director's Cut"
+      },
+      {
+        "id": 346940,
+        "name": "Shadowrun: Hong Kong - Extended Edition"
+      },
+      {
+        "id": 362960,
+        "name": "Tyranny"
+      },
+      {
+        "id": 393430,
+        "name": "Ice Lakes"
+      },
+      {
+        "id": 464920,
+        "name": "Surviving Mars"
+      },
+      {
+        "id": 637090,
+        "name": "BATTLETECH"
+      },
+      {
+        "id": 684450,
+        "name": "Surviving the Aftermath"
+      },
+      {
+        "id": 707480,
+        "name": "Tyranny - Official Soundtrack Deluxe Edition"
+      },
+      {
+        "id": 718850,
+        "name": "Age of Wonders: Planetfall"
+      },
+      {
+        "id": 859580,
+        "name": "Imperator: Rome"
+      },
+      {
+        "id": 1167750,
+        "name": "The Lamplighters League"
+      },
+      {
+        "id": 1324130,
+        "name": "Stranded: Alien Dawn"
+      }
+    ]
+  },
+  "V 社": {
+    "半条命系列": [
+      {
+        "id": 70,
+        "name": "半条命"
+      },
+      {
+        "id": 220,
+        "name": "半条命2"
+      },
+      {
+        "id": 221,
+        "name": "半条命2：第一章"
+      },
+      {
+        "id": 222,
+        "name": "半条命2：第二章"
+      },
+      {
+        "id": 546560,
+        "name": "半条命：Alyx"
+      },
+      {
+        "id": 280,
+        "name": "半条命：起源"
+      },
+      {
+        "id": 360,
+        "name": "半条命：死亡竞赛"
+      },
+      {
+        "id": 130,
+        "name": "半条命：蓝色行动"
+      },
+      {
+        "id": 50,
+        "name": "半条命：针锋相对"
+      }
+    ],
+    "传送门系列": [
+      {
+        "id": 400,
+        "name": "传送门"
+      },
+      {
+        "id": 620,
+        "name": "传送门2"
+      }
+    ],
+    "反恐精英系列": [
+      {
+        "id": 730,
+        "name": "反恐精英2"
+      },
+      {
+        "id": 80,
+        "name": "反恐精英：起源"
+      },
+      {
+        "id": 10,
+        "name": "反恐精英"
+      }
+    ],
+    "求生之路系列": [
+      {
+        "id": 550,
+        "name": "求生之路2"
+      },
+      {
+        "id": 500,
+        "name": "求生之路"
+      }
+    ],
+    "DOTA 系列": [
+      {
+        "id": 570,
+        "name": "DOTA 2"
+      }
+    ],
+    "其他 V 社游戏": [
+      {
+        "id": 20,
+        "name": "Team Fortress Classic"
+      },
+      {
+        "id": 30,
+        "name": "Day of Defeat"
+      },
+      {
+        "id": 40,
+        "name": "Deathmatch Classic"
+      },
+      {
+        "id": 60,
+        "name": "Ricochet"
+      },
+      {
+        "id": 100,
+        "name": "Counter-Strike: Condition Zero"
+      },
+      {
+        "id": 240,
+        "name": "Counter-Strike: Source"
+      },
+      {
+        "id": 300,
+        "name": "Day of Defeat: Source"
+      },
+      {
+        "id": 320,
+        "name": "Half-Life 2: Deathmatch"
+      },
+      {
+        "id": 340,
+        "name": "Half-Life 2: Lost Coast"
+      },
+      {
+        "id": 380,
+        "name": "Half-Life 2: Episode One"
+      },
+      {
+        "id": 420,
+        "name": "Half-Life 2: Episode Two"
+      },
+      {
+        "id": 440,
+        "name": "军团要塞2"
+      },
+      {
+        "id": 730,
+        "name": "反恐精英2"
+      },
+      {
+        "id": 4000,
+        "name": "Garry's Mod"
+      },
+      {
+        "id": 104600,
+        "name": "Portal 2 - The Final Hours"
+      },
+      {
+        "id": 245550,
+        "name": "Free to Play"
+      },
+      {
+        "id": 247120,
+        "name": "Portal 2 Sixense Perceptual Pack"
+      },
+      {
+        "id": 252490,
+        "name": "Rust"
+      },
+      {
+        "id": 304930,
+        "name": "Unturned"
+      },
+      {
+        "id": 343450,
+        "name": "Free to Play"
+      },
+      {
+        "id": 411181,
+        "name": "Dota 2 Player Profiles: EG - Suma1L"
+      },
+      {
+        "id": 411182,
+        "name": "Dota 2 Player Profiles: Na'Vi - XBOCT"
+      },
+      {
+        "id": 411183,
+        "name": "Dota 2 Player Profiles: Invictus Gaming - Ferrari"
+      },
+      {
+        "id": 411184,
+        "name": "Dota 2 Player Profiles: MVPHot6 - HEEN"
+      },
+      {
+        "id": 411185,
+        "name": "Dota 2 Player Profiles: EHOME - ROTK"
+      },
+      {
+        "id": 411186,
+        "name": "Dota 2 Player Profiles: Cloud9 - N0Tail"
+      },
+      {
+        "id": 411187,
+        "name": "Dota 2 Player Profiles: Complexity - zfreek"
+      },
+      {
+        "id": 411188,
+        "name": "Dota 2 Player Profiles: Empire - Alohadance"
+      },
+      {
+        "id": 411189,
+        "name": "Dota 2 Player Profiles: Fnatic - Kecik-Imba"
+      },
+      {
+        "id": 411190,
+        "name": "Dota 2 Player Profiles: LGD - Xiao8"
+      },
+      {
+        "id": 411191,
+        "name": "Dota 2 Player Profiles: Newbee - Mu"
+      },
+      {
+        "id": 411192,
+        "name": "Dota 2 Player Profiles: Team Secret - S4"
+      },
+      {
+        "id": 411193,
+        "name": "Dota 2 Player Profiles: Vici - fy"
+      },
+      {
+        "id": 411194,
+        "name": "Dota 2 Player Profiles: Virtus.Pro - FNG"
+      },
+      {
+        "id": 413851,
+        "name": "CS:GO Player Profiles: n0thing - Cloud9"
+      },
+      {
+        "id": 413852,
+        "name": "CS:GO Player Profiles:  TaZ - Virtus.Pro"
+      },
+      {
+        "id": 413853,
+        "name": "CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas"
+      },
+      {
+        "id": 413854,
+        "name": "CS:GO Player Profiles: olofmeister - fnatic"
+      },
+      {
+        "id": 413855,
+        "name": "CS:GO Player Profiles: kennyS - Team Envyus"
+      },
+      {
+        "id": 413856,
+        "name": "CS:GO Player Profiles: Edward - Na'Vi"
+      },
+      {
+        "id": 413857,
+        "name": "CS:GO Player Profiles: markeloff - Flipsid3"
+      },
+      {
+        "id": 413858,
+        "name": "CS:GO Player Profiles: device - Team SoloMid"
+      },
+      {
+        "id": 413859,
+        "name": "CS:GO Player Profiles: FalleN - Luminosity"
+      },
+      {
+        "id": 419910,
+        "name": "Dota 2 Player Profiles: CDEC's Journey to The Majors"
+      },
+      {
+        "id": 420090,
+        "name": "Dota 2 Player Profiles: EG Champions of TI5"
+      },
+      {
+        "id": 450390,
+        "name": "The Lab"
+      },
+      {
+        "id": 458250,
+        "name": "CS:GO Player Profiles: karrigan - Astralis"
+      },
+      {
+        "id": 458260,
+        "name": "CS:GO Player Profiles: pashaBiceps - Virtus.Pro"
+      },
+      {
+        "id": 458270,
+        "name": "CS:GO Player Profiles: Guardian - Na'Vi"
+      },
+      {
+        "id": 458280,
+        "name": "CS:GO Player Profiles: Happy - Team EnVyUs"
+      },
+      {
+        "id": 458300,
+        "name": "CS:GO Player Profiles: fnx - Luminosity"
+      },
+      {
+        "id": 458310,
+        "name": "CS:GO Player Profiles: Friberg - Ninjas in Pyjamas"
+      },
+      {
+        "id": 458320,
+        "name": "CS:GO Player Profiles: Maikelele - FaZe"
+      },
+      {
+        "id": 497810,
+        "name": "CS:GO Player Profiles: Fer - SK Gaming"
+      },
+      {
+        "id": 497811,
+        "name": "CS:GO Player Profiles: Dupreeh - Astralis"
+      },
+      {
+        "id": 497812,
+        "name": "CS:GO Player Profiles: Tarik - Counter Logic Gaming"
+      },
+      {
+        "id": 497813,
+        "name": "CS:GO Player Profiles: Hiko - Team Liquid"
+      },
+      {
+        "id": 523480,
+        "name": "Dota 2 Player Profiles: Vici Gaming Reborn - END"
+      },
+      {
+        "id": 523481,
+        "name": "Dota 2 Player Profiles: OG - Fly"
+      },
+      {
+        "id": 523482,
+        "name": "Dota 2 Player Profiles: EHOME - iceiceice"
+      },
+      {
+        "id": 523483,
+        "name": "Dota 2 Player Profiles: Team Liquid - MATUMBAMAN"
+      },
+      {
+        "id": 523484,
+        "name": "Dota 2 Player Profiles: LGD - Maybe"
+      },
+      {
+        "id": 523485,
+        "name": "Dota 2 Player Profiles: MVP Phoenix - QO"
+      },
+      {
+        "id": 523486,
+        "name": "Dota 2 Player Profiles: Not Playing Dota with Complexity"
+      },
+      {
+        "id": 523487,
+        "name": "Dota 2 Player Profiles: Not Playing Dota with Dendi"
+      },
+      {
+        "id": 523488,
+        "name": "Dota 2 Player Profiles: Not Playing Dota with END"
+      },
+      {
+        "id": 523489,
+        "name": "Dota 2 Player Profiles: Not Playing Dota With MATUMBAMAN"
+      },
+      {
+        "id": 523490,
+        "name": "Dota 2 Player Profiles: Not Playing Dota With QO"
+      },
+      {
+        "id": 583950,
+        "name": "Artifact"
+      },
+      {
+        "id": 585280,
+        "name": "CS:GO Player Profiles: Counter-Strike: A Brief History"
+      },
+      {
+        "id": 585281,
+        "name": "CS:GO Player Profiles: Zeus - Gambit"
+      },
+      {
+        "id": 585282,
+        "name": "CS:GO Player Profiles: coldzera – SK Gaming"
+      },
+      {
+        "id": 585283,
+        "name": "CS:GO Player Profiles: s1mple – Natus Vincere"
+      },
+      {
+        "id": 702690,
+        "name": "Dota 2 Player Profiles: OG - ANA"
+      },
+      {
+        "id": 702691,
+        "name": "Dota 2 Player Profiles: Invictus Gaming -  BurNIng"
+      },
+      {
+        "id": 702692,
+        "name": "Dota 2 Player Profiles: Team Liquid - Miracle-"
+      },
+      {
+        "id": 702693,
+        "name": "Dota 2 Player Profiles: Virtus.Pro"
+      },
+      {
+        "id": 702694,
+        "name": "Dota 2 Player Profiles: Not Playing Dota With ANA"
+      },
+      {
+        "id": 702695,
+        "name": "Dota 2 Player Profiles: Not Playing Dota with Universe and Zai"
+      },
+      {
+        "id": 702696,
+        "name": "Dota 2 Player Profiles: Not Playing Dota With Virtus.Pro"
+      },
+      {
+        "id": 1046930,
+        "name": "Dota Underlords"
+      },
+      {
+        "id": 1269260,
+        "name": "Artifact Foundry"
+      },
+      {
+        "id": 1422450,
+        "name": "Deadlock"
+      },
+      {
+        "id": 4465480,
+        "name": "Counter-Strike:Global Offensive"
+      }
+    ]
+  },
+  "世嘉": {
+    "如龙系列": [
+      {
+        "id": 1235140,
+        "name": "如龙0"
+      },
+      {
+        "id": 638970,
+        "name": "如龙：极"
+      },
+      {
+        "id": 834530,
+        "name": "如龙：极2"
+      },
+      {
+        "id": 1235150,
+        "name": "如龙3"
+      },
+      {
+        "id": 1235160,
+        "name": "如龙4"
+      },
+      {
+        "id": 1235170,
+        "name": "如龙5"
+      },
+      {
+        "id": 1235180,
+        "name": "如龙6"
+      },
+      {
+        "id": 1235190,
+        "name": "如龙7"
+      },
+      {
+        "id": 1827240,
+        "name": "如龙7外传"
+      },
+      {
+        "id": 2375550,
+        "name": "如龙8"
+      }
+    ],
+    "索尼克系列": [
+      {
+        "id": 637100,
+        "name": "索尼克：力量"
+      },
+      {
+        "id": 1237320,
+        "name": "索尼克：超级巨星"
+      },
+      {
+        "id": 1634130,
+        "name": "索尼克 未知边境"
+      },
+      {
+        "id": 2051220,
+        "name": "索尼克×暗影 世代"
+      },
+      {
+        "id": 1857880,
+        "name": "索尼克 起源"
+      }
+    ],
+    "全面战争系列": [
+      {
+        "id": 779340,
+        "name": "全面战争：三国"
+      },
+      {
+        "id": 594570,
+        "name": "全面战争：战锤2"
+      },
+      {
+        "id": 1142710,
+        "name": "全面战争：战锤3"
+      },
+      {
+        "id": 214950,
+        "name": "全面战争：罗马2"
+      },
+      {
+        "id": 325610,
+        "name": "全面战争：阿提拉"
+      },
+      {
+        "id": 34330,
+        "name": "全面战争：帝国"
+      },
+      {
+        "id": 10500,
+        "name": "全面战争：中世纪2"
+      },
+      {
+        "id": 4700,
+        "name": "全面战争：罗马"
+      },
+      {
+        "id": 884390,
+        "name": "全面战争传奇：不列颠王座"
+      },
+      {
+        "id": 934060,
+        "name": "全面战争传奇：特洛伊"
+      }
+    ],
+    "女神异闻录系列": [
+      {
+        "id": 1446780,
+        "name": "女神异闻录5 皇家版"
+      },
+      {
+        "id": 1612660,
+        "name": "女神异闻录4 黄金版"
+      },
+      {
+        "id": 1882280,
+        "name": "女神异闻录3 携带版"
+      },
+      {
+        "id": 1875780,
+        "name": "女神异闻录5 乱战"
+      },
+      {
+        "id": 2066420,
+        "name": "女神异闻语5 幻影X"
+      }
+    ],
+    "其他世嘉游戏": [
+      {
+        "id": 4560,
+        "name": "Company of Heroes - Legacy Edition"
+      },
+      {
+        "id": 4570,
+        "name": "《Warhammer 40,000: Dawn of War》——周年纪念版 "
+      },
+      {
+        "id": 4580,
+        "name": "Warhammer® 40,000: Dawn of War® - Dark Crusade"
+      },
+      {
+        "id": 4760,
+        "name": "Rome: Total War™ - Collection"
+      },
+      {
+        "id": 4770,
+        "name": "Rome: Total War™ - Alexander"
+      },
+      {
+        "id": 6800,
+        "name": "Commandos: Behind Enemy Lines"
+      },
+      {
+        "id": 6840,
+        "name": "Commandos 3: Destination Berlin"
+      },
+      {
+        "id": 9310,
+        "name": "Warhammer® 40,000: Dawn of War® – Winter Assault"
+      },
+      {
+        "id": 9340,
+        "name": "Company of Heroes: Opposing Fronts"
+      },
+      {
+        "id": 9450,
+        "name": "Warhammer® 40,000: Dawn of War® - Soulstorm"
+      },
+      {
+        "id": 15620,
+        "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)"
+      },
+      {
+        "id": 20540,
+        "name": "Company of Heroes: Tales of Valor"
+      },
+      {
+        "id": 20570,
+        "name": "Warhammer® 40,000: Dawn of War® II Chaos Rising"
+      },
+      {
+        "id": 34010,
+        "name": "Alpha Protocol™"
+      },
+      {
+        "id": 34200,
+        "name": "Aliens vs. Predator Demo"
+      },
+      {
+        "id": 34220,
+        "name": "Football Manager 2011"
+      },
+      {
+        "id": 34350,
+        "name": "Total War: SHOGUN 2 Demo"
+      },
+      {
+        "id": 56400,
+        "name": "Warhammer 40,000: Dawn of War II: Retribution"
+      },
+      {
+        "id": 71340,
+        "name": "Sonic Generations Collection"
+      },
+      {
+        "id": 99300,
+        "name": "Renegade Ops"
+      },
+      {
+        "id": 202290,
+        "name": "Sonic Generations Demo"
+      },
+      {
+        "id": 203750,
+        "name": "Binary Domain"
+      },
+      {
+        "id": 205230,
+        "name": "Hell Yeah! Wrath of the Dead Rabbit"
+      },
+      {
+        "id": 208140,
+        "name": "ENDLESS Space™ - Definitive Edition"
+      },
+      {
+        "id": 210310,
+        "name": "Binary Domain Demo"
+      },
+      {
+        "id": 211160,
+        "name": "Viking: Battle for Asgard"
+      },
+      {
+        "id": 212480,
+        "name": "Sonic & All-Stars Racing Transformed Collection"
+      },
+      {
+        "id": 212560,
+        "name": "Hell Yeah! Demo"
+      },
+      {
+        "id": 213610,
+        "name": "Sonic Adventure 2"
+      },
+      {
+        "id": 214490,
+        "name": "Alien: Isolation"
+      },
+      {
+        "id": 215690,
+        "name": "Zeno Clash 2"
+      },
+      {
+        "id": 228200,
+        "name": "Company of Heroes"
+      },
+      {
+        "id": 231430,
+        "name": "Company of Heroes 2"
+      },
+      {
+        "id": 258910,
+        "name": "Citizens of Earth"
+      },
+      {
+        "id": 261510,
+        "name": "Tesla Effect: A Tex Murphy Adventure"
+      },
+      {
+        "id": 285190,
+        "name": "Warhammer 40,000: Dawn of War III"
+      },
+      {
+        "id": 294860,
+        "name": "Valkyria Chronicles™"
+      },
+      {
+        "id": 301120,
+        "name": "Eastside Hockey Manager"
+      },
+      {
+        "id": 364360,
+        "name": "全面战争：战锤"
+      },
+      {
+        "id": 374360,
+        "name": "Tembo The Badass Elephant Demo"
+      },
+      {
+        "id": 392110,
+        "name": "ENDLESS Space™ 2"
+      },
+      {
+        "id": 460790,
+        "name": "Bayonetta"
+      },
+      {
+        "id": 460810,
+        "name": "Vanquish"
+      },
+      {
+        "id": 535930,
+        "name": "双点医院"
+      },
+      {
+        "id": 584400,
+        "name": "Sonic Mania"
+      },
+      {
+        "id": 758330,
+        "name": "Shenmue I & II"
+      },
+      {
+        "id": 790820,
+        "name": "战场女武神４ 最终版"
+      },
+      {
+        "id": 809890,
+        "name": "光明之響 龍奏回音"
+      },
+      {
+        "id": 814380,
+        "name": "只狼：影逝二度"
+      },
+      {
+        "id": 885970,
+        "name": "全面战争：罗马 重制版"
+      },
+      {
+        "id": 893180,
+        "name": "Catherine Classic"
+      },
+      {
+        "id": 1088710,
+        "name": "人中之龙３"
+      },
+      {
+        "id": 1105500,
+        "name": "人中之龙４　继承传说者"
+      },
+      {
+        "id": 1124300,
+        "name": "人类"
+      },
+      {
+        "id": 1211680,
+        "name": "足球经理2020"
+      },
+      {
+        "id": 1245620,
+        "name": "艾尔登法环"
+      },
+      {
+        "id": 1382330,
+        "name": "Persona® 5 Strikers"
+      },
+      {
+        "id": 1569580,
+        "name": "足球经理2021"
+      },
+      {
+        "id": 1649080,
+        "name": "双点校园 "
+      },
+      {
+        "id": 1687950,
+        "name": "女神异闻录5皇家版"
+      },
+      {
+        "id": 1778830,
+        "name": "足球经理2022"
+      },
+      {
+        "id": 1805480,
+        "name": "人中之龙 维新！极"
+      },
+      {
+        "id": 1810820,
+        "name": "世界树的迷宫Ⅲ 星海的访客 HD REMASTER"
+      },
+      {
+        "id": 1868170,
+        "name": "世界树的迷宫Ⅱ 诸王的圣杯 HD REMASTER"
+      },
+      {
+        "id": 1868180,
+        "name": "世界树的迷宫 HD REMASTER"
+      },
+      {
+        "id": 2055620,
+        "name": "足球经理2023"
+      },
+      {
+        "id": 2252570,
+        "name": "足球经理2024"
+      },
+      {
+        "id": 2277820,
+        "name": "《人中之龙 维新！ 极》战斗体验版"
+      },
+      {
+        "id": 2698720,
+        "name": "足球经理2025"
+      },
+      {
+        "id": 3130330,
+        "name": "暗喻幻想：ReFantazio～序章试玩版～"
+      },
+      {
+        "id": 3185590,
+        "name": "真·女神转生Ⅴ Vengeance Demo"
+      },
+      {
+        "id": 3352550,
+        "name": "人中之龙８外传 Pirates in Hawaii 体验版"
+      },
+      {
+        "id": 3358440,
+        "name": "女神异闻录３ Reload DEMO"
+      },
+      {
+        "id": 3551340,
+        "name": "足球经理26"
+      },
+      {
+        "id": 3601140,
+        "name": "《索尼克赛车 交叉世界》体验版"
+      },
+      {
+        "id": 3717330,
+        "name": "人中之龙 极"
+      },
+      {
+        "id": 3717340,
+        "name": "人中之龙 极２"
+      },
+      {
+        "id": 3948220,
+        "name": "人中之龙 极３ / 人中之龙３外传 Dark Ties 体验版"
+      }
+    ]
+  },
+  "艺电": {
+    "FIFA / EA FC 系列": [
+      {
+        "id": 1506830,
+        "name": "FIFA 22"
+      },
+      {
+        "id": 1811260,
+        "name": "FIFA 23"
+      },
+      {
+        "id": 2195250,
+        "name": "EA FC 24"
+      },
+      {
+        "id": 2669320,
+        "name": "EA FC 25"
+      }
+    ],
+    "麦登橄榄球系列": [
+      {
+        "id": 1239520,
+        "name": "麦登橄榄球22"
+      },
+      {
+        "id": 1293430,
+        "name": "麦登橄榄球24"
+      }
+    ],
+    "其他 艺电 游戏": [
+      {
+        "id": 3350,
+        "name": "Bejeweled Deluxe"
+      },
+      {
+        "id": 3390,
+        "name": "Feeding Frenzy 2 Deluxe"
+      },
+      {
+        "id": 3410,
+        "name": "Heavy Weapon Deluxe"
+      },
+      {
+        "id": 3420,
+        "name": "Iggle Pop Deluxe"
+      },
+      {
+        "id": 11450,
+        "name": "Overlord™"
+      },
+      {
+        "id": 12830,
+        "name": "Operation Flashpoint: Dragon Rising"
+      },
+      {
+        "id": 17300,
+        "name": "Crysis"
+      },
+      {
+        "id": 17330,
+        "name": "Crysis Warhead®"
+      },
+      {
+        "id": 17340,
+        "name": "Crysis Warhead®"
+      },
+      {
+        "id": 17390,
+        "name": "SPORE™"
+      },
+      {
+        "id": 17410,
+        "name": "Mirror's Edge™"
+      },
+      {
+        "id": 17440,
+        "name": "SPORE™ Creepy & Cute Parts Pack"
+      },
+      {
+        "id": 17450,
+        "name": "Dragon Age: Origins"
+      },
+      {
+        "id": 17470,
+        "name": "Dead Space (2008)"
+      },
+      {
+        "id": 17480,
+        "name": "《命令与征服™：红色警戒 3》"
+      },
+      {
+        "id": 19680,
+        "name": "Alice: Madness Returns"
+      },
+      {
+        "id": 24720,
+        "name": "SPORE™ Galactic Adventures"
+      },
+      {
+        "id": 24790,
+        "name": "《命令与征服3：泰伯利亚战争》"
+      },
+      {
+        "id": 24800,
+        "name": "《命令与征服：红色警戒 3》起义"
+      },
+      {
+        "id": 24810,
+        "name": "命令与征服3: 凯恩之怒"
+      },
+      {
+        "id": 24980,
+        "name": "Mass Effect 2 (2010 Edition)"
+      },
+      {
+        "id": 44340,
+        "name": "Operation Flashpoint: Red River"
+      },
+      {
+        "id": 44360,
+        "name": "F1 2011"
+      },
+      {
+        "id": 47700,
+        "name": "《命令与征服 4：泰伯利亚暮光》"
+      },
+      {
+        "id": 47780,
+        "name": "Dead Space™ 2"
+      },
+      {
+        "id": 47810,
+        "name": "Dragon Age: Origins - Ultimate Edition"
+      },
+      {
+        "id": 78000,
+        "name": "Bejeweled® 3"
+      },
+      {
+        "id": 102500,
+        "name": "Kingdoms of Amalur: Reckoning™"
+      },
+      {
+        "id": 108800,
+        "name": "Crysis 2 - Maximum Edition"
+      },
+      {
+        "id": 203680,
+        "name": "F1 RACE STARS™"
+      },
+      {
+        "id": 208500,
+        "name": "F1 2012™"
+      },
+      {
+        "id": 226580,
+        "name": "F1 2014"
+      },
+      {
+        "id": 255220,
+        "name": "GRID Autosport"
+      },
+      {
+        "id": 286570,
+        "name": "F1 2015"
+      },
+      {
+        "id": 287260,
+        "name": "Toybox Turbos"
+      },
+      {
+        "id": 287340,
+        "name": "Colin McRae Rally"
+      },
+      {
+        "id": 310560,
+        "name": "DiRT Rally"
+      },
+      {
+        "id": 314070,
+        "name": "Super Mega Baseball: Extra Innings"
+      },
+      {
+        "id": 391040,
+        "name": "F1 2016"
+      },
+      {
+        "id": 421020,
+        "name": "DiRT 4"
+      },
+      {
+        "id": 515220,
+        "name": "F1™ 2017"
+      },
+      {
+        "id": 535850,
+        "name": "Micro Machines World Series"
+      },
+      {
+        "id": 690790,
+        "name": "DiRT Rally 2.0"
+      },
+      {
+        "id": 703860,
+        "name": "GRID"
+      },
+      {
+        "id": 737800,
+        "name": "F1 2018"
+      },
+      {
+        "id": 1038250,
+        "name": "DIRT 5"
+      },
+      {
+        "id": 1080110,
+        "name": "F1® 2020"
+      },
+      {
+        "id": 1172380,
+        "name": "《星球大战 绝地：陨落的武士团™》"
+      },
+      {
+        "id": 1172470,
+        "name": "Apex Legends™"
+      },
+      {
+        "id": 1222670,
+        "name": "The Sims™ 4"
+      },
+      {
+        "id": 1222680,
+        "name": "《Need for Speed™ Heat"
+      },
+      {
+        "id": 1222690,
+        "name": "《龙腾世纪审判》"
+      },
+      {
+        "id": 1222700,
+        "name": "A Way Out"
+      },
+      {
+        "id": 1222730,
+        "name": "星球大战™：战机中队"
+      },
+      {
+        "id": 1225560,
+        "name": "Unravel"
+      },
+      {
+        "id": 1225570,
+        "name": "《Unravel Two》"
+      },
+      {
+        "id": 1233570,
+        "name": "《镜之边缘：Catalyst》"
+      },
+      {
+        "id": 1237950,
+        "name": "《STAR WARS™ 前线™ II"
+      },
+      {
+        "id": 1237970,
+        "name": "Titanfall® 2"
+      },
+      {
+        "id": 1238000,
+        "name": "《Mass Effect™：Andromeda》豪华版内容"
+      },
+      {
+        "id": 1238040,
+        "name": "《龙腾世纪II》终极版"
+      },
+      {
+        "id": 1238060,
+        "name": "Dead Space™ 3"
+      },
+      {
+        "id": 1238810,
+        "name": "《战地风云 5》"
+      },
+      {
+        "id": 1238820,
+        "name": "《Battlefield 3™》"
+      },
+      {
+        "id": 1238840,
+        "name": "Battlefield™ 1"
+      },
+      {
+        "id": 1238880,
+        "name": "《Battlefield™ Hardline》终极版"
+      },
+      {
+        "id": 1328660,
+        "name": "《极品飞车：热力追踪》重制版"
+      },
+      {
+        "id": 1328670,
+        "name": "《质量效应》传奇版"
+      },
+      {
+        "id": 1426210,
+        "name": "双人成行"
+      },
+      {
+        "id": 1517290,
+        "name": "《战地风云™ 2042》"
+      },
+      {
+        "id": 1692250,
+        "name": "F1® 22"
+      },
+      {
+        "id": 1715130,
+        "name": "Crysis Remastered"
+      },
+      {
+        "id": 1774580,
+        "name": "星球大战 绝地：幸存者™"
+      },
+      {
+        "id": 1849250,
+        "name": "EA SPORTS™ WRC"
+      },
+      {
+        "id": 1938010,
+        "name": "《WILD HEARTS™》"
+      },
+      {
+        "id": 2001120,
+        "name": "双影奇境"
+      },
+      {
+        "id": 2009100,
+        "name": "不朽者传奇"
+      },
+      {
+        "id": 2229830,
+        "name": "《命令与征服：秘密行动》"
+      },
+      {
+        "id": 2229850,
+        "name": "《命令与征服：红色警戒 2 及尤里的复仇》"
+      },
+      {
+        "id": 2229880,
+        "name": "《命令与征服：泰伯利亚之阳和火风暴》"
+      },
+      {
+        "id": 2362420,
+        "name": "Mass Effect 2 (2010) Edition"
+      },
+      {
+        "id": 2555360,
+        "name": "不朽者传奇 试玩版"
+      },
+      {
+        "id": 2807960,
+        "name": "战地风云™ 6"
+      },
+      {
+        "id": 2961660,
+        "name": "《龙腾世纪™: 影障守护者》角色创建工具"
+      },
+      {
+        "id": 3081410,
+        "name": "《战地风云™ 6》Beta 公测"
+      },
+      {
+        "id": 3354750,
+        "name": "极速滑板"
+      },
+      {
+        "id": 3629260,
+        "name": "《EA SPORTS FC™ 26》SHOWCASE"
+      }
+    ]
+  },
+  "动视": {
+    "使命召唤系列": [
+      {
+        "id": 1938090,
+        "name": "使命召唤：现代战争2"
+      },
+      {
+        "id": 2519060,
+        "name": "使命召唤：现代战争3"
+      },
+      {
+        "id": 2933620,
+        "name": "使命召唤：黑色行动6"
+      },
+      {
+        "id": 1985820,
+        "name": "使命召唤：战区2.0"
+      },
+      {
+        "id": 311440,
+        "name": "使命召唤：黑色行动3"
+      },
+      {
+        "id": 202990,
+        "name": "使命召唤：黑色行动"
+      },
+      {
+        "id": 42680,
+        "name": "使命召唤：现代战争2"
+      },
+      {
+        "id": 7940,
+        "name": "使命召唤4：现代战争"
+      }
+    ],
+    "其他动视游戏": [
+      {
+        "id": 10090,
+        "name": "Call of Duty: World at War"
+      },
+      {
+        "id": 10150,
+        "name": "虐杀原形2"
+      },
+      {
+        "id": 10180,
+        "name": "Call of Duty®: Modern Warfare® 2 (2009)"
+      },
+      {
+        "id": 10190,
+        "name": "Call of Duty®: Modern Warfare® 2 (2009)"
+      },
+      {
+        "id": 115320,
+        "name": "Prototype 2"
+      },
+      {
+        "id": 202970,
+        "name": "虐杀原形"
+      },
+      {
+        "id": 209160,
+        "name": "Call of Duty®: Ghosts"
+      },
+      {
+        "id": 209170,
+        "name": "Call of Duty®: Ghosts"
+      },
+      {
+        "id": 209650,
+        "name": "Call of Duty®: Advanced Warfare - Gold Edition"
+      },
+      {
+        "id": 209660,
+        "name": "Call of Duty®: Advanced Warfare - Gold Edition"
+      },
+      {
+        "id": 212910,
+        "name": "Call of Duty: Black Ops II - Zombies"
+      },
+      {
+        "id": 292730,
+        "name": "Call of Duty®: Infinite Warfare"
+      },
+      {
+        "id": 376170,
+        "name": "小龙斯派罗三部曲"
+      },
+      {
+        "id": 393080,
+        "name": "Call of Duty®: Modern Warfare® Remastered (2017)"
+      },
+      {
+        "id": 399810,
+        "name": "Call of Cthulhu®"
+      },
+      {
+        "id": 476600,
+        "name": "Call of Duty®: WWII"
+      },
+      {
+        "id": 476620,
+        "name": "Call of Duty®: WWII"
+      },
+      {
+        "id": 737840,
+        "name": "古惑狼三部曲"
+      },
+      {
+        "id": 814380,
+        "name": "Sekiro™: Shadows Die Twice - GOTY Edition"
+      },
+      {
+        "id": 990640,
+        "name": "古惑狼4"
+      },
+      {
+        "id": 3595230,
+        "name": "《使命召唤®：现代战争® II 2022》"
+      }
+    ]
+  },
+  "贝塞斯达": {
+    "上古卷轴系列": [
+      {
+        "id": 72850,
+        "name": "上古卷轴5：天际"
+      },
+      {
+        "id": 489830,
+        "name": "上古卷轴5：天际 特别版"
+      },
+      {
+        "id": 1716740,
+        "name": "星空"
+      },
+      {
+        "id": 1746850,
+        "name": "上古卷轴4：湮没 重制版"
+      },
+      {
+        "id": 22330,
+        "name": "上古卷轴4：湮没"
+      }
+    ],
+    "辐射系列": [
+      {
+        "id": 377160,
+        "name": "辐射4"
+      },
+      {
+        "id": 22490,
+        "name": "辐射3"
+      },
+      {
+        "id": 1151340,
+        "name": "辐射76"
+      },
+      {
+        "id": 587430,
+        "name": "辐射：新维加斯"
+      }
+    ],
+    "毁灭战士系列": [
+      {
+        "id": 2280,
+        "name": "毁灭战士3"
+      },
+      {
+        "id": 379720,
+        "name": "毁灭战士"
+      },
+      {
+        "id": 782330,
+        "name": "毁灭战士：永恒"
+      },
+      {
+        "id": 1612890,
+        "name": "毁灭战士：黑暗时代"
+      }
+    ],
+    "德军总部系列": [
+      {
+        "id": 201810,
+        "name": "德军总部：新秩序"
+      },
+      {
+        "id": 350080,
+        "name": "德军总部：旧血脉"
+      },
+      {
+        "id": 612880,
+        "name": "德军总部2：新巨像"
+      },
+      {
+        "id": 1079320,
+        "name": "德军总部：新血脉"
+      }
+    ],
+    "其他贝塞斯达游戏": [
+      {
+        "id": 9060,
+        "name": "HeXen II"
+      },
+      {
+        "id": 38400,
+        "name": "Fallout: A Post Nuclear Role Playing Game"
+      },
+      {
+        "id": 38410,
+        "name": "Fallout 2: A Post Nuclear Role Playing Game"
+      },
+      {
+        "id": 38420,
+        "name": "Fallout Tactics: Brotherhood of Steel"
+      },
+      {
+        "id": 41070,
+        "name": "狂怒"
+      },
+      {
+        "id": 205100,
+        "name": "Dishonored"
+      },
+      {
+        "id": 268050,
+        "name": "The Evil Within"
+      },
+      {
+        "id": 306130,
+        "name": "《上古卷轴®OL》"
+      },
+      {
+        "id": 329960,
+        "name": "The Evil Within Demo"
+      },
+      {
+        "id": 338850,
+        "name": "狂怒2"
+      },
+      {
+        "id": 403640,
+        "name": "Dishonored 2"
+      },
+      {
+        "id": 479030,
+        "name": "DOOM Demo"
+      },
+      {
+        "id": 480490,
+        "name": "Prey"
+      },
+      {
+        "id": 548570,
+        "name": "RAGE 2"
+      },
+      {
+        "id": 588430,
+        "name": "Fallout Shelter"
+      },
+      {
+        "id": 596060,
+        "name": "Dishonored 2 Demo"
+      },
+      {
+        "id": 601430,
+        "name": "The Evil Within 2"
+      },
+      {
+        "id": 607870,
+        "name": "掠食：月崩"
+      },
+      {
+        "id": 609380,
+        "name": "Prey Demo"
+      },
+      {
+        "id": 614570,
+        "name": "Dishonored®: Death of the Outsider™"
+      },
+      {
+        "id": 722520,
+        "name": "掠食"
+      },
+      {
+        "id": 741820,
+        "name": "Prey: Typhon Hunter"
+      },
+      {
+        "id": 754730,
+        "name": "Wolfenstein II: The New Colossus Demo"
+      },
+      {
+        "id": 757570,
+        "name": "The Evil Within 2 Demo"
+      },
+      {
+        "id": 886490,
+        "name": "幽灵线：东京"
+      },
+      {
+        "id": 1106040,
+        "name": "Wolfenstein: Youngblood Demo"
+      },
+      {
+        "id": 1252330,
+        "name": "DEATHLOOP"
+      },
+      {
+        "id": 1475810,
+        "name": "Ghostwire: Tokyo"
+      },
+      {
+        "id": 1817230,
+        "name": "Hi-Fi RUSH"
+      },
+      {
+        "id": 1836200,
+        "name": "Fallout 76 Playtest"
+      },
+      {
+        "id": 2545650,
+        "name": "DOOM Eternal: idStudio"
+      },
+      {
+        "id": 2677660,
+        "name": "夺宝奇兵：古老之圈 "
+      },
+      {
+        "id": 3286930,
+        "name": "《Heretic + Hexen》"
+      }
+    ]
+  },
+  "科乐美": {
+    "合金装备系列": [
+      {
+        "id": 2131640,
+        "name": "合金装备 大师合集 Vol.1"
+      },
+      {
+        "id": 2460590,
+        "name": "合金装备Δ：食蛇者"
+      }
+    ],
+    "寂静岭系列": [
+      {
+        "id": 2124490,
+        "name": "寂静岭2 重制版"
+      }
+    ],
+    "实况足球系列": [
+      {
+        "id": 1665460,
+        "name": "eFootball 2024"
+      }
+    ],
+    "其他科乐美游戏": [
+      {
+        "id": 287700,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+      },
+      {
+        "id": 311340,
+        "name": "METAL GEAR SOLID V: GROUND ZEROES"
+      },
+      {
+        "id": 543900,
+        "name": "METAL GEAR SURVIVE"
+      },
+      {
+        "id": 1248080,
+        "name": "CYGNI: All Guns Blazing"
+      },
+      {
+        "id": 1282680,
+        "name": "魂斗罗 加鲁加行动"
+      },
+      {
+        "id": 1434680,
+        "name": "魂斗罗：流氓军团"
+      },
+      {
+        "id": 2242680,
+        "name": "合金装备 大师合集 Vol.1"
+      },
+      {
+        "id": 2400350,
+        "name": "Contra: Operation Galuga Demo"
+      },
+      {
+        "id": 3413740,
+        "name": "绝递必达 试玩版"
+      },
+      {
+        "id": 3540800,
+        "name": "EDENS ZERO TRIAL VERSION"
+      }
+    ]
+  },
+  "华纳": {
+    "蝙蝠侠系列": [
+      {
+        "id": 200260,
+        "name": "蝙蝠侠：阿卡姆骑士"
+      },
+      {
+        "id": 209000,
+        "name": "蝙蝠侠：阿卡姆之城"
+      },
+      {
+        "id": 35140,
+        "name": "蝙蝠侠：阿卡姆疯人院"
+      },
+      {
+        "id": 49520,
+        "name": "蝙蝠侠：阿卡姆起源"
+      },
+      {
+        "id": 208650,
+        "name": "乐高蝙蝠侠3"
+      },
+      {
+        "id": 313690,
+        "name": "乐高蝙蝠侠2"
+      },
+      {
+        "id": 213330,
+        "name": "乐高蝙蝠侠"
+      }
+    ],
+    "中土世界系列": [
+      {
+        "id": 260230,
+        "name": "中土世界：暗影魔多"
+      },
+      {
+        "id": 356190,
+        "name": "中土世界：战争之影"
+      }
+    ],
+    "不义联盟系列": [
+      {
+        "id": 242700,
+        "name": "不义联盟：人间之神"
+      },
+      {
+        "id": 627270,
+        "name": "不义联盟2"
+      }
+    ],
+    "其他华纳游戏": [
+      {
+        "id": 16450,
+        "name": "F.E.A.R. 2: Project Origin"
+      },
+      {
+        "id": 21000,
+        "name": "LEGO® Batman™: The Videogame"
+      },
+      {
+        "id": 21010,
+        "name": "Watchmen: The End is Nigh"
+      },
+      {
+        "id": 21030,
+        "name": "Watchmen: The End is Nigh Part 2"
+      },
+      {
+        "id": 21090,
+        "name": "F.E.A.R."
+      },
+      {
+        "id": 21100,
+        "name": "F.E.A.R. 3"
+      },
+      {
+        "id": 21110,
+        "name": "F.E.A.R."
+      },
+      {
+        "id": 21120,
+        "name": "F.E.A.R."
+      },
+      {
+        "id": 21130,
+        "name": "LEGO® Harry Potter: Years 1-4"
+      },
+      {
+        "id": 32440,
+        "name": "LEGO® Star Wars™ - The Complete Saga"
+      },
+      {
+        "id": 32510,
+        "name": "LEGO® Star Wars™ III - The Clone Wars™"
+      },
+      {
+        "id": 167220,
+        "name": "疯狂的麦克斯"
+      },
+      {
+        "id": 204120,
+        "name": "LEGO® Harry Potter: Years 5-7"
+      },
+      {
+        "id": 208650,
+        "name": "乐高星球大战：天行者传奇"
+      },
+      {
+        "id": 214510,
+        "name": "LEGO® The Lord of the Rings™"
+      },
+      {
+        "id": 218680,
+        "name": "Scribblenauts Unlimited"
+      },
+      {
+        "id": 234140,
+        "name": "Mad Max"
+      },
+      {
+        "id": 241930,
+        "name": "Middle-earth™: Shadow of Mordor™"
+      },
+      {
+        "id": 248370,
+        "name": "真人快打10"
+      },
+      {
+        "id": 249130,
+        "name": "LEGO® Marvel™ Super Heroes"
+      },
+      {
+        "id": 249680,
+        "name": "乐高霍比特人"
+      },
+      {
+        "id": 249870,
+        "name": "Scribblenauts Unmasked: A DC Comics Adventure"
+      },
+      {
+        "id": 258970,
+        "name": "Gauntlet™ Slayer Edition"
+      },
+      {
+        "id": 267490,
+        "name": "Batman™: Arkham Origins Blackgate - Deluxe Edition"
+      },
+      {
+        "id": 267530,
+        "name": "The LEGO® Movie - Videogame"
+      },
+      {
+        "id": 285160,
+        "name": "LEGO® The Hobbit™"
+      },
+      {
+        "id": 307780,
+        "name": "真人快打XL"
+      },
+      {
+        "id": 311770,
+        "name": "LEGO® Pirates of the Caribbean: The Video Game"
+      },
+      {
+        "id": 315210,
+        "name": "自杀小队：消灭正义联盟"
+      },
+      {
+        "id": 352400,
+        "name": "LEGO® Jurassic World"
+      },
+      {
+        "id": 361710,
+        "name": "Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 2)"
+      },
+      {
+        "id": 361720,
+        "name": "Mortal Kombat: Legacy: Johnny Cage"
+      },
+      {
+        "id": 361730,
+        "name": "Mortal Kombat: Legacy: Kitana & Mileena (Part 1)"
+      },
+      {
+        "id": 361740,
+        "name": "Mortal Kombat: Legacy: Kitana & Mileena (Part 2)"
+      },
+      {
+        "id": 361750,
+        "name": "Mortal Kombat: Legacy: Raiden"
+      },
+      {
+        "id": 361760,
+        "name": "Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 1)"
+      },
+      {
+        "id": 361770,
+        "name": "Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)"
+      },
+      {
+        "id": 361780,
+        "name": "Mortal Kombat: Legacy: Cyrax & Sektor"
+      },
+      {
+        "id": 362180,
+        "name": "Mortal Kombat: Legacy II: Reunited in Macau"
+      },
+      {
+        "id": 362190,
+        "name": "Mortal Kombat: Legacy II: The Fall of Liu Kang"
+      },
+      {
+        "id": 362220,
+        "name": "Mortal Kombat: Legacy II: Kitana and Mileena"
+      },
+      {
+        "id": 362230,
+        "name": "Mortal Kombat: Legacy II: Johnny Cage"
+      },
+      {
+        "id": 362270,
+        "name": "Mortal Kombat: Legacy II: Liu Kang and Kung Lao"
+      },
+      {
+        "id": 405310,
+        "name": "LEGO® MARVEL's Avengers"
+      },
+      {
+        "id": 438640,
+        "name": "LEGO® STAR WARS™: The Force Awakens"
+      },
+      {
+        "id": 495460,
+        "name": "Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 1)"
+      },
+      {
+        "id": 578330,
+        "name": "LEGO® City Undercover"
+      },
+      {
+        "id": 647830,
+        "name": "LEGO® Marvel Super Heroes 2"
+      },
+      {
+        "id": 818320,
+        "name": "LEGO® The Incredibles"
+      },
+      {
+        "id": 829110,
+        "name": "LEGO® DC Super-Villains"
+      },
+      {
+        "id": 924970,
+        "name": "喋血复仇"
+      },
+      {
+        "id": 976310,
+        "name": "真人快打11"
+      },
+      {
+        "id": 976730,
+        "name": "霍格沃茨之遗"
+      },
+      {
+        "id": 990080,
+        "name": "霍格沃茨之遗"
+      },
+      {
+        "id": 1920490,
+        "name": "哥谭骑士"
+      },
+      {
+        "id": 1970100,
+        "name": "LEGO® Bricktales Demo"
+      },
+      {
+        "id": 1971870,
+        "name": "真人快打 1 "
+      },
+      {
+        "id": 2878600,
+        "name": "哈利·波特：魁地奇锦标赛"
+      }
+    ]
+  },
+  "微软": {
+    "光环系列": [
+      {
+        "id": 976730,
+        "name": "光环：无限"
+      },
+      {
+        "id": 1064220,
+        "name": "光环：士官长合集"
+      }
+    ],
+    "战争机器系列": [
+      {
+        "id": 1097220,
+        "name": "战争机器5"
+      },
+      {
+        "id": 1092720,
+        "name": "战争机器4"
+      }
+    ],
+    "极限竞速系列": [
+      {
+        "id": 1551360,
+        "name": "极限竞速：地平线5"
+      },
+      {
+        "id": 1293830,
+        "name": "极限竞速：地平线4"
+      },
+      {
+        "id": 249740,
+        "name": "极限竞速：地平线3"
+      }
+    ],
+    "其他微软游戏": [
+      {
+        "id": 26000,
+        "name": "The Maw"
+      },
+      {
+        "id": 211400,
+        "name": "Deadlight"
+      },
+      {
+        "id": 236090,
+        "name": "Dust: An Elysian Tail"
+      },
+      {
+        "id": 255390,
+        "name": "Max: The Curse of Brotherhood"
+      },
+      {
+        "id": 261570,
+        "name": "Ori and the Blind Forest"
+      },
+      {
+        "id": 287450,
+        "name": "Rise of Nations: Extended Edition"
+      },
+      {
+        "id": 291650,
+        "name": "Pillars of Eternity"
+      },
+      {
+        "id": 314160,
+        "name": "Microsoft Flight Simulator X: Steam Edition"
+      },
+      {
+        "id": 320240,
+        "name": "We Happy Few"
+      },
+      {
+        "id": 329430,
+        "name": "State of Decay: YOSE"
+      },
+      {
+        "id": 361260,
+        "name": "我的世界：地下城"
+      },
+      {
+        "id": 387290,
+        "name": "Ori and the Blind Forest: Definitive Edition"
+      },
+      {
+        "id": 459220,
+        "name": "Halo Wars: Definitive Edition"
+      },
+      {
+        "id": 474960,
+        "name": "Quantum Break"
+      },
+      {
+        "id": 537450,
+        "name": "ReCore: Definitive Edition"
+      },
+      {
+        "id": 847360,
+        "name": "Super Lucky's Tale"
+      },
+      {
+        "id": 847370,
+        "name": "Sunset Overdrive"
+      },
+      {
+        "id": 933110,
+        "name": "Age of Empires III: Definitive Edition"
+      },
+      {
+        "id": 1057090,
+        "name": "Ori and the Will of the Wisps"
+      },
+      {
+        "id": 1222670,
+        "name": "模拟人生4"
+      },
+      {
+        "id": 1240440,
+        "name": "地狱之刃2"
+      },
+      {
+        "id": 1245620,
+        "name": "艾尔登法环"
+      },
+      {
+        "id": 1341820,
+        "name": "As Dusk Falls"
+      },
+      {
+        "id": 1766060,
+        "name": "盗贼之海"
+      }
+    ]
+  },
+  "蠢驴": {
+    "巫师系列": [
+      {
+        "id": 292030,
+        "name": "巫师3：狂猎"
+      },
+      {
+        "id": 2054970,
+        "name": "巫师3：狂猎 完全版"
+      },
+      {
+        "id": 499460,
+        "name": "巫师之昆特牌"
+      },
+      {
+        "id": 268500,
+        "name": "巫师2：刺客之王"
+      },
+      {
+        "id": 20920,
+        "name": "巫师：加强版"
+      }
+    ],
+    "赛博朋克系列": [
+      {
+        "id": 1091500,
+        "name": "赛博朋克2077"
+      },
+      {
+        "id": 2138330,
+        "name": "赛博朋克2077：往日之影"
+      }
+    ],
+    "其他 蠢驴 游戏": [
+      {
+        "id": 20900,
+        "name": "The Witcher: Enhanced Edition Director's Cut"
+      },
+      {
+        "id": 318600,
+        "name": "洪潮之焰 / The Flame in the Flood"
+      },
+      {
+        "id": 2684660,
+        "name": "《巫师 3》REDkit 模组编辑工具"
+      }
+    ]
+  },
+  "万代": {
+    "铁拳系列": [
+      {
+        "id": 389730,
+        "name": "铁拳7"
+      },
+      {
+        "id": 1778820,
+        "name": "铁拳8"
+      }
+    ],
+    "龙珠系列": [
+      {
+        "id": 542050,
+        "name": "龙珠斗士Z"
+      },
+      {
+        "id": 827840,
+        "name": "龙珠超宇宙2"
+      },
+      {
+        "id": 1147370,
+        "name": "龙珠：超宇宙"
+      }
+    ],
+    "火影忍者系列": [
+      {
+        "id": 1136620,
+        "name": "火影忍者：忍者先锋"
+      },
+      {
+        "id": 440250,
+        "name": "火影忍者疾风传：究极忍者风暴4"
+      },
+      {
+        "id": 349040,
+        "name": "火影忍者疾风传：究极忍者风暴3"
+      }
+    ],
+    "其他万代游戏": [
+      {
+        "id": 209040,
+        "name": "Ridge Racer Unbounded Demo"
+      },
+      {
+        "id": 211420,
+        "name": "DARK SOULS™: Prepare To Die™ Edition"
+      },
+      {
+        "id": 228400,
+        "name": "Ace Combat Assault Horizon - Enhanced Edition"
+      },
+      {
+        "id": 234630,
+        "name": "Project CARS"
+      },
+      {
+        "id": 234670,
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD"
+      },
+      {
+        "id": 236430,
+        "name": "黑暗之魂2"
+      },
+      {
+        "id": 236450,
+        "name": "PAC-MAN™ Championship Edition DX+"
+      },
+      {
+        "id": 236490,
+        "name": "Hexodius"
+      },
+      {
+        "id": 245280,
+        "name": "ENSLAVED™: Odyssey to the West™ Premium Edition"
+      },
+      {
+        "id": 247260,
+        "name": "PAC-MAN Championship Edition DX+ Demo"
+      },
+      {
+        "id": 264540,
+        "name": "Platformines"
+      },
+      {
+        "id": 272510,
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
+      },
+      {
+        "id": 374320,
+        "name": "黑暗之魂3"
+      },
+      {
+        "id": 414130,
+        "name": "小小梦魇"
+      },
+      {
+        "id": 468000,
+        "name": "Impact Winter"
+      },
+      {
+        "id": 495140,
+        "name": "NARUTO: Ultimate Ninja STORM"
+      },
+      {
+        "id": 525480,
+        "name": ".hack//G.U. Last Recode"
+      },
+      {
+        "id": 544750,
+        "name": "SOULCALIBUR VI"
+      },
+      {
+        "id": 550350,
+        "name": "Tales of Berseria™ Demo"
+      },
+      {
+        "id": 570940,
+        "name": "黑暗之魂：重制版"
+      },
+      {
+        "id": 607880,
+        "name": "Accel World VS. Sword Art Online Deluxe Edition"
+      },
+      {
+        "id": 607890,
+        "name": "Sword Art Online: Hollow Realization Deluxe Edition"
+      },
+      {
+        "id": 626690,
+        "name": "Sword Art Online: Fatal Bullet"
+      },
+      {
+        "id": 633230,
+        "name": "NARUTO TO BORUTO: SHINOBI STRIKER"
+      },
+      {
+        "id": 638650,
+        "name": "Sword Art Online Re: Hollow Fragment"
+      },
+      {
+        "id": 678950,
+        "name": "DRAGON BALL FighterZ"
+      },
+      {
+        "id": 678960,
+        "name": "黑暗之魂 重制版"
+      },
+      {
+        "id": 710470,
+        "name": "Little Witch Academia: Chamber of Time"
+      },
+      {
+        "id": 714080,
+        "name": "BLACK CLOVER: QUARTET KNIGHTS"
+      },
+      {
+        "id": 735580,
+        "name": "11-11 Memories Retold"
+      },
+      {
+        "id": 740130,
+        "name": "破晓传奇"
+      },
+      {
+        "id": 746970,
+        "name": ".hack//G.U. Last Recode Demo"
+      },
+      {
+        "id": 816020,
+        "name": "JUMP FORCE"
+      },
+      {
+        "id": 851850,
+        "name": "七龙珠Z 卡卡洛特"
+      },
+      {
+        "id": 860510,
+        "name": "小小梦魇2"
+      },
+      {
+        "id": 939850,
+        "name": "The Dark Pictures Anthology: Man of Medan"
+      },
+      {
+        "id": 972660,
+        "name": "《Spiritfarer®》Farewell版"
+      },
+      {
+        "id": 996250,
+        "name": "SUPER DRAGON BALL HEROES WORLD MISSION Demo Version"
+      },
+      {
+        "id": 1016240,
+        "name": "The Dark Pictures Anthology - Man of Medan Demo"
+      },
+      {
+        "id": 1065320,
+        "name": "小小梦魇2"
+      },
+      {
+        "id": 1089090,
+        "name": "ONE PIECE 海贼无双4"
+      },
+      {
+        "id": 1163550,
+        "name": "队长小翼 新秀崛起"
+      },
+      {
+        "id": 1192670,
+        "name": "CODE VEIN Demo"
+      },
+      {
+        "id": 1194630,
+        "name": "The Dark Pictures Anthology: Little Hope"
+      },
+      {
+        "id": 1245480,
+        "name": "奇异贤伴 爱达之歌"
+      },
+      {
+        "id": 1245620,
+        "name": "艾尔登法环"
+      },
+      {
+        "id": 1269060,
+        "name": "The Dark Pictures Anthology: Little Hope Demo"
+      },
+      {
+        "id": 1281590,
+        "name": "黑相集：灰冥界"
+      },
+      {
+        "id": 1392860,
+        "name": "小小梦魇3"
+      },
+      {
+        "id": 1443440,
+        "name": "Little Nightmares II Demo"
+      },
+      {
+        "id": 1458040,
+        "name": "Tales of Arise Demo"
+      },
+      {
+        "id": 1490890,
+        "name": "鬼灭之刃 火之神血风谭"
+      },
+      {
+        "id": 1567020,
+        "name": "《黑相集：心中魔》"
+      },
+      {
+        "id": 1656830,
+        "name": "The Dark Pictures Anthology: House of Ashes Demo"
+      },
+      {
+        "id": 1665140,
+        "name": "绯红结系 Story Demo"
+      },
+      {
+        "id": 1755070,
+        "name": "七龙珠Z 卡卡洛特 体验版"
+      },
+      {
+        "id": 1775270,
+        "name": "The Dark Pictures Anthology: House of Ashes - Friend's Pass"
+      },
+      {
+        "id": 1858630,
+        "name": "刀剑神域 碎梦边境"
+      },
+      {
+        "id": 1959910,
+        "name": "The Dark Pictures Anthology: The Devil in Me Demo"
+      },
+      {
+        "id": 2011600,
+        "name": "JOJO的奇妙冒险 群星之战 重制版 体验版"
+      },
+      {
+        "id": 2019400,
+        "name": "哆啦A梦 牧场物语 自然王国与和乐家人 体验版"
+      },
+      {
+        "id": 2149010,
+        "name": "小小梦魇 强化版"
+      },
+      {
+        "id": 2285890,
+        "name": "The Dark Pictures Anthology: The Devil In Me - Friend's Pass"
+      },
+      {
+        "id": 2296830,
+        "name": "刀剑神域 异绊集结 DEMO"
+      },
+      {
+        "id": 2524440,
+        "name": "TEKKEN 8 - DEMO"
+      },
+      {
+        "id": 2622380,
+        "name": "艾尔登法环 黑夜君临"
+      },
+      {
+        "id": 2707170,
+        "name": "咒术回战 双华乱舞 体验版"
+      },
+      {
+        "id": 3040760,
+        "name": "太鼓之达人 咚咚雷音祭 体验版"
+      },
+      {
+        "id": 3815860,
+        "name": "数码宝贝物语 时空异客 体验版"
+      }
+    ]
+  },
+  "深银": {
+    "地铁系列": [
+      {
+        "id": 286690,
+        "name": "地铁2033 Redux"
+      },
+      {
+        "id": 287390,
+        "name": "地铁：最后的曙光 Redux"
+      },
+      {
+        "id": 412020,
+        "name": "地铁：离去"
+      },
+      {
+        "id": 1449560,
+        "name": "地铁：离去 增强版"
+      }
+    ],
+    "死亡岛系列": [
+      {
+        "id": 383150,
+        "name": "死亡岛2"
+      },
+      {
+        "id": 216250,
+        "name": "死亡岛"
+      },
+      {
+        "id": 216260,
+        "name": "死亡岛：激流"
+      }
+    ],
+    "其他深银游戏": [
+      {
+        "id": 3270,
+        "name": "Painkiller Overdose"
+      },
+      {
+        "id": 9480,
+        "name": "Saints Row 2"
+      },
+      {
+        "id": 20500,
+        "name": "Red Faction Guerrilla Steam Edition"
+      },
+      {
+        "id": 40300,
+        "name": "Risen"
+      },
+      {
+        "id": 43110,
+        "name": "Metro 2033"
+      },
+      {
+        "id": 50620,
+        "name": "暗黑血统"
+      },
+      {
+        "id": 55100,
+        "name": "Homefront"
+      },
+      {
+        "id": 55110,
+        "name": "Red Faction®: Armageddon™"
+      },
+      {
+        "id": 55230,
+        "name": "Saints Row: The Third"
+      },
+      {
+        "id": 55370,
+        "name": "Saints Row: The Third Initiation Station"
+      },
+      {
+        "id": 65560,
+        "name": "Painkiller Redemption"
+      },
+      {
+        "id": 206420,
+        "name": "Saints Row IV: Re-Elected"
+      },
+      {
+        "id": 214870,
+        "name": "Painkiller Hell & Damnation"
+      },
+      {
+        "id": 222900,
+        "name": "Dead Island: Epidemic"
+      },
+      {
+        "id": 223100,
+        "name": "Homefront®: The Revolution"
+      },
+      {
+        "id": 242590,
+        "name": "Saints Row IV: Inauguration Station"
+      },
+      {
+        "id": 252410,
+        "name": "暗黑血统2"
+      },
+      {
+        "id": 261110,
+        "name": "Killer is Dead - Nightmare Edition"
+      },
+      {
+        "id": 301910,
+        "name": "Saints Row: Gat out of Hell"
+      },
+      {
+        "id": 304530,
+        "name": "Agents of Mayhem"
+      },
+      {
+        "id": 314710,
+        "name": "Mighty No. 9"
+      },
+      {
+        "id": 337360,
+        "name": "Dead Island Retro Revenge"
+      },
+      {
+        "id": 379430,
+        "name": "Kingdom Come: Deliverance"
+      },
+      {
+        "id": 383180,
+        "name": "Dead Island: Riptide Definitive Edition"
+      },
+      {
+        "id": 423950,
+        "name": "Deadlight: Director's Cut"
+      },
+      {
+        "id": 462780,
+        "name": "暗黑血统3"
+      },
+      {
+        "id": 667720,
+        "name": "Red Faction Guerrilla Re-Mars-tered"
+      },
+      {
+        "id": 742420,
+        "name": "Saints Row"
+      },
+      {
+        "id": 794260,
+        "name": "Outward Definitive Edition"
+      },
+      {
+        "id": 978300,
+        "name": "Saints Row®: The Third™ Remastered"
+      },
+      {
+        "id": 1162130,
+        "name": "Windbound"
+      },
+      {
+        "id": 1171690,
+        "name": "暗黑血统：创世纪"
+      },
+      {
+        "id": 1243690,
+        "name": "Gods Will Fall"
+      },
+      {
+        "id": 1791040,
+        "name": "Chorus Demo"
+      },
+      {
+        "id": 3468980,
+        "name": "METAL EDEN | Demo"
+      }
+    ]
+  },
+  "蓝洞": {
+    "PUBG 系列": [
+      {
+        "id": 578080,
+        "name": "PUBG"
+      }
+    ],
+    "其他蓝洞游戏": [
+      {
+        "id": 264710,
+        "name": "Subnautica - 深海迷航"
+      },
+      {
+        "id": 1056690,
+        "name": "The Callisto Protocol"
+      },
+      {
+        "id": 1342620,
+        "name": "月光剑士"
+      },
+      {
+        "id": 1544020,
+        "name": "《木卫四协议》"
+      }
+    ]
+  },
+  "11 bit studios": {
+    "其他 11 bit studios 游戏": [
+      {
+        "id": 91200,
+        "name": "Anomaly: Warzone Earth"
+      },
+      {
+        "id": 236730,
+        "name": "Anomaly 2"
+      },
+      {
+        "id": 251530,
+        "name": "Anomaly Korea"
+      },
+      {
+        "id": 252170,
+        "name": "Anomaly Warzone Earth Mobile Campaign"
+      },
+      {
+        "id": 263860,
+        "name": "SPACECOM"
+      },
+      {
+        "id": 282070,
+        "name": "This War of Mine"
+      },
+      {
+        "id": 294750,
+        "name": "Anomaly Defenders"
+      },
+      {
+        "id": 323190,
+        "name": "冰汽时代"
+      },
+      {
+        "id": 330020,
+        "name": "Children of Morta"
+      },
+      {
+        "id": 461950,
+        "name": "Beat Cop"
+      },
+      {
+        "id": 530950,
+        "name": "巨塔57"
+      },
+      {
+        "id": 606150,
+        "name": "Moonlighter"
+      },
+      {
+        "id": 731040,
+        "name": "无敌号"
+      },
+      {
+        "id": 1601570,
+        "name": "多重人生"
+      },
+      {
+        "id": 1684350,
+        "name": "奇唤士"
+      }
+    ]
+  },
+  "Amanita Design": {
+    "其他 Amanita Design 游戏": [
+      {
+        "id": 40700,
+        "name": "机械迷城 (Machinarium)"
+      },
+      {
+        "id": 40720,
+        "name": "Samorost 2"
+      },
+      {
+        "id": 207690,
+        "name": "植物精灵 (Botanicula)"
+      },
+      {
+        "id": 421120,
+        "name": "银河历险记3 (Samorost 3)"
+      },
+      {
+        "id": 711660,
+        "name": "毛线先生 (CHUCHEL)"
+      },
+      {
+        "id": 956030,
+        "name": "Creaks"
+      },
+      {
+        "id": 1049280,
+        "name": "朝圣者 (Pilgrims)"
+      }
+    ]
+  },
+  "Balor": {
+    "其他 Balor 游戏": [
+      {
+        "id": 113020,
+        "name": "Monaco: What's Yours Is Mine"
+      },
+      {
+        "id": 253230,
+        "name": "A Hat in Time"
+      },
+      {
+        "id": 349730,
+        "name": "Popup Dungeon"
+      },
+      {
+        "id": 371140,
+        "name": "Aegis Defenders"
+      },
+      {
+        "id": 405710,
+        "name": "Staxel"
+      },
+      {
+        "id": 431940,
+        "name": "Wildfire"
+      },
+      {
+        "id": 445980,
+        "name": "Wizard of Legend"
+      },
+      {
+        "id": 745920,
+        "name": "Temtem / 腾兽"
+      },
+      {
+        "id": 751780,
+        "name": "Forager"
+      },
+      {
+        "id": 765880,
+        "name": "The Occupation"
+      },
+      {
+        "id": 854940,
+        "name": "Ikenfell"
+      },
+      {
+        "id": 857980,
+        "name": "Void Bastards"
+      },
+      {
+        "id": 873940,
+        "name": "Crying Suns"
+      },
+      {
+        "id": 895870,
+        "name": "Project Wingman"
+      },
+      {
+        "id": 960690,
+        "name": "伊甸之路"
+      },
+      {
+        "id": 964800,
+        "name": "Prodeus"
+      },
+      {
+        "id": 995980,
+        "name": "Fae Tactics"
+      },
+      {
+        "id": 998740,
+        "name": "苦痛之环 Ring of Pain"
+      },
+      {
+        "id": 1135690,
+        "name": "Unpacking"
+      },
+      {
+        "id": 1158160,
+        "name": "Coral Island"
+      },
+      {
+        "id": 1172450,
+        "name": "Carto"
+      },
+      {
+        "id": 1390410,
+        "name": "Midnight Fight Express"
+      },
+      {
+        "id": 1920780,
+        "name": "Stray Gods: The Roleplaying Musical"
+      },
+      {
+        "id": 1931180,
+        "name": "Lost Skies"
+      },
+      {
+        "id": 2193540,
+        "name": "传说法师2"
+      }
+    ]
+  },
+  "Bohemia Interactive": {
+    "其他 Bohemia Interactive 游戏": [
+      {
+        "id": 2590,
+        "name": "Alpha Prime"
+      },
+      {
+        "id": 33910,
+        "name": "ARMA 2"
+      },
+      {
+        "id": 33930,
+        "name": "Arma 2: Operation Arrowhead"
+      },
+      {
+        "id": 33950,
+        "name": "Fish Fillets 2"
+      },
+      {
+        "id": 65700,
+        "name": "Arma 2: British Armed Forces"
+      },
+      {
+        "id": 65720,
+        "name": "Arma 2: Private Military Company"
+      },
+      {
+        "id": 65730,
+        "name": "Take On Helicopters"
+      },
+      {
+        "id": 65780,
+        "name": "ARMA: Gold Edition"
+      },
+      {
+        "id": 65790,
+        "name": "ARMA: Cold War Assault"
+      },
+      {
+        "id": 107410,
+        "name": "武装突袭3"
+      },
+      {
+        "id": 224580,
+        "name": "Arma II: DayZ Mod"
+      },
+      {
+        "id": 224860,
+        "name": "Arma Tactics"
+      },
+      {
+        "id": 233800,
+        "name": "Arma 3 Tools"
+      },
+      {
+        "id": 235320,
+        "name": "Original War"
+      },
+      {
+        "id": 237950,
+        "name": "UFO: Afterlight"
+      },
+      {
+        "id": 390500,
+        "name": "Arma 3 Samples"
+      },
+      {
+        "id": 553233,
+        "name": "Arma 3 Community Guide Series: Introduction"
+      },
+      {
+        "id": 553234,
+        "name": "Arma 3 Community Guide Series: Basic Infantry Combat"
+      },
+      {
+        "id": 553235,
+        "name": "Arma 3 Community Guide Series: MP Teamwork"
+      },
+      {
+        "id": 553236,
+        "name": "Arma 3 Community Guide Series: Helicopters"
+      },
+      {
+        "id": 553237,
+        "name": "Arma 3 Community Guide Series: Snipers & Launchers"
+      },
+      {
+        "id": 553238,
+        "name": "Arma 3 Community Guide Series: Combined Arms"
+      },
+      {
+        "id": 553239,
+        "name": "Arma 3 Community Guide Series: Air Assault"
+      },
+      {
+        "id": 553240,
+        "name": "Arma 3 Community Guide Series: Guerrilla Warfare"
+      },
+      {
+        "id": 553241,
+        "name": "Arma 3 Community Guide Series: Zeus DLC"
+      },
+      {
+        "id": 553242,
+        "name": "Arma 3 Community Guide Series: Ground Vehicle Crew"
+      },
+      {
+        "id": 553243,
+        "name": "Arma 3 Community Guide Series: Machine Gun Teams"
+      },
+      {
+        "id": 553244,
+        "name": "Arma 3 Community Guide Series: Defense"
+      },
+      {
+        "id": 553245,
+        "name": "Arma 3 Community Guide Series: Reconnaissance"
+      },
+      {
+        "id": 731200,
+        "name": "Arma 3 Community Guide Series: Jets"
+      }
+    ]
+  },
+  "CI Games": {
+    "其他 CI Games 游戏": [
+      {
+        "id": 34830,
+        "name": "Sniper: Ghost Warrior"
+      },
+      {
+        "id": 34870,
+        "name": "Sniper: Ghost Warrior 2"
+      },
+      {
+        "id": 217920,
+        "name": "Alien Rage - Unlimited"
+      },
+      {
+        "id": 256190,
+        "name": "Enemy Front"
+      },
+      {
+        "id": 265300,
+        "name": "Lords Of The Fallen™ 2014"
+      },
+      {
+        "id": 368070,
+        "name": "Sniper Ghost Warrior 3"
+      },
+      {
+        "id": 973580,
+        "name": "狙击手：幽灵战士契约"
+      },
+      {
+        "id": 1067540,
+        "name": "洛基：北欧怪奇之旅"
+      },
+      {
+        "id": 1108590,
+        "name": "上古之魂"
+      },
+      {
+        "id": 1338770,
+        "name": "狙击手：幽灵战士契约 2"
+      }
+    ]
+  },
+  "Crystal Dynamics": {
+    "其他 Crystal Dynamics 游戏": [
+      {
+        "id": 7000,
+        "name": "Tomb Raider: Legend"
+      },
+      {
+        "id": 8000,
+        "name": "Tomb Raider: Anniversary"
+      }
+    ]
+  },
+  "Cube Game": {
+    "其他 Cube Game 游戏": [
+      {
+        "id": 840140,
+        "name": "武侠乂 The Swordsmen X"
+      },
+      {
+        "id": 1186460,
+        "name": "侠道游歌"
+      },
+      {
+        "id": 1543030,
+        "name": "仙剑奇侠传七"
+      }
+    ]
+  },
+  "Daedalic": {
+    "其他 Daedalic 游戏": [
+      {
+        "id": 105000,
+        "name": "A New Beginning - Final Cut"
+      },
+      {
+        "id": 203830,
+        "name": "The Dark Eye: Chains of Satinav"
+      },
+      {
+        "id": 214340,
+        "name": "Deponia"
+      },
+      {
+        "id": 219910,
+        "name": "Edna & Harvey: Harvey's New Eyes"
+      },
+      {
+        "id": 220740,
+        "name": "Chaos on Deponia"
+      },
+      {
+        "id": 230820,
+        "name": "The Night of the Rabbit"
+      },
+      {
+        "id": 234270,
+        "name": "Ken Follett's The Pillars of the Earth"
+      },
+      {
+        "id": 241910,
+        "name": "Goodbye Deponia"
+      },
+      {
+        "id": 243200,
+        "name": "The Dark Eye: Memoria"
+      },
+      {
+        "id": 255280,
+        "name": "1954 Alcatraz"
+      },
+      {
+        "id": 255300,
+        "name": "Journey of a Roach"
+      },
+      {
+        "id": 255320,
+        "name": "Edna & Harvey: The Breakout"
+      },
+      {
+        "id": 268540,
+        "name": "The Whispered World Special Edition"
+      },
+      {
+        "id": 292910,
+        "name": "Deponia: The Complete Journey"
+      },
+      {
+        "id": 314790,
+        "name": "Silence"
+      },
+      {
+        "id": 319540,
+        "name": "A Year Of Rain"
+      },
+      {
+        "id": 327220,
+        "name": "Anna's Quest"
+      },
+      {
+        "id": 331870,
+        "name": "AER Memories of Old"
+      },
+      {
+        "id": 351910,
+        "name": "Valhalla Hills"
+      },
+      {
+        "id": 351920,
+        "name": "疯狂机器3 - Crazy Machines 3"
+      },
+      {
+        "id": 352890,
+        "name": "Caravan"
+      },
+      {
+        "id": 363600,
+        "name": "Holy Potatoes! A Weapon Shop?!"
+      },
+      {
+        "id": 366910,
+        "name": "漫漫归途 - The Long Journey Home"
+      },
+      {
+        "id": 371520,
+        "name": "赏金列车 - Bounty Train"
+      },
+      {
+        "id": 382140,
+        "name": "SKYHILL"
+      },
+      {
+        "id": 421050,
+        "name": "Deponia Doomsday"
+      },
+      {
+        "id": 437630,
+        "name": "State of Mind"
+      },
+      {
+        "id": 491950,
+        "name": "Orwell: Keeping an Eye On You"
+      },
+      {
+        "id": 505730,
+        "name": "Holy Potatoes! We’re in Space?!"
+      },
+      {
+        "id": 602960,
+        "name": "Barotrauma 潜渊症"
+      },
+      {
+        "id": 633060,
+        "name": "Orwell: Ignorance is Strength"
+      },
+      {
+        "id": 829590,
+        "name": "末日觉醒 CryoFall"
+      },
+      {
+        "id": 899310,
+        "name": "Iron Danger"
+      },
+      {
+        "id": 919410,
+        "name": "Felix The Reaper"
+      },
+      {
+        "id": 957960,
+        "name": "Inkulinati 神笔谈兵"
+      },
+      {
+        "id": 1016920,
+        "name": "Unrailed!"
+      },
+      {
+        "id": 1054430,
+        "name": "Fling to the Finish 终极拉扯"
+      },
+      {
+        "id": 1057750,
+        "name": "The Suicide of Rachel Foster"
+      },
+      {
+        "id": 1108000,
+        "name": "寂静村的孩子们 Children of Silentown"
+      },
+      {
+        "id": 1227530,
+        "name": "苏军游击队1941"
+      },
+      {
+        "id": 1272010,
+        "name": "驱逐舰：U型艇猎手 - Destroyer: The U-Boat Hunter"
+      },
+      {
+        "id": 1291010,
+        "name": "小兵大战 - Warpips"
+      },
+      {
+        "id": 1432910,
+        "name": "宇宙汉堡王 Godlike Burger"
+      },
+      {
+        "id": 1579380,
+        "name": "Shadow Tactics: 爱子的选择 Aiko's Choice"
+      }
+    ]
+  },
+  "Devolver Digital": {
+    "其他 Devolver Digital 游戏": [
+      {
+        "id": 41000,
+        "name": "Serious Sam HD: The First Encounter"
+      },
+      {
+        "id": 41050,
+        "name": "Serious Sam Classic: The First Encounter"
+      },
+      {
+        "id": 41060,
+        "name": "Serious Sam Classic: The Second Encounter"
+      },
+      {
+        "id": 41070,
+        "name": "Serious Sam 3: BFE"
+      },
+      {
+        "id": 111600,
+        "name": "Serious Sam Double D XXL"
+      },
+      {
+        "id": 201480,
+        "name": "Serious Sam: The Random Encounter"
+      },
+      {
+        "id": 204340,
+        "name": "Serious Sam II"
+      },
+      {
+        "id": 225160,
+        "name": "Shadow Warrior Classic Redux"
+      },
+      {
+        "id": 227780,
+        "name": "Serious Sam Classics: Revolution"
+      },
+      {
+        "id": 233130,
+        "name": "影子武士"
+      },
+      {
+        "id": 238070,
+        "name": "Shadow Warrior Classic (1997)"
+      },
+      {
+        "id": 255520,
+        "name": "Viscera Cleanup Detail: Shadow Warrior"
+      },
+      {
+        "id": 257510,
+        "name": "塔罗斯的法则"
+      },
+      {
+        "id": 274170,
+        "name": "火线迈阿密2：空号"
+      },
+      {
+        "id": 274190,
+        "name": "Broforce"
+      },
+      {
+        "id": 274290,
+        "name": "Gods Will Be Watching"
+      },
+      {
+        "id": 297120,
+        "name": "Heavy Bullets"
+      },
+      {
+        "id": 297130,
+        "name": "Titan Souls"
+      },
+      {
+        "id": 310080,
+        "name": "Hatoful Boyfriend"
+      },
+      {
+        "id": 311690,
+        "name": "挺进地牢"
+      },
+      {
+        "id": 312990,
+        "name": "The Expendabros"
+      },
+      {
+        "id": 321480,
+        "name": "Sigils of Elohim"
+      },
+      {
+        "id": 324800,
+        "name": "影子武士2"
+      },
+      {
+        "id": 349210,
+        "name": "The Art of Playing"
+      },
+      {
+        "id": 360740,
+        "name": "Downwell"
+      },
+      {
+        "id": 400180,
+        "name": "Okhlos: Omega"
+      },
+      {
+        "id": 442780,
+        "name": "STRAFE: Gold Edition"
+      },
+      {
+        "id": 460950,
+        "name": "武士 零"
+      },
+      {
+        "id": 464060,
+        "name": "RUINER"
+      },
+      {
+        "id": 473690,
+        "name": "Absolver"
+      },
+      {
+        "id": 474750,
+        "name": "王权"
+      },
+      {
+        "id": 557340,
+        "name": "我的朋友佩德罗"
+      },
+      {
+        "id": 558420,
+        "name": "Stories Untold"
+      },
+      {
+        "id": 609490,
+        "name": "Minit"
+      },
+      {
+        "id": 619780,
+        "name": "The Swords of Ditto: Mormo's Curse"
+      },
+      {
+        "id": 683320,
+        "name": "GRIS"
+      },
+      {
+        "id": 717640,
+        "name": "王权：女王陛下"
+      },
+      {
+        "id": 764790,
+        "name": "信使"
+      },
+      {
+        "id": 905340,
+        "name": "Heave Ho"
+      },
+      {
+        "id": 906100,
+        "name": "Observation"
+      },
+      {
+        "id": 1036890,
+        "name": "影子武士3：决定版"
+      },
+      {
+        "id": 1144770,
+        "name": "SLUDGE LIFE"
+      },
+      {
+        "id": 1150530,
+        "name": "荒野枪巫"
+      },
+      {
+        "id": 1338580,
+        "name": "像素哥3"
+      },
+      {
+        "id": 1357260,
+        "name": "Olija Demo"
+      },
+      {
+        "id": 1370050,
+        "name": "黄泉之路"
+      },
+      {
+        "id": 1661630,
+        "name": "因果动物园"
+      }
+    ]
+  },
+  "Disney Interactive": {
+    "其他 Disney Interactive 游戏": [
+      {
+        "id": 32440,
+        "name": "LEGO® Star Wars™ - The Complete Saga"
+      },
+      {
+        "id": 32510,
+        "name": "LEGO® Star Wars™ III - The Clone Wars™"
+      },
+      {
+        "id": 245300,
+        "name": "Disney Epic Mickey 2:  The Power of Two"
+      },
+      {
+        "id": 301980,
+        "name": "Disney Pirates of the Caribbean: At Worlds End"
+      },
+      {
+        "id": 311770,
+        "name": "LEGO® Pirates of the Caribbean: The Video Game"
+      },
+      {
+        "id": 316030,
+        "name": "Disney Alice in Wonderland"
+      },
+      {
+        "id": 316260,
+        "name": "Disney Universe"
+      },
+      {
+        "id": 319170,
+        "name": "Disney G-Force"
+      },
+      {
+        "id": 327740,
+        "name": "TRON 2.0"
+      },
+      {
+        "id": 541640,
+        "name": "Disney Infinity 1.0: Gold Edition"
+      },
+      {
+        "id": 541660,
+        "name": "Disney Infinity 2.0: Gold Edition"
+      },
+      {
+        "id": 541670,
+        "name": "Disney Infinity 3.0: Gold Edition"
+      }
+    ]
+  },
+  "Eidos": {
+    "其他 Eidos 游戏": [
+      {
+        "id": 6910,
+        "name": "Deus Ex: Game of the Year Edition"
+      },
+      {
+        "id": 6920,
+        "name": "Deus Ex: Invisible War"
+      },
+      {
+        "id": 6980,
+        "name": "Thief: Deadly Shadows"
+      },
+      {
+        "id": 211600,
+        "name": "Thief Gold (1999)"
+      },
+      {
+        "id": 211740,
+        "name": "Thief II: The Metal Age"
+      },
+      {
+        "id": 238010,
+        "name": "Deus Ex: Human Revolution - Director's Cut"
+      },
+      {
+        "id": 239160,
+        "name": "Thief"
+      },
+      {
+        "id": 258180,
+        "name": "Deus Ex: The Fall"
+      },
+      {
+        "id": 337000,
+        "name": "Deus Ex: Mankind Divided"
+      },
+      {
+        "id": 397550,
+        "name": "Deus Ex: Revision"
+      }
+    ]
+  },
+  "Falcom": {
+    "其他 Falcom 游戏": [
+      {
+        "id": 3447040,
+        "name": "空之轨迹 the 1st"
+      },
+      {
+        "id": 3920660,
+        "name": "空之轨迹 the 1st 体验版"
+      }
+    ]
+  },
+  "Focus": {
+    "其他 Focus 游戏": [
+      {
+        "id": 233190,
+        "name": "Final Exam"
+      },
+      {
+        "id": 298900,
+        "name": "Space Hulk: Deathwing"
+      },
+      {
+        "id": 338390,
+        "name": "The Technomancer"
+      },
+      {
+        "id": 366320,
+        "name": "Seasons after Fall"
+      },
+      {
+        "id": 366640,
+        "name": "Shiness: The Lightning Kingdom"
+      },
+      {
+        "id": 368340,
+        "name": "CrossCode"
+      },
+      {
+        "id": 378540,
+        "name": "The Surge"
+      },
+      {
+        "id": 399810,
+        "name": "Call of Cthulhu®"
+      },
+      {
+        "id": 427290,
+        "name": "Vampyr"
+      },
+      {
+        "id": 606880,
+        "name": "GreedFall"
+      },
+      {
+        "id": 644830,
+        "name": "The Surge 2"
+      },
+      {
+        "id": 666140,
+        "name": "波西亚时光"
+      },
+      {
+        "id": 668580,
+        "name": "原子之心"
+      },
+      {
+        "id": 675010,
+        "name": "MudRunner"
+      },
+      {
+        "id": 752590,
+        "name": "A Plague Tale: Innocence"
+      },
+      {
+        "id": 798490,
+        "name": "Othercide"
+      },
+      {
+        "id": 816090,
+        "name": "Space Hulk: Deathwing Enhanced Edition"
+      },
+      {
+        "id": 1065310,
+        "name": "暗邪西部"
+      },
+      {
+        "id": 1084600,
+        "name": "沙石镇时光"
+      },
+      {
+        "id": 1116580,
+        "name": "我的阴暗面"
+      },
+      {
+        "id": 1123770,
+        "name": "Curse of the Dead Gods"
+      },
+      {
+        "id": 1150440,
+        "name": "Aliens: Dark Descent"
+      },
+      {
+        "id": 1161580,
+        "name": "迷走深空：碎舰师"
+      },
+      {
+        "id": 1182900,
+        "name": "A Plague Tale: Requiem"
+      },
+      {
+        "id": 1222370,
+        "name": "涅克罗蒙达：赏金猎人"
+      },
+      {
+        "id": 1230530,
+        "name": "尘封大陆"
+      },
+      {
+        "id": 1272840,
+        "name": "田园记"
+      },
+      {
+        "id": 1493640,
+        "name": "驱灵者：新伊甸的幽灵"
+      },
+      {
+        "id": 1532690,
+        "name": "女巫悲歌"
+      },
+      {
+        "id": 1549970,
+        "name": "Aliens: Fireteam Elite"
+      },
+      {
+        "id": 1931770,
+        "name": "巴别塔圣歌"
+      },
+      {
+        "id": 2005010,
+        "name": "Warhammer 40,000: Boltgun"
+      },
+      {
+        "id": 2407990,
+        "name": "原子之心"
+      }
+    ]
+  },
+  "Frontier": {
+    "其他 Frontier 游戏": [
+      {
+        "id": 359320,
+        "name": "Elite Dangerous"
+      },
+      {
+        "id": 493340,
+        "name": "过山车之星"
+      },
+      {
+        "id": 648350,
+        "name": "侏罗纪世界：进化"
+      },
+      {
+        "id": 703080,
+        "name": "动物园之星"
+      },
+      {
+        "id": 1035560,
+        "name": "Struggling"
+      },
+      {
+        "id": 1244460,
+        "name": "侏罗纪世界：进化 2"
+      },
+      {
+        "id": 1611910,
+        "name": "《Warhammer 40,000：混沌之门 - 恶魔猎人》"
+      },
+      {
+        "id": 1844380,
+        "name": "Warhammer Age of Sigmar: Realms of Ruin"
+      }
+    ]
+  },
+  "IO Interactive": {
+    "其他 IO Interactive 游戏": [
+      {
+        "id": 6850,
+        "name": "Hitman 2: Silent Assassin"
+      },
+      {
+        "id": 6860,
+        "name": "Hitman: Blood Money"
+      },
+      {
+        "id": 6900,
+        "name": "Hitman: Codename 47"
+      },
+      {
+        "id": 203140,
+        "name": "Hitman: Absolution™"
+      },
+      {
+        "id": 236870,
+        "name": "HITMAN™"
+      },
+      {
+        "id": 247430,
+        "name": "Hitman: Contracts"
+      },
+      {
+        "id": 427820,
+        "name": "Hitman GO: Definitive Edition"
+      },
+      {
+        "id": 863550,
+        "name": "HITMAN™ 2"
+      },
+      {
+        "id": 1659040,
+        "name": "HITMAN World of Assassination"
+      },
+      {
+        "id": 1847520,
+        "name": "HITMAN WOA Free Demo ft. The Drop"
+      }
+    ]
+  },
+  "Kepler": {
+    "其他 Kepler 游戏": [
+      {
+        "id": 678720,
+        "name": "Cat Quest: Demo"
+      },
+      {
+        "id": 698670,
+        "name": "Scorn"
+      },
+      {
+        "id": 914710,
+        "name": "Cat Quest II"
+      },
+      {
+        "id": 1053710,
+        "name": "The Red Lantern"
+      },
+      {
+        "id": 1179900,
+        "name": "Cat Quest II Demo"
+      },
+      {
+        "id": 1458140,
+        "name": "超自然车旅 Pacific Drive"
+      },
+      {
+        "id": 1903340,
+        "name": "光与影：33号远征队"
+      },
+      {
+        "id": 2138710,
+        "name": "Sifu"
+      },
+      {
+        "id": 2305840,
+        "name": "猫咪斗恶龙3 Cat Quest III"
+      },
+      {
+        "id": 2358370,
+        "name": "Eternights Demo"
+      },
+      {
+        "id": 2386310,
+        "name": "奥特罗斯 Ultros"
+      },
+      {
+        "id": 2450000,
+        "name": "塑战核心 Demo"
+      },
+      {
+        "id": 2709040,
+        "name": "Ultros - Demo"
+      },
+      {
+        "id": 2921660,
+        "name": "Cat Quest III: Demo"
+      }
+    ]
+  },
+  "NEOWIZ": {
+    "其他 NEOWIZ 游戏": [
+      {
+        "id": 668550,
+        "name": "8道门：雅兰的来世冒险"
+      },
+      {
+        "id": 1037130,
+        "name": "Dandy Ace"
+      },
+      {
+        "id": 1173200,
+        "name": "Metal Unit"
+      },
+      {
+        "id": 1367300,
+        "name": "刀锋战神"
+      },
+      {
+        "id": 1627720,
+        "name": "Lies of P"
+      }
+    ]
+  },
+  "Nacon": {
+    "其他 Nacon 游戏": [
+      {
+        "id": 215870,
+        "name": "Dungeon-Party"
+      },
+      {
+        "id": 222640,
+        "name": "Aarklash: Legacy"
+      },
+      {
+        "id": 236690,
+        "name": "Blood Bowl 2: Legendary Edition (Classic)"
+      },
+      {
+        "id": 242640,
+        "name": "Styx: Master of Shadows"
+      },
+      {
+        "id": 256330,
+        "name": "WRC 4 FIA World Rally Championship"
+      },
+      {
+        "id": 269190,
+        "name": "永恒边缘"
+      },
+      {
+        "id": 276810,
+        "name": "Mordheim: City of the Damned"
+      },
+      {
+        "id": 280180,
+        "name": "Hover"
+      },
+      {
+        "id": 354160,
+        "name": "WRC 5 FIA World Rally Championship"
+      },
+      {
+        "id": 355790,
+        "name": "Styx: Shards of Darkness"
+      },
+      {
+        "id": 458770,
+        "name": "WRC 6 FIA World Rally Championship"
+      },
+      {
+        "id": 585080,
+        "name": "Hunting Simulator"
+      },
+      {
+        "id": 621830,
+        "name": "WRC 7 FIA World Rally Championship"
+      },
+      {
+        "id": 658700,
+        "name": "V-Rally 4"
+      },
+      {
+        "id": 774241,
+        "name": "Warhammer: Chaosbane"
+      },
+      {
+        "id": 1004750,
+        "name": "WRC 8 FIA World Rally Championship"
+      },
+      {
+        "id": 1069690,
+        "name": "欺诈领主"
+      },
+      {
+        "id": 1076200,
+        "name": "魔域之书"
+      },
+      {
+        "id": 1082180,
+        "name": "TT Isle of Man: Ride on the Edge 2"
+      },
+      {
+        "id": 1267540,
+        "name": "WRC 9 FIA World Rally Championship"
+      },
+      {
+        "id": 1283400,
+        "name": "Steelrising 钢之崛起 "
+      },
+      {
+        "id": 1299510,
+        "name": "Vampire: The Masquerade – Swansong"
+      },
+      {
+        "id": 1462810,
+        "name": "WRC 10 FIA World Rally Championship"
+      },
+      {
+        "id": 1620730,
+        "name": "Hell is Us 地狱即我们 "
+      },
+      {
+        "id": 1681430,
+        "name": "机械战警：暴戾都市"
+      },
+      {
+        "id": 1915380,
+        "name": "花园生涯：模拟佛系生活"
+      },
+      {
+        "id": 1953520,
+        "name": "WRC Generations – The FIA WRC Official Game"
+      },
+      {
+        "id": 3494380,
+        "name": "Hell is Us 地狱即我们 – Soundtrack"
+      }
+    ]
+  },
+  "PlatinumGames": {
+    "其他 PlatinumGames 游戏": [
+      {
+        "id": 582660,
+        "name": "Black Desert"
+      },
+      {
+        "id": 3321460,
+        "name": "红色沙漠"
+      }
+    ]
+  },
+  "Quantic Dream": {
+    "其他 Quantic Dream 游戏": [
+      {
+        "id": 721180,
+        "name": "尘路之旅"
+      },
+      {
+        "id": 960910,
+        "name": "暴雨"
+      },
+      {
+        "id": 960990,
+        "name": "超凡双生"
+      },
+      {
+        "id": 1222140,
+        "name": "底特律：化身为人"
+      },
+      {
+        "id": 1248980,
+        "name": "BEYOND: Two Souls Demo"
+      },
+      {
+        "id": 1975440,
+        "name": "碧波之下"
+      },
+      {
+        "id": 2161620,
+        "name": "时之刃 "
+      },
+      {
+        "id": 3069100,
+        "name": "Under The Waves Demo"
+      }
+    ]
+  },
+  "Rebellion": {
+    "其他 Rebellion 游戏": [
+      {
+        "id": 3720,
+        "name": "Evil Genius"
+      },
+      {
+        "id": 242530,
+        "name": "The Chaos Engine"
+      },
+      {
+        "id": 251690,
+        "name": "Speedball 2 HD"
+      },
+      {
+        "id": 254820,
+        "name": "Ground Control Anthology"
+      },
+      {
+        "id": 254840,
+        "name": "Ground Control II: Operation Exodus"
+      },
+      {
+        "id": 254860,
+        "name": "Lords of the Realm III"
+      },
+      {
+        "id": 254920,
+        "name": "Lords of the Realm"
+      },
+      {
+        "id": 281940,
+        "name": "Woolfe - The Red Hood Diaries"
+      },
+      {
+        "id": 301640,
+        "name": "Zombie Army Trilogy"
+      },
+      {
+        "id": 312660,
+        "name": "Sniper Elite 4"
+      },
+      {
+        "id": 312670,
+        "name": "Strange Brigade"
+      },
+      {
+        "id": 397350,
+        "name": "Lords of the Realm II"
+      },
+      {
+        "id": 404040,
+        "name": "Lords of Magic: Special Edition"
+      },
+      {
+        "id": 694280,
+        "name": "Zombie Army 4: Dead War"
+      },
+      {
+        "id": 700600,
+        "name": "Evil Genius 2: World Domination"
+      },
+      {
+        "id": 728740,
+        "name": "Sniper Elite V2 Remastered"
+      }
+    ]
+  },
+  "Square Enix": {
+    "其他 Square Enix 游戏": [
+      {
+        "id": 6870,
+        "name": "Battlestations: Midway"
+      },
+      {
+        "id": 6930,
+        "name": "Just Cause Demo"
+      },
+      {
+        "id": 7010,
+        "name": "Project: Snowblind"
+      },
+      {
+        "id": 8080,
+        "name": "Kane and Lynch: Dead Men™"
+      },
+      {
+        "id": 8100,
+        "name": "Conflict: Denied Ops"
+      },
+      {
+        "id": 8150,
+        "name": "Tomb Raider: Underworld Demo"
+      },
+      {
+        "id": 8170,
+        "name": "Battlestations Pacific"
+      },
+      {
+        "id": 8180,
+        "name": "Battlestations Pacific Demo"
+      },
+      {
+        "id": 8190,
+        "name": "Just Cause 2"
+      },
+      {
+        "id": 9350,
+        "name": "Supreme Commander"
+      },
+      {
+        "id": 9420,
+        "name": "Supreme Commander: Forged Alliance"
+      },
+      {
+        "id": 23310,
+        "name": "The Last Remnant™"
+      },
+      {
+        "id": 23320,
+        "name": "Yosumin!™ Demo"
+      },
+      {
+        "id": 23380,
+        "name": "Gyromancer"
+      },
+      {
+        "id": 28000,
+        "name": "Kane & Lynch 2: Dog Days"
+      },
+      {
+        "id": 28020,
+        "name": "Kane & Lynch 2 Demo"
+      },
+      {
+        "id": 34600,
+        "name": "Order of War™"
+      },
+      {
+        "id": 34620,
+        "name": "Order of War Demo"
+      },
+      {
+        "id": 35000,
+        "name": "Mini Ninjas"
+      },
+      {
+        "id": 35050,
+        "name": "Mini Ninjas Demo"
+      },
+      {
+        "id": 35110,
+        "name": "Just Cause 2 Demo"
+      },
+      {
+        "id": 39150,
+        "name": "FINAL FANTASY VIII"
+      },
+      {
+        "id": 39190,
+        "name": "Dungeon Siege"
+      },
+      {
+        "id": 39200,
+        "name": "Dungeon Siege II"
+      },
+      {
+        "id": 39230,
+        "name": "Dungeon Siege III Demo"
+      },
+      {
+        "id": 40100,
+        "name": "Supreme Commander 2"
+      },
+      {
+        "id": 40140,
+        "name": "Supreme Commander 2 Demo"
+      },
+      {
+        "id": 200010,
+        "name": "Quantum Conundrum"
+      },
+      {
+        "id": 202370,
+        "name": "Scary Girl"
+      },
+      {
+        "id": 211780,
+        "name": "Conflict Desert Storm™"
+      },
+      {
+        "id": 215220,
+        "name": "Sleeping Dogs Demo"
+      },
+      {
+        "id": 225540,
+        "name": "Just Cause™ 3"
+      },
+      {
+        "id": 233290,
+        "name": "Murdered: Soul Suspect"
+      },
+      {
+        "id": 242940,
+        "name": "Anachronox"
+      },
+      {
+        "id": 242980,
+        "name": "Daikatana"
+      },
+      {
+        "id": 243020,
+        "name": "Pandemonium"
+      },
+      {
+        "id": 245010,
+        "name": "Deathtrap Dungeon"
+      },
+      {
+        "id": 259080,
+        "name": "Just Cause 2: Multiplayer Mod"
+      },
+      {
+        "id": 292120,
+        "name": "FINAL FANTASY® XIII"
+      },
+      {
+        "id": 292140,
+        "name": "FINAL FANTASY® XIII-2"
+      },
+      {
+        "id": 307690,
+        "name": "Sleeping Dogs: Definitive Edition"
+      },
+      {
+        "id": 308060,
+        "name": "Black The Fall"
+      },
+      {
+        "id": 312750,
+        "name": "Final Fantasy IV (3D Remake)"
+      },
+      {
+        "id": 319630,
+        "name": "Life is Strange - Episode 1"
+      },
+      {
+        "id": 340170,
+        "name": "FINAL FANTASY TYPE-0™ HD"
+      },
+      {
+        "id": 345350,
+        "name": "LIGHTNING RETURNS™: FINAL FANTASY® XIII"
+      },
+      {
+        "id": 359870,
+        "name": "FINAL FANTASY X/X-2 HD Remaster"
+      },
+      {
+        "id": 377840,
+        "name": "FINAL FANTASY IX"
+      },
+      {
+        "id": 434660,
+        "name": "Octahedron: Transfixed Edition"
+      },
+      {
+        "id": 436290,
+        "name": "Children of Zodiarcs"
+      },
+      {
+        "id": 440430,
+        "name": "Life is Strange™ - Directors' Commentary"
+      },
+      {
+        "id": 440431,
+        "name": "Life is Strange™ - Directors' Commentary"
+      },
+      {
+        "id": 440432,
+        "name": "Life is Strange™ - Directors' Commentary"
+      },
+      {
+        "id": 440433,
+        "name": "Life is Strange™ - Directors' Commentary"
+      },
+      {
+        "id": 440434,
+        "name": "Life is Strange™ - Directors' Commentary"
+      },
+      {
+        "id": 440436,
+        "name": "Life is Strange™ - Directors' Commentary"
+      },
+      {
+        "id": 440437,
+        "name": "Life is Strange™ - Directors' Commentary"
+      },
+      {
+        "id": 440438,
+        "name": "Life is Strange™ - Directors' Commentary"
+      },
+      {
+        "id": 517630,
+        "name": "Just Cause 4 Reloaded"
+      },
+      {
+        "id": 522740,
+        "name": "Oh My Godheads"
+      },
+      {
+        "id": 524220,
+        "name": "NieR:Automata™"
+      },
+      {
+        "id": 532210,
+        "name": "Life is Strange 2"
+      },
+      {
+        "id": 542050,
+        "name": "Forgotton Anne"
+      },
+      {
+        "id": 546900,
+        "name": "Fear Effect Sedna"
+      },
+      {
+        "id": 554620,
+        "name": "Life is Strange: Before the Storm"
+      },
+      {
+        "id": 595520,
+        "name": "FINAL FANTASY XII THE ZODIAC AGE"
+      },
+      {
+        "id": 614090,
+        "name": "Deadbeat Heroes"
+      },
+      {
+        "id": 637650,
+        "name": "FINAL FANTASY XV WINDOWS EDITION"
+      },
+      {
+        "id": 671210,
+        "name": "FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO"
+      },
+      {
+        "id": 687260,
+        "name": "Tokyo Dark"
+      },
+      {
+        "id": 730940,
+        "name": "LOST SPHEAR Demo"
+      },
+      {
+        "id": 821590,
+        "name": "Octahedron Demo"
+      },
+      {
+        "id": 845070,
+        "name": "The Awesome Adventures of Captain Spirit"
+      },
+      {
+        "id": 894850,
+        "name": "Forgotton Anne Demo"
+      },
+      {
+        "id": 921590,
+        "name": "DISSIDIA FINAL FANTASY NT Free Edition"
+      },
+      {
+        "id": 1047000,
+        "name": "ONINAKI Demo"
+      },
+      {
+        "id": 1168460,
+        "name": "DRAGON QUEST BUILDERS 2 Demo"
+      },
+      {
+        "id": 1210810,
+        "name": "Life is Strange 2 Demo"
+      },
+      {
+        "id": 1223730,
+        "name": "Trials of Mana Demo"
+      },
+      {
+        "id": 1265920,
+        "name": "Life is Strange Remastered"
+      },
+      {
+        "id": 1265930,
+        "name": "Life is Strange: Before the Storm Remastered"
+      },
+      {
+        "id": 1295550,
+        "name": "《勇者斗恶龙XI S 寻觅逝去的时光 - Definitive Edition》体验版"
+      },
+      {
+        "id": 1435990,
+        "name": "OUTRIDERS Demo"
+      },
+      {
+        "id": 1457790,
+        "name": "Voice of Cards: The Isle Dragon Roars Demo"
+      },
+      {
+        "id": 1462040,
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE"
+      },
+      {
+        "id": 1612780,
+        "name": "春逝百年抄 The Centennial Case: A Shijima Story"
+      },
+      {
+        "id": 1711500,
+        "name": "The DioField Chronicle 神领编年史 体验版"
+      },
+      {
+        "id": 1839730,
+        "name": "春逝百年抄 The Centennial Case: A Shijima Story（体验版）"
+      },
+      {
+        "id": 2000100,
+        "name": "Life is Strange: True Colors Demo"
+      },
+      {
+        "id": 2060400,
+        "name": "勇者斗恶龙X　觉醒的五种族　OFFLINE　体验版"
+      },
+      {
+        "id": 2203230,
+        "name": "歧路旅人 II 序章体验版"
+      },
+      {
+        "id": 2228080,
+        "name": "FORSPOKEN Demo"
+      },
+      {
+        "id": 2257470,
+        "name": "LIVE A LIVE: Demo Version"
+      },
+      {
+        "id": 2280000,
+        "name": "SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE"
+      },
+      {
+        "id": 2476940,
+        "name": "浪漫沙加2 七英雄的复仇 体验版"
+      },
+      {
+        "id": 2499870,
+        "name": "勇者斗恶龙 VII Reimagined 率先启程体验版"
+      },
+      {
+        "id": 2515020,
+        "name": "FINAL FANTASY XVI"
+      },
+      {
+        "id": 2614400,
+        "name": "Little Goody Two Shoes Demo"
+      },
+      {
+        "id": 2633700,
+        "name": "PowerWash Simulator Demo"
+      },
+      {
+        "id": 2738000,
+        "name": "FINAL FANTASY XVI DEMO"
+      },
+      {
+        "id": 2760480,
+        "name": "SaGa Emerald Beyond Demo"
+      },
+      {
+        "id": 2989250,
+        "name": "圣剑传说 Visions of Mana 体验版"
+      },
+      {
+        "id": 3014330,
+        "name": "歧路旅人0 序章体验版 OCTOPATH TRAVELER 0 Prologue Demo"
+      },
+      {
+        "id": 3347730,
+        "name": "FANTASIAN Neo Dimension DEMO"
+      },
+      {
+        "id": 3837340,
+        "name": "FINAL FANTASY VII"
+      }
+    ]
+  },
+  "THQ Nordic": {
+    "其他 THQ Nordic 游戏": [
+      {
+        "id": 39550,
+        "name": "SpellForce 2 - Anniversary Edition"
+      },
+      {
+        "id": 40300,
+        "name": "Risen"
+      },
+      {
+        "id": 40390,
+        "name": "Risen 2: Dark Waters"
+      },
+      {
+        "id": 50620,
+        "name": "Darksiders™"
+      },
+      {
+        "id": 50650,
+        "name": "Darksiders II"
+      },
+      {
+        "id": 102500,
+        "name": "Kingdoms of Amalur: Reckoning™"
+      },
+      {
+        "id": 247950,
+        "name": "Sacred 3"
+      },
+      {
+        "id": 267750,
+        "name": "Shadowrun Chronicles - Boston Lockdown"
+      },
+      {
+        "id": 324680,
+        "name": "Impossible Creatures Steam Edition"
+      },
+      {
+        "id": 443810,
+        "name": "This Is the Police"
+      },
+      {
+        "id": 1084160,
+        "name": "Jagged Alliance 3"
+      },
+      {
+        "id": 1266700,
+        "name": "Destroy All Humans! 2 - Reprobed"
+      },
+      {
+        "id": 1466640,
+        "name": "九十六号公路"
+      },
+      {
+        "id": 4019420,
+        "name": "REANIMAL Demo"
+      }
+    ]
+  },
+  "Team17": {
+    "其他 Team17 游戏": [
+      {
+        "id": 22610,
+        "name": "Alien Breed: Impact"
+      },
+      {
+        "id": 22650,
+        "name": "Alien Breed 2: Assault"
+      },
+      {
+        "id": 22670,
+        "name": "Alien Breed 3: Descent"
+      },
+      {
+        "id": 233840,
+        "name": "Worms Clan Wars"
+      },
+      {
+        "id": 260330,
+        "name": "Flockers™"
+      },
+      {
+        "id": 278910,
+        "name": "Interplanetary"
+      },
+      {
+        "id": 298630,
+        "name": "The Escapists"
+      },
+      {
+        "id": 327030,
+        "name": "Worms W.M.D"
+      },
+      {
+        "id": 334940,
+        "name": "Yoku's Island Express"
+      },
+      {
+        "id": 388060,
+        "name": "The Escapists: The Walking Dead"
+      },
+      {
+        "id": 431240,
+        "name": "友尽高尔夫"
+      },
+      {
+        "id": 448510,
+        "name": "Overcooked"
+      },
+      {
+        "id": 484900,
+        "name": "Aven Colony"
+      },
+      {
+        "id": 485030,
+        "name": "PLANET ALPHA"
+      },
+      {
+        "id": 641990,
+        "name": "The Escapists 2"
+      },
+      {
+        "id": 650220,
+        "name": "Interplanetary: Enhanced Edition"
+      },
+      {
+        "id": 686810,
+        "name": "人间地狱"
+      },
+      {
+        "id": 690140,
+        "name": "Sword Legacy: Omen"
+      },
+      {
+        "id": 712190,
+        "name": "Genesis Alpha One Deluxe Edition"
+      },
+      {
+        "id": 728880,
+        "name": "Overcooked! 2"
+      },
+      {
+        "id": 760650,
+        "name": "百炼成钢"
+      },
+      {
+        "id": 774361,
+        "name": "Blasphemous"
+      },
+      {
+        "id": 787810,
+        "name": "痞子英雄：泰索斯遗迹"
+      },
+      {
+        "id": 788100,
+        "name": "霓虹深渊"
+      },
+      {
+        "id": 814370,
+        "name": "怪物圣所"
+      },
+      {
+        "id": 824000,
+        "name": "哈克小镇"
+      },
+      {
+        "id": 841190,
+        "name": "Honey, I Joined a Cult"
+      },
+      {
+        "id": 846870,
+        "name": "Yooka-Laylee and the Impossible Lair"
+      },
+      {
+        "id": 897450,
+        "name": "岛屿生存者"
+      },
+      {
+        "id": 943370,
+        "name": "英勇无厌"
+      },
+      {
+        "id": 984800,
+        "name": "Automachef"
+      },
+      {
+        "id": 996770,
+        "name": "Moving Out"
+      },
+      {
+        "id": 1000010,
+        "name": "不思议的皇冠"
+      },
+      {
+        "id": 1069530,
+        "name": "Narita Boy"
+      },
+      {
+        "id": 1073910,
+        "name": "离去之前 "
+      },
+      {
+        "id": 1078920,
+        "name": "Main Assembly"
+      },
+      {
+        "id": 1154810,
+        "name": "Going Under"
+      },
+      {
+        "id": 1164940,
+        "name": "海参2"
+      },
+      {
+        "id": 1186040,
+        "name": "Worms Rumble"
+      },
+      {
+        "id": 1205170,
+        "name": "Super Magbot"
+      },
+      {
+        "id": 1210150,
+        "name": "Ageless"
+      },
+      {
+        "id": 1311070,
+        "name": "格雷克大冒险：阿祖尔的回忆"
+      },
+      {
+        "id": 1312960,
+        "name": "特级厨师"
+      },
+      {
+        "id": 1453790,
+        "name": "蛇之守望者"
+      },
+      {
+        "id": 1506440,
+        "name": "巴特拉：家在何方"
+      },
+      {
+        "id": 1509510,
+        "name": "部落幸存者"
+      },
+      {
+        "id": 1562430,
+        "name": "《渔帆暗涌》"
+      },
+      {
+        "id": 1763250,
+        "name": "圣杯誓约"
+      },
+      {
+        "id": 1839880,
+        "name": "King Of The Castle"
+      },
+      {
+        "id": 2114740,
+        "name": "神之亵渎2"
+      },
+      {
+        "id": 2393160,
+        "name": "钓鱼哥的奇妙冒险"
+      }
+    ]
+  },
+  "Telltale Games": {
+    "其他 Telltale Games 游戏": [
+      {
+        "id": 8200,
+        "name": "Sam & Max 101: Culture Shock"
+      },
+      {
+        "id": 8210,
+        "name": "Sam & Max 102: Situation: Comedy"
+      },
+      {
+        "id": 8220,
+        "name": "Sam & Max 103: The Mole, the Mob and the Meatball"
+      },
+      {
+        "id": 8230,
+        "name": "Sam & Max 104: Abe Lincoln Must Die!"
+      },
+      {
+        "id": 8240,
+        "name": "Sam & Max 105: Reality 2.0"
+      },
+      {
+        "id": 8250,
+        "name": "Sam & Max 106: Bright Side of the Moon"
+      },
+      {
+        "id": 8260,
+        "name": "Sam & Max 201: Ice Station Santa"
+      },
+      {
+        "id": 8270,
+        "name": "Sam & Max 202: Moai Better Blues"
+      },
+      {
+        "id": 8280,
+        "name": "Sam & Max 203: Night of the Raving Dead"
+      },
+      {
+        "id": 8290,
+        "name": "Sam & Max 204: Chariots of the Dogs"
+      },
+      {
+        "id": 8300,
+        "name": "Sam & Max 205: What's New Beelzebub?"
+      },
+      {
+        "id": 8330,
+        "name": "Telltale Texas Hold ‘Em"
+      },
+      {
+        "id": 8340,
+        "name": "Strong Bad's Cool Game for Attractive People: Season 1"
+      },
+      {
+        "id": 8350,
+        "name": "Strong Bad's Cool Game for Attractive People: Episode 2"
+      },
+      {
+        "id": 8360,
+        "name": "Strong Bad's Cool Game for Attractive People: Episode 3"
+      },
+      {
+        "id": 8370,
+        "name": "Strong Bad's Cool Game for Attractive People: Episode 4"
+      },
+      {
+        "id": 8380,
+        "name": "Strong Bad's Cool Game for Attractive People: Episode 5"
+      },
+      {
+        "id": 31170,
+        "name": "Tales of Monkey Island: Complete Season"
+      },
+      {
+        "id": 31180,
+        "name": "Tales of Monkey Island Complete Pack: Chapter 2 - The Siege of Spinner Cay"
+      },
+      {
+        "id": 31190,
+        "name": "Tales of Monkey Island Complete Pack: Chapter 3 - Lair of the Leviathan"
+      },
+      {
+        "id": 31200,
+        "name": "Tales of Monkey Island Complete Pack: Chapter 4 - The Trial and Execution of Guybrush Threepwood"
+      },
+      {
+        "id": 31210,
+        "name": "Tales of Monkey Island Complete Pack: Chapter 5 - Rise of the Pirate God"
+      },
+      {
+        "id": 31220,
+        "name": "Sam & Max 301: The Penal Zone"
+      },
+      {
+        "id": 31230,
+        "name": "Sam & Max 302: The Tomb of Sammun-Mak"
+      },
+      {
+        "id": 31240,
+        "name": "Sam & Max 303: They Stole Max's Brain!"
+      },
+      {
+        "id": 31250,
+        "name": "Sam & Max 304: Beyond the Alley of the Dolls"
+      },
+      {
+        "id": 31260,
+        "name": "Sam & Max 305: The City That Dares Not Sleep"
+      },
+      {
+        "id": 31270,
+        "name": "Puzzle Agent"
+      },
+      {
+        "id": 31280,
+        "name": "Poker Night at the Inventory (2010 Original Version)"
+      },
+      {
+        "id": 31290,
+        "name": "Back to the Future: The Game"
+      },
+      {
+        "id": 94500,
+        "name": "Back to the Future: Ep 2 - Get Tannen!"
+      },
+      {
+        "id": 94510,
+        "name": "Back to the Future: Ep 3 - Citizen Brown"
+      },
+      {
+        "id": 94520,
+        "name": "Back to the Future: Ep 4 - Double Visions"
+      },
+      {
+        "id": 94530,
+        "name": "Back to the Future: Ep 5 - OUTATIME"
+      },
+      {
+        "id": 94590,
+        "name": "Puzzle Agent 2"
+      },
+      {
+        "id": 94600,
+        "name": "Hector: Episode 1"
+      },
+      {
+        "id": 94610,
+        "name": "Hector: Episode 2"
+      },
+      {
+        "id": 94620,
+        "name": "Hector: Badge of Carnage - Full Series"
+      },
+      {
+        "id": 201830,
+        "name": "Jurassic Park: The Game"
+      },
+      {
+        "id": 207610,
+        "name": "The Walking Dead"
+      },
+      {
+        "id": 234710,
+        "name": "Poker Night 2"
+      },
+      {
+        "id": 250320,
+        "name": "The Wolf Among Us"
+      },
+      {
+        "id": 261030,
+        "name": "The Walking Dead: Season Two"
+      },
+      {
+        "id": 330840,
+        "name": "Game of Thrones - A Telltale Games Series"
+      },
+      {
+        "id": 376870,
+        "name": "Minecraft: Story Mode - A Telltale Games Series"
+      },
+      {
+        "id": 429570,
+        "name": "The Walking Dead: Michonne - A Telltale Miniseries"
+      },
+      {
+        "id": 498240,
+        "name": "Batman - The Telltale Series"
+      },
+      {
+        "id": 536220,
+        "name": "The Walking Dead: A New Frontier"
+      },
+      {
+        "id": 675260,
+        "name": "Batman: The Enemy Within - The Telltale Series"
+      },
+      {
+        "id": 866800,
+        "name": "The Walking Dead: The Final Season"
+      },
+      {
+        "id": 1449690,
+        "name": "The Walking Dead: The Telltale Definitive Series"
+      }
+    ]
+  },
+  "光荣特库摩": {
+    "其他 光荣特库摩 游戏": [
+      {
+        "id": 278080,
+        "name": "真・三国无双７ with 猛将传"
+      },
+      {
+        "id": 397720,
+        "name": "Romance of the Three Kingdoms Maker"
+      },
+      {
+        "id": 730310,
+        "name": "真・三国无双８"
+      },
+      {
+        "id": 838380,
+        "name": "DEAD OR ALIVE 6"
+      },
+      {
+        "id": 958260,
+        "name": "DEAD OR ALIVE Xtreme Venus Vacation"
+      },
+      {
+        "id": 1019870,
+        "name": "NOBUNAGA’S AMBITION: Taishi with Power Up Kit Demo"
+      },
+      {
+        "id": 1340990,
+        "name": "浪人崛起"
+      },
+      {
+        "id": 1592330,
+        "name": "【试玩版】战国无双５"
+      },
+      {
+        "id": 2285240,
+        "name": "Wo Long: Fallen Dynasty Complete Edition Demo"
+      },
+      {
+        "id": 2659950,
+        "name": "Fate/Samurai Remnant DEMO"
+      },
+      {
+        "id": 3273240,
+        "name": "真・三国无双 起源 体验版"
+      },
+      {
+        "id": 4198760,
+        "name": "Nioh 3 Demo"
+      },
+      {
+        "id": 4226020,
+        "name": "零 ～红蝶～ REMAKE 体验版"
+      }
+    ]
+  },
+  "哔哩哔哩": {
+    "其他 哔哩哔哩 游戏": [
+      {
+        "id": 1332390,
+        "name": "暗影火炬城 Demo"
+      },
+      {
+        "id": 1621690,
+        "name": "护核纪元"
+      },
+      {
+        "id": 1701500,
+        "name": "碳酸危机 试玩版"
+      },
+      {
+        "id": 1708480,
+        "name": "暖雪 Warm Snow Demo"
+      },
+      {
+        "id": 2103140,
+        "name": "魔法工艺 Magicraft"
+      },
+      {
+        "id": 2162830,
+        "name": "风帆纪元demo"
+      },
+      {
+        "id": 2185500,
+        "name": "魔法工艺 Magicraft Demo"
+      },
+      {
+        "id": 2286710,
+        "name": "绝世好武功 试玩版"
+      }
+    ]
+  },
+  "游戏科学": {
+    "其他 游戏科学 游戏": [
+      {
+        "id": 558100,
+        "name": "Art of War: Red Tides"
+      },
+      {
+        "id": 2358720,
+        "name": "黑神话：悟空"
+      },
+      {
+        "id": 3132990,
+        "name": "黑神话：悟空 性能测试工具"
+      }
+    ]
+  }
+}
