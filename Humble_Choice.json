@@ -1,10 +1,10 @@
 {
-  "source": "Humble Choice #1 (2019-12) ~ #79 (2026-06)",
+  "source": "Humble Choice #1 (2019-12) ~ #82 (2026-09)",
   "data_from": "github.com/tomnatt/humble-choice (output/json/humble-choice-all.json)",
   "missing_appid_resolved_by": "Steam 社区 hub 标题 / appdetails 校验；下架游戏 appid 来自 SteamDB、PCGamingWiki、topremoved.ru",
   "generated_at": "2026-10-06",
-  "total_months": 79,
-  "total_games": 797,
+  "total_months": 82,
+  "total_games": 785,
   "months": [
     { "choice": 1, "month": "December", "year": 2019, "games": [
       { "name": "Aegis Defenders", "appid": 371140, "date": "2018年2月8日", "publisher": "Balor Games" },
@@ -23,7 +23,6 @@
       { "name": "DiRT Rally 2.0", "appid": 690790, "date": "2019年2月25日", "publisher": "Codemasters" },
       { "name": "DiRT Rally 2.0 - Opel Manta 400", "appid": 1004960, "date": "2019年4月8日", "publisher": "Electronic Arts" },
       { "name": "GRIP: Combat Racing", "appid": 396900, "date": "2018年11月6日", "publisher": "Wired Productions" },
-      { "name": "GRIP: Combat Racing - Artifex Car Pack", "appid": 1087830, "date": "2019年8月8日", "publisher": "Wired Productions" },
       { "name": "Graveyard Keeper", "appid": 599140, "date": "2018年8月15日", "publisher": "tinyBuild" },
       { "name": "Mages of Mystralia", "appid": 529660, "date": "2017年5月18日", "publisher": "Borealys Games" },
       { "name": "Middle-earth™: Shadow of War™", "appid": 356190, "date": "2017年10月9日", "publisher": "WB Games" },
@@ -39,7 +38,6 @@
       { "name": "CryoFall", "appid": 829590, "date": "2021年4月29日", "publisher": "Daedalic Entertainment" },
       { "name": "Eliza", "appid": 716500, "date": "2019年8月12日", "publisher": "Zachtronics" },
       { "name": "Frostpunk", "appid": 323190, "date": "2018年4月24日", "publisher": "11 bit studios" },
-      { "name": "Frostpunk: The Rifts", "appid": 1125020, "date": "2019年8月27日", "publisher": "11 bit studios" },
       { "name": "Night Call", "appid": 680380, "date": "2019年7月17日", "publisher": "Raw Fury" },
       { "name": "Okami HD", "appid": 587620, "date": "2017年12月12日", "publisher": "CAPCOM Co., Ltd." },
       { "name": "Pathfinder: Kingmaker — Enhanced Plus Edition", "appid": 640820, "date": "2018年9月25日", "publisher": "Knights Peak" },
@@ -61,7 +59,6 @@
       { "name": "My Friend Pedro", "appid": 557340, "date": "2019年6月20日", "publisher": "Devolver Digital" },
       { "name": "Niffelheim", "appid": 351100, "date": "2018年9月26日", "publisher": "Ellada Games" },
       { "name": "Planet Coaster", "appid": 493340, "date": "2016年11月17日", "publisher": "Frontier Developments" },
-      { "name": "Planet Coaster - World's Fair Pack", "appid": 953660, "date": "2018年10月16日", "publisher": "Frontier Developments" },
       { "name": "Turok", "appid": 405820, "date": "2015年12月17日", "publisher": "Nightdive Studios" }
     ] },
     { "choice": 5, "month": "April", "year": 2020, "games": [
@@ -83,7 +80,6 @@
       { "name": "Heave Ho", "appid": 905340, "date": "2019年8月29日", "publisher": "Devolver Digital" },
       { "name": "Horace", "appid": 629090, "date": "2019年7月18日", "publisher": "505 Games" },
       { "name": "Jurassic World Evolution", "appid": 648350, "date": "2018年6月11日", "publisher": "Frontier Developments" },
-      { "name": "Jurassic World Evolution - Deluxe Dinosaur Pack", "appid": 817550, "date": "2018年6月11日" },
       { "name": "MO:Astray", "appid": 1104660, "date": "2019年10月24日", "publisher": "Rayark International Limited" },
       { "name": "Neoverse", "appid": 994220, "date": "2020年2月18日", "publisher": "Tinogames Inc." },
       { "name": "Niche - a genetics survival game", "appid": 440650, "date": "2017年9月21日", "publisher": "Stray Fawn Publishing" },
@@ -91,8 +87,6 @@
       { "name": "The Swords of Ditto: Mormo's Curse", "appid": 619780, "date": "2018年4月24日", "publisher": "Devolver Digital" },
       { "name": "Warhammer 40,000: Gladius - Relics of War", "appid": 489630, "date": "2018年7月12日", "publisher": "Slitherine Ltd." },
       { "name": "Warsaw", "appid": 1026420, "date": "2019年10月2日", "publisher": "Instytut Pamięci Narodowej" },
-      { "name": "XCOM 2: Reinforcement Pack", "appid": null, "note": "无 Steam 商店页面（原声带 / DLC / 试玩 / 非 Steam 平台），appid 为空" },
-      { "name": "XCOM 2: Resistance Warrior Pack", "appid": 399620, "date": "2016年11月22日", "publisher": "2K" },
       { "name": "XCOM® 2", "appid": 268500, "date": "2016年2月4日", "publisher": "2K" }
     ] },
     { "choice": 7, "month": "June", "year": 2020, "games": [
@@ -105,7 +99,6 @@
       { "name": "Men of War: Assault Squad 2 - Airborne", "appid": 357760, "date": "2015年6月4日", "publisher": "Fulqrum Publishing" },
       { "name": "Men of War: Assault Squad 2 - Deluxe Edition upgrade", "appid": 271850, "date": "2014年5月16日", "publisher": "Fulqrum Publishing" },
       { "name": "Men of War: Assault Squad 2 - Iron Fist", "appid": 327130, "date": "2015年2月19日", "publisher": "Fulqrum Publishing" },
-      { "name": "Men of War: Assault Squad 2 - Ostfront Veteranen", "appid": 920840, "date": "2018年10月25日", "publisher": "Fulqrum Publishing" },
       { "name": "Overload", "appid": 448850, "date": "2018年5月31日", "publisher": "Revival Productions, LLC" },
       { "name": "Remnants of Naezith", "appid": 590590, "date": "2018年2月5日", "publisher": "Tolga Ay" },
       { "name": "Stygian: Reign of the Old Ones", "appid": 779290, "date": "2019年9月26日", "publisher": "Fulqrum Publishing" },
@@ -116,7 +109,6 @@
     ] },
     { "choice": 8, "month": "July", "year": 2020, "games": [
       { "name": "Age of Wonders: Planetfall", "appid": 718850, "date": "2019年8月6日", "publisher": "Paradox Interactive" },
-      { "name": "Age of Wonders: Planetfall Deluxe Edition Content Pack", "appid": 1078840, "date": "2019年8月6日", "publisher": "Paradox Interactive" },
       { "name": "Battlestar Galactica Deadlock", "appid": 544610, "date": "2017年8月31日", "publisher": "Slitherine Ltd." },
       { "name": "Beat Hazard 2", "appid": 618740, "date": "2019年10月16日", "publisher": "Cold Beam Games" },
       { "name": "Don't Escape: 4 Days to Survive", "appid": 611760, "date": "2019年3月11日", "publisher": "Armor Games Studios" },
@@ -150,8 +142,6 @@
       { "name": "Forager", "appid": 751780, "date": "2019年4月18日", "publisher": "Balor Games" },
       { "name": "Fun with Ragdolls: The Game", "appid": 1142500, "date": "2019年9月17日", "publisher": "Fun & Simple" },
       { "name": "Generation Zero®", "appid": 704270, "date": "2019年3月26日", "publisher": "Avalanche Studios" },
-      { "name": "Golf With Your Friends - Caddy Pack", "appid": 1277570, "date": "2020年5月26日", "publisher": "Team17 Digital" },
-      { "name": "Golf With Your Friends - OST", "appid": 564170, "date": "2018年10月3日", "publisher": "Blacklight Interactive" },
       { "name": "Golf with Your Friends", "appid": 431240, "date": "2020年5月19日", "publisher": "Team17" },
       { "name": "Lethal League Blaze", "appid": 553310, "date": "2018年10月24日", "publisher": "Team Reptile" },
       { "name": "Strange Brigade", "appid": 312670, "date": "2018年8月27日", "publisher": "Rebellion" },
@@ -197,7 +187,6 @@
       { "name": "One Step From Eden", "appid": 960690, "date": "2020年3月26日", "publisher": "Balor Games" },
       { "name": "Overcooked! 2", "appid": 728880, "date": "2018年8月7日", "publisher": "Team17" },
       { "name": "Overcooked! 2 - Surf 'n' Turf", "appid": 909720, "date": "2018年10月3日", "publisher": "Team17 Digital Ltd" },
-      { "name": "Overcooked! 2 - Too Many Cooks Pack", "appid": 858240, "date": "2018年8月7日", "publisher": "Team17 Digital Ltd" },
       { "name": "Path of Giants", "appid": 1181400, "date": "2020年2月14日", "publisher": "Journey Bound Games" },
       { "name": "Shining Resonance Refrain", "appid": 809890, "date": "2018年7月9日", "publisher": "SEGA" },
       { "name": "Still There", "appid": 1063490, "date": "2019年11月20日", "publisher": "Iceberg Interactive" },
@@ -229,7 +218,6 @@
       { "name": "Moving Out", "appid": 996770, "date": "2020年4月28日", "publisher": "Team17" },
       { "name": "Outward - The Soroboreans", "appid": 1194010, "date": "2020年6月16日", "publisher": "Prime Matter" },
       { "name": "Outward Definitive Edition", "appid": 794260, "date": "2022年5月17日", "publisher": "Prime Matter" },
-      { "name": "Outward Soundtrack", "appid": null, "note": "无 Steam 商店页面（原声带 / DLC / 试玩 / 非 Steam 平台），appid 为空" },
       { "name": "The Wild Eight", "appid": 526160, "date": "2019年10月3日", "publisher": "HypeTrain Digital" },
       { "name": "Train Station Renovation", "appid": 914010, "date": "2020年10月1日", "publisher": "Live Motion Games" },
       { "name": "Trine 4: The Nightmare Prince", "appid": 690640, "date": "2019年10月8日", "publisher": "Frozenbyte" },
@@ -290,18 +278,11 @@
       { "name": "Panzer Paladin", "appid": 975510, "date": "2020年7月21日", "publisher": "Tribute Games Inc." },
       { "name": "Paw Paw Paw", "appid": 1037910, "date": "2020年11月13日", "publisher": "GrabTheGames" },
       { "name": "Secret Neighbor: Hello Neighbor Multiplayer", "appid": 859570, "date": "2019年10月24日", "publisher": "tinyBuild" },
-      { "name": "Sid Meier's Civilization® VI: Australia Civilization & Scenario Pack", "appid": 512034, "date": "2017年2月23日", "publisher": "2K" },
       { "name": "Sid Meier's Civilization® VI: Gathering Storm", "appid": 947510, "date": "2019年2月13日", "publisher": "2K" },
-      { "name": "Sid Meier's Civilization® VI: Khmer and Indonesia Civilization & Scenario Pack", "appid": 645401, "date": "2017年10月19日", "publisher": "2K" },
-      { "name": "Sid Meier's Civilization® VI: Nubia Civilization & Scenario Pack", "appid": 645400, "date": "2017年7月27日", "publisher": "2K" },
-      { "name": "Sid Meier's Civilization® VI: Persia and Macedon Civilization & Scenario Pack", "appid": 512035, "date": "2017年3月28日", "publisher": "2K" },
-      { "name": "Sid Meier's Civilization® VI: Poland Civilization & Scenario Pack", "appid": 512033, "date": "2016年12月20日", "publisher": "2K" },
-      { "name": "Sid Meier's Civilization® VI: Vikings Scenario Pack", "appid": 512032, "date": "2016年12月20日", "publisher": "2K" },
       { "name": "Sid Meier’s Civilization® VI", "appid": 289070, "date": "2016年10月20日", "publisher": "2K" },
       { "name": "Sid Meier’s Civilization® VI: Rise and Fall", "appid": 645402, "date": "2018年2月7日", "publisher": "2K" },
       { "name": "Stubbs The Zombie In Rebel Without A Pulse", "appid": 7800, "date": "2021年3月16日", "publisher": "Aspyr" },
-      { "name": "Worms Rumble", "appid": 1186040, "date": "2020年12月1日", "publisher": "Team17 Digital" },
-      { "name": "Worms Rumble - Legends Pack", "appid": 1440191, "date": "2020年12月1日" }
+      { "name": "Worms Rumble", "appid": 1186040, "date": "2020年12月1日", "publisher": "Team17 Digital" }
     ] },
     { "choice": 20, "month": "July", "year": 2021, "games": [
       { "name": "Adom (Ancient Domains of Mystery)", "appid": 333300, "date": "2015年11月16日" },
@@ -401,7 +382,6 @@
       { "name": "Before We Leave", "appid": 1073910, "date": "2021年5月13日", "publisher": "Team17" },
       { "name": "Black Book", "appid": 1138660, "date": "2021年8月10日", "publisher": "HypeTrain Digital" },
       { "name": "Borderlands 3", "appid": 397540, "date": "2020年3月13日", "publisher": "2K" },
-      { "name": "Borderlands 3: Director's Cut", "appid": null, "note": "无 Steam 商店页面（原声带 / DLC / 试玩 / 非 Steam 平台），appid 为空" },
       { "name": "Calico", "appid": 1112890, "date": "2020年12月15日", "publisher": "Whitethorn Games" },
       { "name": "Everhood", "appid": 1229380, "date": "2021年3月4日", "publisher": "Foreign Gnomes" },
       { "name": "Just Die Already", "appid": 979070, "date": "2021年5月20日", "publisher": "Curve Games" },
@@ -476,7 +456,6 @@
       { "name": "Industria", "appid": 1172650, "date": "2021年9月30日", "publisher": "Headup" },
       { "name": "Just Cause 4 Reloaded", "appid": 517630, "date": "2018年12月4日", "publisher": "Square Enix" },
       { "name": "Shapez", "appid": 1318690, "date": "2020年6月7日", "publisher": "tobspr Games" },
-      { "name": "Shapez - Puzzle DLC", "appid": 1625400, "date": "2021年6月22日", "publisher": "tobspr Games" },
       { "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos", "appid": 970830, "date": "2020年9月17日", "publisher": "Dear Villagers" }
     ] },
     { "choice": 35, "month": "October", "year": 2022, "games": [
@@ -616,9 +595,7 @@
       { "name": "Rebel Inc: Escalation", "appid": 1088790, "date": "2021年10月13日", "publisher": "Hooded Horse" },
       { "name": "Spirit Of The Island", "appid": 1592110, "date": "2022年8月17日", "publisher": "META Publishing" },
       { "name": "The Dark Pictures Anthology: House of Ashes", "appid": 1281590, "date": "2021年10月21日", "publisher": "BANDAI NAMCO Entertainment Europe" },
-      { "name": "The Quarry", "appid": 1577120, "date": "2022年6月9日", "publisher": "2K Games" },
-      { "name": "The Quarry – Deluxe Bonus Content Pack", "appid": 1877111, "date": "2022年6月29日", "publisher": "2K Games" },
-      { "name": "The Quarry – Horror History Visual Filter Pack", "appid": 1877110, "date": "2022年8月10日", "publisher": "2K Games" }
+      { "name": "The Quarry", "appid": 1577120, "date": "2022年6月9日", "publisher": "2K Games" }
     ] },
     { "choice": 48, "month": "November", "year": 2023, "games": [
       { "name": "Friends Vs Friends", "appid": 1785150, "date": "2023年5月30日", "publisher": "Raw Fury" },
@@ -669,19 +646,13 @@
       { "name": "Nioh 2 – The Complete Edition", "appid": 1325200, "date": "2021年2月5日", "publisher": "KOEI TECMO GAMES CO., LTD." },
       { "name": "Saints Row", "appid": 742420, "date": "2023年8月24日", "publisher": "Deep Silver" },
       { "name": "Soulstice", "appid": 1602080, "date": "2022年9月19日", "publisher": "Maximum Entertainment" },
-      { "name": "Warhammer Age Of Sigmar: Realms Of Ruin", "appid": 1844380, "date": "2023年11月17日", "publisher": "Frontier Developments" },
-      { "name": "Warhammer Age of Sigmar: Realms of Ruin Deluxe Upgrade Pack", "appid": 2531130, "date": "2023年11月17日", "publisher": "Frontier Developments" }
+      { "name": "Warhammer Age Of Sigmar: Realms Of Ruin", "appid": 1844380, "date": "2023年11月17日", "publisher": "Frontier Developments" }
     ] },
     { "choice": 53, "month": "April", "year": 2024, "games": [
       { "name": "Coromon", "appid": 1218210, "date": "2022年3月31日", "publisher": "indie.io" },
       { "name": "Fashion Police Squad", "appid": 1319460, "date": "2022年8月15日", "publisher": "No More Robots" },
       { "name": "HUMANKIND™", "appid": 1124300, "date": "2021年8月17日", "publisher": "AMPLITUDE Studios" },
-      { "name": "HUMANKIND™ - Cultures of Africa Pack", "appid": 1819400, "date": "2022年1月20日", "publisher": "AMPLITUDE Studios" },
-      { "name": "HUMANKIND™ - Cultures of Latin America Pack", "appid": 1819410, "date": "2022年6月9日", "publisher": "AMPLITUDE Studios" },
-      { "name": "HUMANKIND™ - Cultures of Oceania Pack", "appid": 2320211, "date": "2023年9月11日", "publisher": "AMPLITUDE Studios" },
       { "name": "HUMANKIND™ - Digital Deluxe Upgrade", "appid": 1633650, "publisher": "AMPLITUDE Studios" },
-      { "name": "HUMANKIND™ - Para Bellum Wonders Pack", "appid": 2320210, "date": "2023年4月26日", "publisher": "AMPLITUDE Studios" },
-      { "name": "HUMANKIND™ - Together We Rule Expansion Pack", "appid": 1833990, "date": "2022年11月9日", "publisher": "AMPLITUDE Studios" },
       { "name": "Symphony Of War: The Nephilim Saga", "appid": 1488200, "date": "2022年6月10日", "publisher": "Dancing Dragon Games" },
       { "name": "Terraformers", "appid": 1244800, "date": "2023年3月9日", "publisher": "Goblinz Publishing" },
       { "name": "The Callisto Protocol™", "appid": 1544020, "date": "2022年12月1日", "publisher": "KRAFTON, Inc." },
@@ -734,7 +705,6 @@
       { "name": "InfraSpace", "appid": 1511460, "date": "2023年9月22日", "publisher": "Dionic Software" },
       { "name": "Lost Eidolons", "appid": 1580520, "date": "2022年10月13日", "publisher": "Ocean Drive Studio, Inc." },
       { "name": "Marvel's Guardians of the Galaxy", "appid": 1088850, "date": "2021年10月26日", "publisher": "Eidos Interactive Corp." },
-      { "name": "Rue Valley - Alpha Playtest", "appid": null, "note": "无 Steam 商店页面（原声带 / DLC / 试玩 / 非 Steam 平台），appid 为空" },
       { "name": "SpongeBob SquarePants: The Cosmic Shake", "appid": 1282150, "date": "2023年1月31日", "publisher": "THQ Nordic" },
       { "name": "Stranded: Alien Dawn", "appid": 1324130, "date": "2023年4月25日", "publisher": "Paradox Interactive" },
       { "name": "You Suck at Parking® - Complete Edition", "appid": 837880, "date": "2022年9月14日", "publisher": "Curve Games" }
@@ -765,8 +735,6 @@
       { "name": "Crime Boss: Rockay City", "appid": 2933080, "date": "2024年6月18日", "publisher": "505 Games" },
       { "name": "Crime Boss: Rockay City - Cagnali's Order", "appid": 2939860, "date": "2024年6月18日", "publisher": "505 Games Official" },
       { "name": "Crime Boss: Rockay City - Dragon's Gold Cup", "appid": 2934450, "date": "2024年6月18日", "publisher": "505 Games Official" },
-      { "name": "Crime Boss: Rockay City - Heavy Hitters Pack", "appid": 2934460, "date": "2024年6月18日", "publisher": "505 Games Official" },
-      { "name": "Crime Boss: Rockay City - Tactical Weapon Pack", "appid": 2934440, "date": "2024年6月18日", "publisher": "505 Games Official" },
       { "name": "Inkulinati", "appid": 957960, "date": "2024年2月22日", "publisher": "Daedalic Entertainment" },
       { "name": "Monster Prom 3: Monster Roadtrip", "appid": 1665190, "date": "2022年10月21日", "publisher": "Beautiful Glitch" },
       { "name": "Moonstone Island", "appid": 1658150, "date": "2023年9月20日", "publisher": "Raw Fury" },
@@ -856,11 +824,7 @@
       { "name": "Wildmender", "appid": 1599330, "date": "2023年9月28日", "publisher": "Kwalee" }
     ] },
     { "choice": 70, "month": "September", "year": 2025, "games": [
-      { "name": "Destiny 2: Beyond Light Pack", "appid": 1314563, "date": "2020年11月10日", "publisher": "Bungie" },
-      { "name": "Destiny 2: Bungie 30th Anniversary Pack", "appid": 1656370, "date": "2021年12月7日", "publisher": "Bungie" },
-      { "name": "Destiny 2: Forsaken Pack", "appid": 1090150, "date": "2019年10月1日", "publisher": "Bungie" },
       { "name": "Destiny 2: Lightfall", "appid": 1945340, "date": "2023年2月28日", "publisher": "Bungie" },
-      { "name": "Destiny 2: Shadowkeep Pack", "appid": 1090200, "date": "2019年10月1日", "publisher": "Bungie" },
       { "name": "Destiny 2: The Final Shape", "appid": 2336880, "date": "2024年6月4日", "publisher": "Bungie" },
       { "name": "Destiny 2: The Witch Queen", "appid": 1656330, "date": "2022年2月22日", "publisher": "Bungie" },
       { "name": "Grapple Dog", "appid": 1345860, "date": "2022年2月10日", "publisher": "Super Rare Originals" },
@@ -960,6 +924,36 @@
       { "name": "Octopath Traveler II", "appid": 1971650, "date": "2023年2月24日", "publisher": "Square Enix" },
       { "name": "Overlooting", "appid": 3410180, "date": "2025年9月1日", "publisher": "Posing Possums" },
       { "name": "The Riftbreaker", "appid": 780310, "date": "2021年10月14日", "publisher": "EXOR Studios" }
+    ] },
+    { "choice": 80, "month": "July", "year": 2026, "games": [
+      { "name": "Dicefolk", "appid": 1996430, "date": "2024年2月27日", "publisher": "Good Shepherd Entertainment" },
+      { "name": "Neon White", "appid": 1533420, "date": "2022年6月16日", "publisher": "Annapurna Interactive" },
+      { "name": "Our Adventurer Guild", "appid": 2026000, "date": "2024年4月12日", "publisher": "GreenGuy" },
+      { "name": "Police Simulator: Patrol Officers", "appid": 997010, "date": "2022年11月10日", "publisher": "astragon Entertainment" },
+      { "name": "Sea of Stars: Sunset Edition", "appid": 1244090, "date": "2023年8月29日", "publisher": "Sabotage Studio" },
+      { "name": "Sledders", "appid": 2486740, "date": "2025年3月20日", "publisher": "Bonus Stage Publishing" },
+      { "name": "TUNIC", "appid": 553420, "date": "2022年3月16日", "publisher": "Finji" },
+      { "name": "Drop Duchy", "appid": 2525310, "date": "2025年5月5日", "publisher": "The Arcade Crew" }
+    ] },
+    { "choice": 81, "month": "August", "year": 2026, "games": [
+      { "name": "Like a Dragon: Infinite Wealth", "appid": 2072450, "date": "2024年1月26日", "publisher": "世嘉 (SEGA)" },
+      { "name": "Dead Cells", "appid": 588650, "date": "2018年8月7日", "publisher": "Motion Twin" },
+      { "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge", "appid": 1361510, "date": "2022年6月16日", "publisher": "Dotemu" },
+      { "name": "Decktamer", "appid": 2870340, "date": "2025年10月27日", "publisher": "Assemble Entertainment" },
+      { "name": "Conquest Dark", "appid": 3238670, "date": "2025年4月30日", "publisher": "Mad Mushroom" },
+      { "name": "Gatekeeper", "appid": 2106670, "date": "2025年8月1日", "publisher": "HypeTrain Digital" },
+      { "name": "Pile Up!", "appid": 2094910, "date": "2025年7月23日", "publisher": "Catoptric Games" },
+      { "name": "Dark Envoy", "appid": 945770, "date": "2023年10月24日", "publisher": "Event Horizon" }
+    ] },
+    { "choice": 82, "month": "September", "year": 2026, "games": [
+      { "name": "Ballionaire", "appid": 2667120, "date": "2024年12月10日", "publisher": "Raw Fury" },
+      { "name": "Frostpunk 2", "appid": 1601580, "date": "2024年9月18日", "publisher": "11 bit studios" },
+      { "name": "GUNTOUCHABLES", "appid": 2543510, "date": "2025年8月7日", "publisher": "Ghost Ship Publishing" },
+      { "name": "Keylocker | Turn Based Cyberpunk Action", "appid": 1325040, "date": "2024年9月18日", "publisher": "Serenity Forge" },
+      { "name": "Pocket Mirror ~ GoldenerTraum", "appid": 1899060, "date": "2023年5月19日", "publisher": "KOMODO" },
+      { "name": "SONIC X SHADOW GENERATIONS", "appid": 2513280, "date": "2024年10月25日", "publisher": "世嘉 (SEGA)" },
+      { "name": "Urban Jungle", "appid": 2744010, "date": "2025年3月21日", "publisher": "Assemble Entertainment" },
+      { "name": "Voidtrain", "appid": 1159690, "date": "2025年11月7日", "publisher": "HypeTrain Digital" }
     ] }
   ]
 }
