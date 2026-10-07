@@ -956,12 +956,12 @@
       { "name": "Voidtrain", "appid": 1159690, "date": "2025年11月7日", "publisher": "HypeTrain Digital" }
     ] },
     { "choice": 83, "month": "October", "year": 2026, "games": [
-      { "name": "Like a Dragon: Pirate Yakuza in Hawaii", "appid": 1134850, "date": "2025年2月21日", "publisher": "世嘉 (SEGA)" },
+      { "name": "Like a Dragon: Pirate Yakuza in Hawaii", "appid": 3061810, "date": "2025年2月21日", "publisher": "世嘉 (SEGA)" },
       { "name": "Prince of Persia: The Lost Crown", "appid": 2751000, "date": "2024年1月18日", "publisher": "育碧 (Ubisoft)" },
       { "name": "Psychonauts 2", "appid": 607080, "date": "2021年8月25日", "publisher": "Xbox Game Studios" },
       { "name": "Deep Rock Galactic: Survivor", "appid": 2321470, "date": "2025年9月17日", "publisher": "Ghost Ship Publishing" },
-      { "name": "Cataclismo", "appid": 1097605, "date": "2025年3月20日", "publisher": "Hooded Horse" },
-      { "name": "Dungeons & Degenerate Gamblers", "appid": 1098136, "date": "2024年8月8日", "publisher": "Yogscast Games" },
+      { "name": "Cataclismo", "appid": 1422440, "date": "2025年3月20日", "publisher": "Hooded Horse" },
+      { "name": "Dungeons & Degenerate Gamblers", "appid": 2400510, "date": "2024年8月8日", "publisher": "Yogscast Games" },
       { "name": "Asgard's Fall — Viking Survivors", "appid": 2780710, "date": "2026年9月9日", "publisher": "Assemble Entertainment" },
       { "name": "Toy Shire", "appid": 2361460, "date": "2026年10月6日", "publisher": "Catoptric Games" }
     ] }
