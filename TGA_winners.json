@@ -1,304 +1,1517 @@
 {
-  "_meta": { "description": "The Game Awards 主要奖项获奖列表（2014-2025）：每行一个奖项，类别顺序延续上一年、当年新增类别排最后；appid 数字=Steam游戏、字符串=非Steam平台独占；name 为中文译名", "updated": "2026-10-28", "source": "Wikipedia TGA 2014-2025 各届获奖记录（子代理交叉验证）", "categories": { "goty": "年度游戏", "direction": "最佳游戏指导", "narrative": "最佳叙事", "art": "最佳美术指导", "score": "最佳配乐", "audio": "最佳音效设计", "performance": "最佳表演", "impact": "最具影响游戏", "ongoing": "最佳持续运营", "indie": "最佳独立游戏", "debut": "最佳处女作独立", "mobile": "最佳手机游戏", "vrar": "最佳VR/AR游戏", "action": "最佳动作游戏", "actionadv": "最佳动作冒险", "rpg": "最佳角色扮演", "fighting": "最佳格斗游戏", "family": "最佳家庭游戏", "simstrategy": "最佳模拟/策略", "sportsracing": "最佳体育/竞速", "multiplayer": "最佳多人游戏", "playervoice": "玩家之声" }, "total": 161, "exclusives": 36 },
+  "_meta": { "description": "The Game Awards 主要奖项获奖列表（2014-2025）：每行一个奖项，类别顺序延续上一年、当年新增类别排最后；appid 数字=Steam游戏、字符串=非Steam平台独占；name 为中文译名；2014 起含 nominees（该奖项当年其余提名游戏，按 Wikipedia 各届页面）", "updated": "2026-10-29", "source": "Wikipedia TGA 2014-2025 各届获奖记录（子代理交叉验证）", "categories": { "goty": "年度游戏", "direction": "最佳游戏指导", "narrative": "最佳叙事", "art": "最佳美术指导", "score": "最佳配乐", "audio": "最佳音效设计", "performance": "最佳表演", "impact": "最具影响游戏", "ongoing": "最佳持续运营", "indie": "最佳独立游戏", "debut": "最佳处女作独立", "mobile": "最佳手机游戏", "vrar": "最佳VR/AR游戏", "action": "最佳动作游戏", "actionadv": "最佳动作冒险", "rpg": "最佳角色扮演", "fighting": "最佳格斗游戏", "family": "最佳家庭游戏", "simstrategy": "最佳模拟/策略", "sportsracing": "最佳体育/竞速", "multiplayer": "最佳多人游戏", "playervoice": "玩家之声" }, "total": 161, "exclusives": 36 },
   "years": [
     {
       "year": 2014,
       "games": [
-        { "awards": "goty", "appid": 1222690, "name": "龙腾世纪审判" },
-        { "awards": "narrative", "appid": 260230, "name": "勇敢的心：世界大战" },
-        { "awards": "performance", "appid": 213670, "name": "南方公园：真理之杖" },
-        { "awards": "score", "appid": 1085660, "name": "命运2" },
-        { "awards": "impact", "appid": 260230, "name": "勇敢的心：世界大战" },
-        { "awards": "indie", "appid": 250760, "name": "铲子骑士：宝盒" },
-        { "awards": "actionadv", "appid": 241930, "name": "中土世界：暗影魔多" },
-        { "awards": "rpg", "appid": 1222690, "name": "龙腾世纪审判" },
-        { "awards": "fighting", "appid": "任天堂独占", "name": "任天堂明星大乱斗 Wii U 版" },
-        { "awards": "family", "appid": "任天堂独占", "name": "马力欧卡丁车8" },
-        { "awards": "sportsracing", "appid": "任天堂独占", "name": "马力欧卡丁车8" },
-        { "awards": "mobile", "appid": "暴雪战网", "name": "炉石传说" }
+        { "awards": "goty", "appid": 1222690, "name": "龙腾世纪审判", "nominees": [
+          { "appid": "任天堂独占", "name": "猎天使魔女2" },
+          { "appid": 335300, "name": "黑暗之魂II：原罪学者" },
+          { "appid": "暴雪战网", "name": "炉石传说" },
+          { "appid": 241930, "name": "中土世界：暗影魔多" }
+        ]},
+        { "awards": "narrative", "appid": 260230, "name": "勇敢的心：世界大战", "nominees": [
+          { "appid": 213670, "name": "南方公园：真理之杖" },
+          { "appid": 261030, "name": "行尸走肉：第二季" },
+          { "appid": 250320, "name": "我们身边的狼" },
+          { "appid": 201810, "name": "德军总部：新秩序" }
+        ]},
+        { "awards": "performance", "appid": 213670, "name": "南方公园：真理之杖", "nominees": [
+          { "appid": 250320, "name": "我们身边的狼" },
+          { "appid": 209650, "name": "使命召唤11：高级战争" },
+          { "appid": 261030, "name": "行尸走肉：第二季" },
+          { "appid": 241930, "name": "中土世界：暗影魔多" }
+        ]},
+        { "awards": "score", "appid": 1085660, "name": "命运2", "nominees": [
+          { "appid": 214490, "name": "异形：隔离" },
+          { "appid": 256290, "name": "光之子" },
+          { "appid": 1250410, "name": "日落过载" },
+          { "appid": 237850, "name": "晶体管" }
+        ]},
+        { "awards": "impact", "appid": 260230, "name": "勇敢的心：世界大战", "nominees": [
+          { "appid": 271600, "name": "山" },
+          { "appid": 295790, "name": "永不孤单" },
+          { "appid": 1888930, "name": "最后生还者：遗留" },
+          { "appid": 282070, "name": "这是我的战争" }
+        ]},
+        { "awards": "indie", "appid": 250760, "name": "铲子骑士：宝盒", "nominees": [
+          { "appid": 232790, "name": "破碎年龄" },
+          { "appid": "手机游戏", "name": "纪念碑谷" },
+          { "appid": 237850, "name": "晶体管" },
+          { "appid": 258520, "name": "伊森卡特的消失" }
+        ]},
+        { "awards": "actionadv", "appid": 241930, "name": "中土世界：暗影魔多", "nominees": [
+          { "appid": 286570, "name": "刺客信条：大革命" },
+          { "appid": 214490, "name": "异形：隔离" },
+          { "appid": "任天堂独占", "name": "猎天使魔女2" },
+          { "appid": 1250410, "name": "日落过载" }
+        ]},
+        { "awards": "rpg", "appid": 1222690, "name": "龙腾世纪审判", "nominees": [
+          { "appid": "任天堂独占", "name": "勇气默示录" },
+          { "appid": 335300, "name": "黑暗之魂II：原罪学者" },
+          { "appid": 230230, "name": "神界：原罪" },
+          { "appid": 213670, "name": "南方公园：真理之杖" }
+        ]},
+        { "awards": "fighting", "appid": "任天堂独占", "name": "任天堂明星大乱斗 Wii U 版", "nominees": [
+          { "appid": "Xbox/微软商店", "name": "杀手学堂：第二季" },
+          { "appid": 1879400, "name": "女神异闻录4 竞技场 究极后桥背摔" },
+          { "appid": "任天堂独占", "name": "任天堂明星大乱斗 3DS 版" },
+          { "appid": 45760, "name": "终极街霸4" }
+        ]},
+        { "awards": "family", "appid": "任天堂独占", "name": "马力欧卡丁车8", "nominees": [
+          { "appid": 281410, "name": "迪士尼无限2.0：漫威超级英雄" },
+          { "appid": "Xbox/微软商店", "name": "幻曲：音乐进化" },
+          { "appid": "Steam 未收录", "name": "小龙斯派罗：陷阱别动队" },
+          { "appid": "任天堂独占", "name": "任天狗狗+猫猫" }
+        ]},
+        { "awards": "sportsracing", "appid": "任天堂独占", "name": "马力欧卡丁车8", "nominees": [
+          { "appid": 356870, "name": "FIFA 15" },
+          { "appid": "Xbox/微软商店", "name": "极限竞速：地平线2" },
+          { "appid": 370910, "name": "NBA 2K15" },
+          { "appid": 248150, "name": "特技摩托：聚变" }
+        ]},
+        { "awards": "mobile", "appid": "暴雪战网", "name": "炉石传说", "nominees": [
+          { "appid": "任天堂独占", "name": "勇气默示录" },
+          { "appid": "手机游戏", "name": "纪念碑谷" },
+          { "appid": "任天堂独占", "name": "任天堂明星大乱斗 3DS 版" },
+          { "appid": "手机游戏", "name": "Threes" }
+        ]}
       ]
     },
     {
       "year": 2015,
       "games": [
-        { "awards": "goty", "appid": 292030, "name": "巫师3：狂猎 — 重制版" },
-        { "awards": "narrative", "appid": 368370, "name": "她的故事" },
-        { "awards": "performance", "appid": 368370, "name": "她的故事" },
-        { "awards": "score", "appid": 287700, "name": "合金装备V：幻痛" },
-        { "awards": "impact", "appid": 1265920, "name": "奇异人生 重制版" },
-        { "awards": "indie", "appid": 252950, "name": "火箭联盟" },
-        { "awards": "actionadv", "appid": 287700, "name": "合金装备V：幻痛" },
-        { "awards": "rpg", "appid": 292030, "name": "巫师3：狂猎 — 重制版" },
-        { "awards": "fighting", "appid": 307780, "name": "真人快打X" },
-        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧创造家" },
-        { "awards": "sportsracing", "appid": 252950, "name": "火箭联盟" },
-        { "awards": "mobile", "appid": 540840, "name": "劳拉GO" },
-        { "awards": "art", "appid": 261570, "name": "奥日与黑暗森林" },
-        { "awards": "multiplayer", "appid": "任天堂独占", "name": "斯普拉遁" }
+        { "awards": "goty", "appid": 292030, "name": "巫师3：狂猎 — 重制版", "nominees": [
+          { "appid": "PlayStation 独占", "name": "血源诅咒" },
+          { "appid": 377160, "name": "辐射4" },
+          { "appid": 287700, "name": "合金装备V：幻痛" },
+          { "appid": "任天堂独占", "name": "超级马力欧创造家" }
+        ]},
+        { "awards": "narrative", "appid": 368370, "name": "她的故事", "nominees": [
+          { "appid": 319630, "name": "奇异人生" },
+          { "appid": 330830, "name": "无主之地传说" },
+          { "appid": 292030, "name": "巫师3：狂猎 — 重制版" },
+          { "appid": 2172010, "name": "直到黎明" }
+        ]},
+        { "awards": "performance", "appid": 368370, "name": "她的故事", "nominees": [
+          { "appid": 319630, "name": "奇异人生" },
+          { "appid": 391220, "name": "古墓丽影：崛起" },
+          { "appid": 292030, "name": "巫师3：狂猎 — 重制版" },
+          { "appid": 208650, "name": "蝙蝠侠：阿卡姆骑士" }
+        ]},
+        { "awards": "score", "appid": 287700, "name": "合金装备V：幻痛", "nominees": [
+          { "appid": 377160, "name": "辐射4" },
+          { "appid": "Xbox/微软商店", "name": "光环5：守护者" },
+          { "appid": 261570, "name": "奥日与黑暗森林" },
+          { "appid": 292030, "name": "巫师3：狂猎 — 重制版" }
+        ]},
+        { "awards": "impact", "appid": 1265920, "name": "奇异人生 重制版", "nominees": [
+          { "appid": 408120, "name": "Cibele" },
+          { "appid": 368370, "name": "她的故事" },
+          { "appid": 287600, "name": "Sunset" },
+          { "appid": 391540, "name": "传说之下" }
+        ]},
+        { "awards": "indie", "appid": 252950, "name": "火箭联盟", "nominees": [
+          { "appid": 332200, "name": "Axiom Verge" },
+          { "appid": 368370, "name": "她的故事" },
+          { "appid": 261570, "name": "奥日与黑暗森林" },
+          { "appid": 391540, "name": "传说之下" }
+        ]},
+        { "awards": "actionadv", "appid": 287700, "name": "合金装备V：幻痛", "nominees": [
+          { "appid": 368500, "name": "刺客信条：枭雄" },
+          { "appid": 208650, "name": "蝙蝠侠：阿卡姆骑士" },
+          { "appid": 261570, "name": "奥日与黑暗森林" },
+          { "appid": 391220, "name": "古墓丽影：崛起" }
+        ]},
+        { "awards": "rpg", "appid": 292030, "name": "巫师3：狂猎 — 重制版", "nominees": [
+          { "appid": "PlayStation 独占", "name": "血源诅咒" },
+          { "appid": 377160, "name": "辐射4" },
+          { "appid": 291650, "name": "永恒之柱" },
+          { "appid": 391540, "name": "传说之下" }
+        ]},
+        { "awards": "fighting", "appid": 307780, "name": "真人快打X", "nominees": [
+          { "appid": 376300, "name": "罪恶装备 Xrd -SIGN-" },
+          { "appid": 258160, "name": "Rise of Incarnates" },
+          { "appid": "Steam 下架", "name": "Rising Thunder" }
+        ]},
+        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧创造家", "nominees": [
+          { "appid": 361640, "name": "迪士尼无限3.0" },
+          { "appid": "Steam 未收录", "name": "乐高次元" },
+          { "appid": "Steam 未收录", "name": "小龙斯派罗：超级改装" },
+          { "appid": "任天堂独占", "name": "斯普拉遁" }
+        ]},
+        { "awards": "sportsracing", "appid": 252950, "name": "火箭联盟", "nominees": [
+          { "appid": "Steam 未收录", "name": "FIFA 16" },
+          { "appid": "Xbox/微软商店", "name": "极限竞速6" },
+          { "appid": 370240, "name": "NBA 2K16" },
+          { "appid": 375960, "name": "实况足球2016" }
+        ]},
+        { "awards": "mobile", "appid": 540840, "name": "劳拉GO", "nominees": [
+          { "appid": 360740, "name": "Downwell" },
+          { "appid": 588430, "name": "辐射：避难所" },
+          { "appid": "任天堂独占", "name": "怪物猎人4 终极版" },
+          { "appid": 455400, "name": "吃豆人256" }
+        ]},
+        { "awards": "art", "appid": 261570, "name": "奥日与黑暗森林", "nominees": [
+          { "appid": 208650, "name": "蝙蝠侠：阿卡姆骑士" },
+          { "appid": "PlayStation 独占", "name": "血源诅咒" },
+          { "appid": 287700, "name": "合金装备V：幻痛" },
+          { "appid": 292030, "name": "巫师3：狂猎 — 重制版" }
+        ]},
+        { "awards": "multiplayer", "appid": "任天堂独占", "name": "斯普拉遁", "nominees": [
+          { "appid": 311210, "name": "使命召唤12：黑色行动3" },
+          { "appid": "Steam 未收录", "name": "命运：被夺走之王" },
+          { "appid": "Xbox/微软商店", "name": "光环5：守护者" },
+          { "appid": 252950, "name": "火箭联盟" }
+        ]}
       ]
     },
     {
       "year": 2016,
       "games": [
-        { "awards": "goty", "appid": 2357570, "name": "守望先锋" },
-        { "awards": "narrative", "appid": "PlayStation 独占", "name": "神秘海域4：盗贼末路" },
-        { "awards": "performance", "appid": "PlayStation 独占", "name": "神秘海域4：盗贼末路" },
-        { "awards": "score", "appid": 379720, "name": "毁灭战士" },
-        { "awards": "impact", "appid": 419460, "name": "那条龙，癌症" },
-        { "awards": "indie", "appid": 304430, "name": "深入" },
-        { "awards": "actionadv", "appid": 403640, "name": "耻辱2" },
-        { "awards": "rpg", "appid": 292030, "name": "巫师3：狂猎 — 重制版" },
-        { "awards": "fighting", "appid": 310950, "name": "街头霸王V" },
-        { "awards": "family", "appid": "手机游戏", "name": "宝可梦GO" },
-        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "极限竞速：地平线3" },
-        { "awards": "mobile", "appid": "手机游戏", "name": "宝可梦GO" },
-        { "awards": "art", "appid": 304430, "name": "深入" },
-        { "awards": "multiplayer", "appid": 2357570, "name": "守望先锋" },
-        { "awards": "direction", "appid": 2357570, "name": "守望先锋" },
-        { "awards": "action", "appid": 379720, "name": "毁灭战士" },
-        { "awards": "simstrategy", "appid": 289070, "name": "文明VI" },
-        { "awards": "vrar", "appid": 636450, "name": "Rez 无限" }
+        { "awards": "goty", "appid": 2357570, "name": "守望先锋", "nominees": [
+          { "appid": 379720, "name": "毁灭战士" },
+          { "appid": 304430, "name": "INSIDE" },
+          { "appid": 1237970, "name": "泰坦陨落2" },
+          { "appid": 1659420, "name": "神秘海域4：盗贼末路" }
+        ]},
+        { "awards": "narrative", "appid": 1659420, "name": "神秘海域4：盗贼末路", "nominees": [
+          { "appid": 383870, "name": "看火人" },
+          { "appid": 304430, "name": "INSIDE" },
+          { "appid": 360430, "name": "四海兄弟III" },
+          { "appid": 388880, "name": "Oxenfree" }
+        ]},
+        { "awards": "performance", "appid": 1659420, "name": "神秘海域4：盗贼末路", "nominees": [
+          { "appid": 360430, "name": "四海兄弟III" },
+          { "appid": 383870, "name": "看火人" }
+        ]},
+        { "awards": "score", "appid": 379720, "name": "毁灭战士", "nominees": [
+          { "appid": 1238840, "name": "战地1" },
+          { "appid": 304430, "name": "INSIDE" },
+          { "appid": 636450, "name": "Rez 无限" },
+          { "appid": 356400, "name": "Thumper" }
+        ]},
+        { "awards": "impact", "appid": 419460, "name": "那条龙，癌症", "nominees": [
+          { "appid": 416210, "name": "Block'hood" },
+          { "appid": 491950, "name": "奥威尔" },
+          { "appid": "手机游戏", "name": "Sea Hero Quest" },
+          { "appid": 388320, "name": "1979革命：黑色星期五" }
+        ]},
+        { "awards": "indie", "appid": 304430, "name": "INSIDE", "nominees": [
+          { "appid": 383870, "name": "看火人" },
+          { "appid": 257850, "name": "光明旅者" },
+          { "appid": 413150, "name": "星露谷物语" },
+          { "appid": 210970, "name": "见证者" }
+        ]},
+        { "awards": "actionadv", "appid": 403640, "name": "耻辱2", "nominees": [
+          { "appid": 1659040, "name": "杀手" },
+          { "appid": 257850, "name": "光明旅者" },
+          { "appid": "PlayStation 独占", "name": "瑞奇与叮当" },
+          { "appid": 1659420, "name": "神秘海域4：盗贼末路" }
+        ]},
+        { "awards": "rpg", "appid": 292030, "name": "巫师3：狂猎 — 重制版", "nominees": [
+          { "appid": 374320, "name": "黑暗之魂3" },
+          { "appid": 337000, "name": "杀出重围：人类分裂" },
+          { "appid": "暴雪战网", "name": "魔兽世界：军团再临" },
+          { "appid": "任天堂独占", "name": "异度之刃X" }
+        ]},
+        { "awards": "fighting", "appid": 310950, "name": "街头霸王V", "nominees": [
+          { "appid": 577940, "name": "杀手学堂" },
+          { "appid": 571260, "name": "拳皇14 Steam版" },
+          { "appid": "任天堂独占", "name": "宝可拳" }
+        ]},
+        { "awards": "family", "appid": "手机游戏", "name": "宝可梦GO", "nominees": [
+          { "appid": 2436570, "name": "勇者斗恶龙：创世小玩家" },
+          { "appid": 438640, "name": "乐高星球大战：原力觉醒" },
+          { "appid": "PlayStation 独占", "name": "瑞奇与叮当" },
+          { "appid": "Steam 未收录", "name": "小龙斯派罗：创想师" }
+        ]},
+        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "极限竞速：地平线3", "nominees": [
+          { "appid": "Steam 未收录", "name": "FIFA 17" },
+          { "appid": "PlayStation 独占", "name": "MLB The Show 16" },
+          { "appid": 385760, "name": "NBA 2K17" },
+          { "appid": 456610, "name": "实况足球2017" }
+        ]},
+        { "awards": "mobile", "appid": "手机游戏", "name": "宝可梦GO", "nominees": [
+          { "appid": "手机游戏", "name": "部落冲突：皇室战争" },
+          { "appid": "任天堂独占", "name": "火焰纹章if" },
+          { "appid": "任天堂独占", "name": "怪物猎人X" },
+          { "appid": "手机游戏", "name": "Severed" }
+        ]},
+        { "awards": "art", "appid": 304430, "name": "INSIDE", "nominees": [
+          { "appid": 384190, "name": "ABZU" },
+          { "appid": 383870, "name": "看火人" },
+          { "appid": 2357570, "name": "守望先锋" },
+          { "appid": 1659420, "name": "神秘海域4：盗贼末路" }
+        ]},
+        { "awards": "multiplayer", "appid": 2357570, "name": "守望先锋", "nominees": [
+          { "appid": 1238840, "name": "战地1" },
+          { "appid": "Xbox/微软商店", "name": "战争机器4" },
+          { "appid": 1243830, "name": "胡闹厨房 全都好吃" },
+          { "appid": 1237970, "name": "泰坦陨落2" },
+          { "appid": 359550, "name": "彩虹六号：围攻" }
+        ]},
+        { "awards": "direction", "appid": 2357570, "name": "守望先锋", "nominees": [
+          { "appid": 1238840, "name": "战地1" },
+          { "appid": 379720, "name": "毁灭战士" },
+          { "appid": 1237970, "name": "泰坦陨落2" },
+          { "appid": 1659420, "name": "神秘海域4：盗贼末路" }
+        ]},
+        { "awards": "action", "appid": 379720, "name": "毁灭战士", "nominees": [
+          { "appid": 1238840, "name": "战地1" },
+          { "appid": "Xbox/微软商店", "name": "战争机器4" },
+          { "appid": 2357570, "name": "守望先锋" },
+          { "appid": 1237970, "name": "泰坦陨落2" }
+        ]},
+        { "awards": "simstrategy", "appid": 289070, "name": "文明VI", "nominees": [
+          { "appid": "任天堂独占", "name": "火焰纹章if" },
+          { "appid": 281640, "name": "旗帜的传说2" },
+          { "appid": 364360, "name": "全面战争：战锤" },
+          { "appid": 268500, "name": "幽浮2" }
+        ]},
+        { "awards": "vrar", "appid": 636450, "name": "Rez 无限", "nominees": [
+          { "appid": 502820, "name": "蝙蝠侠：阿卡姆VR" },
+          { "appid": "VR 独占", "name": "EVE：瓦尔基里" },
+          { "appid": 448280, "name": "工作模拟器" },
+          { "appid": 356400, "name": "Thumper" }
+        ]}
       ]
     },
     {
       "year": 2017,
       "games": [
-        { "awards": "goty", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" },
-        { "awards": "narrative", "appid": 501300, "name": "艾迪芬奇的记忆" },
-        { "awards": "performance", "appid": 414340, "name": "地狱之刃：塞娜的献祭" },
-        { "awards": "score", "appid": 524220, "name": "尼尔：机械纪元" },
-        { "awards": "impact", "appid": 414340, "name": "地狱之刃：塞娜的献祭" },
-        { "awards": "indie", "appid": 268910, "name": "茶杯头" },
-        { "awards": "actionadv", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" },
-        { "awards": "rpg", "appid": 1687950, "name": "女神异闻录5皇家版" },
-        { "awards": "fighting", "appid": 627270, "name": "不义联盟2" },
-        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
-        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "极限竞速7" },
-        { "awards": "mobile", "appid": 1927740, "name": "纪念碑谷2" },
-        { "awards": "art", "appid": 268910, "name": "茶杯头" },
-        { "awards": "multiplayer", "appid": 578080, "name": "绝地求生" },
-        { "awards": "direction", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" },
-        { "awards": "action", "appid": 612880, "name": "德军总部II：新巨像" },
-        { "awards": "simstrategy", "appid": "任天堂独占", "name": "马力欧+疯兔：王国之战" },
-        { "awards": "vrar", "appid": 418370, "name": "生化危机7" },
-        { "awards": "audio", "appid": 414340, "name": "地狱之刃：塞娜的献祭" },
-        { "awards": "debut", "appid": 268910, "name": "茶杯头" },
-        { "awards": "ongoing", "appid": 2357570, "name": "守望先锋" }
+        { "awards": "goty", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息", "nominees": [
+          { "appid": 1151640, "name": "地平线：零之曙光" },
+          { "appid": 1687950, "name": "女神异闻录5皇家版" },
+          { "appid": 578080, "name": "绝地求生" },
+          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" }
+        ]},
+        { "awards": "narrative", "appid": 501300, "name": "艾迪芬奇的记忆", "nominees": [
+          { "appid": 414340, "name": "地狱之刃：塞娜的献祭" },
+          { "appid": 1151640, "name": "地平线：零之曙光" },
+          { "appid": 524220, "name": "尼尔：机械纪元" },
+          { "appid": 612880, "name": "德军总部II：新巨像" }
+        ]},
+        { "awards": "performance", "appid": 414340, "name": "地狱之刃：塞娜的献祭", "nominees": [
+          { "appid": 1151640, "name": "地平线：零之曙光" },
+          { "appid": 612880, "name": "德军总部II：新巨像" },
+          { "appid": 1659420, "name": "神秘海域：失落的遗产" }
+        ]},
+        { "awards": "score", "appid": 524220, "name": "尼尔：机械纪元", "nominees": [
+          { "appid": 268910, "name": "茶杯头" },
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 1687950, "name": "女神异闻录5皇家版" },
+          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" }
+        ]},
+        { "awards": "impact", "appid": 414340, "name": "地狱之刃：塞娜的献祭", "nominees": [
+          { "appid": 808090, "name": "Bury Me, My Love" },
+          { "appid": 554620, "name": "奇异人生：风暴前夕" },
+          { "appid": 481510, "name": "林中之夜" },
+          { "appid": 501300, "name": "艾迪芬奇的记忆" }
+        ]},
+        { "awards": "indie", "appid": 268910, "name": "茶杯头", "nominees": [
+          { "appid": 414340, "name": "地狱之刃：塞娜的献祭" },
+          { "appid": 481510, "name": "林中之夜" },
+          { "appid": 462770, "name": "篝火" },
+          { "appid": 501300, "name": "艾迪芬奇的记忆" }
+        ]},
+        { "awards": "actionadv", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息", "nominees": [
+          { "appid": 582160, "name": "刺客信条：起源" },
+          { "appid": 1151640, "name": "地平线：零之曙光" },
+          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
+          { "appid": 1659420, "name": "神秘海域：失落的遗产" }
+        ]},
+        { "awards": "rpg", "appid": 1687950, "name": "女神异闻录5皇家版", "nominees": [
+          { "appid": 435150, "name": "神界：原罪2 - 终极版" },
+          { "appid": 637650, "name": "最终幻想15" },
+          { "appid": 524220, "name": "尼尔：机械纪元" },
+          { "appid": 488790, "name": "南方公园：完整破碎" }
+        ]},
+        { "awards": "fighting", "appid": 627270, "name": "不义联盟2", "nominees": [
+          { "appid": "任天堂独占", "name": "ARMS" },
+          { "appid": 493840, "name": "漫威vs卡普空：无限" },
+          { "appid": 535520, "name": "尼德霍格2" },
+          { "appid": 389730, "name": "铁拳7" }
+        ]},
+        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧：奥德赛", "nominees": [
+          { "appid": "任天堂独占", "name": "马力欧卡丁车8 豪华版" },
+          { "appid": "任天堂独占", "name": "马力欧+疯兔：王国之战" },
+          { "appid": 584400, "name": "索尼克狂欢" },
+          { "appid": "任天堂独占", "name": "斯普拉遁2" }
+        ]},
+        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "极限竞速7", "nominees": [
+          { "appid": "Steam 未收录", "name": "FIFA 18" },
+          { "appid": "PlayStation 独占", "name": "GT赛车：竞技运动" },
+          { "appid": 577800, "name": "NBA 2K18" },
+          { "appid": 592580, "name": "实况足球2018" },
+          { "appid": 378860, "name": "赛车计划2" }
+        ]},
+        { "awards": "mobile", "appid": "手机游戏", "name": "纪念碑谷2", "nominees": [
+          { "appid": "手机游戏", "name": "火焰纹章英雄" },
+          { "appid": 435400, "name": "隐藏的家伙" },
+          { "appid": 581270, "name": "回忆之旅" },
+          { "appid": "手机游戏", "name": "超级马力欧酷跑" }
+        ]},
+        { "awards": "art", "appid": 268910, "name": "茶杯头", "nominees": [
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 1151640, "name": "地平线：零之曙光" },
+          { "appid": 1687950, "name": "女神异闻录5皇家版" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" }
+        ]},
+        { "awards": "multiplayer", "appid": 578080, "name": "绝地求生", "nominees": [
+          { "appid": 476600, "name": "使命召唤14：二战" },
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": "Epic 独占", "name": "堡垒之夜" },
+          { "appid": "任天堂独占", "name": "马力欧卡丁车8 豪华版" },
+          { "appid": "任天堂独占", "name": "斯普拉遁2" }
+        ]},
+        { "awards": "direction", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息", "nominees": [
+          { "appid": 1151640, "name": "地平线：零之曙光" },
+          { "appid": 418370, "name": "生化危机7" },
+          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
+          { "appid": 612880, "name": "德军总部II：新巨像" }
+        ]},
+        { "awards": "action", "appid": 612880, "name": "德军总部II：新巨像", "nominees": [
+          { "appid": 268910, "name": "茶杯头" },
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 485510, "name": "仁王" },
+          { "appid": 480490, "name": "掠夺" }
+        ]},
+        { "awards": "simstrategy", "appid": "任天堂独占", "name": "马力欧+疯兔：王国之战", "nominees": [
+          { "appid": "Xbox/微软商店", "name": "光环战争2" },
+          { "appid": 594570, "name": "全面战争：战锤2" },
+          { "appid": 286000, "name": "Tooth and Tail" },
+          { "appid": 593380, "name": "幽浮2：天选者之战" }
+        ]},
+        { "awards": "vrar", "appid": 418370, "name": "生化危机7", "nominees": [
+          { "appid": "VR 独占", "name": "Farpoint" },
+          { "appid": "VR 独占", "name": "Lone Echo" },
+          { "appid": 411460, "name": "星际迷航：舰桥船员" },
+          { "appid": 617830, "name": "SUPERHOT VR" }
+        ]},
+        { "awards": "audio", "appid": 414340, "name": "地狱之刃：塞娜的献祭", "nominees": [
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 418370, "name": "生化危机7" },
+          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" }
+        ]},
+        { "awards": "debut", "appid": 268910, "name": "茶杯头", "nominees": [
+          { "appid": "任天堂独占", "name": "高尔夫物语" },
+          { "appid": 367520, "name": "空洞骑士" },
+          { "appid": 489140, "name": "Mr. Shifty" },
+          { "appid": 433340, "name": "史莱姆牧场" }
+        ]},
+        { "awards": "ongoing", "appid": 2357570, "name": "守望先锋", "nominees": [
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 271590, "name": "侠盗猎车手Online" },
+          { "appid": 578080, "name": "绝地求生" },
+          { "appid": 359550, "name": "彩虹六号：围攻" },
+          { "appid": 230410, "name": "星际战甲" }
+        ]}
       ]
     },
     {
       "year": 2018,
       "games": [
-        { "awards": "goty", "appid": 1593500, "name": "战神" },
-        { "awards": "narrative", "appid": 1174180, "name": "荒野大镖客：救赎2" },
-        { "awards": "performance", "appid": 1174180, "name": "荒野大镖客：救赎2" },
-        { "awards": "score", "appid": 1174180, "name": "荒野大镖客：救赎2" },
-        { "awards": "impact", "appid": 504230, "name": "蔚蓝" },
-        { "awards": "indie", "appid": 504230, "name": "蔚蓝" },
-        { "awards": "actionadv", "appid": 1593500, "name": "战神" },
-        { "awards": "rpg", "appid": 582010, "name": "怪物猎人：世界" },
-        { "awards": "fighting", "appid": 678950, "name": "龙珠斗士Z" },
-        { "awards": "family", "appid": 728880, "name": "胡闹厨房2" },
-        { "awards": "sportsracing", "appid": 1293830, "name": "极限竞速：地平线 4" },
-        { "awards": "mobile", "appid": 1102130, "name": "弗洛伦斯" },
-        { "awards": "art", "appid": 653530, "name": "奥伯拉丁的回归" },
-        { "awards": "multiplayer", "appid": "Epic 独占", "name": "堡垒之夜" },
-        { "awards": "direction", "appid": 1593500, "name": "战神" },
-        { "awards": "action", "appid": 588650, "name": "死亡细胞" },
-        { "awards": "simstrategy", "appid": 590380, "name": "陷阵之志" },
-        { "awards": "vrar", "appid": "PlayStation 独占", "name": "宇宙机器人：搜救行动" },
-        { "awards": "audio", "appid": 1174180, "name": "荒野大镖客：救赎2" },
-        { "awards": "debut", "appid": 764790, "name": "信使" },
-        { "awards": "ongoing", "appid": "Epic 独占", "name": "堡垒之夜" }
+        { "awards": "goty", "appid": 1593500, "name": "战神", "nominees": [
+          { "appid": 812140, "name": "刺客信条：奥德赛" },
+          { "appid": 504230, "name": "蔚蓝" },
+          { "appid": 1817070, "name": "漫威蜘蛛侠" },
+          { "appid": 582010, "name": "怪物猎人：世界" },
+          { "appid": 1174180, "name": "荒野大镖客：救赎2" }
+        ]},
+        { "awards": "narrative", "appid": 1174180, "name": "荒野大镖客：救赎2", "nominees": [
+          { "appid": 1222140, "name": "底特律：化身为人" },
+          { "appid": 1593500, "name": "战神" },
+          { "appid": 532210, "name": "奇异人生2" },
+          { "appid": 1817070, "name": "漫威蜘蛛侠" }
+        ]},
+        { "awards": "performance", "appid": 1174180, "name": "荒野大镖客：救赎2", "nominees": [
+          { "appid": 1222140, "name": "底特律：化身为人" },
+          { "appid": 1593500, "name": "战神" },
+          { "appid": 1817070, "name": "漫威蜘蛛侠" },
+          { "appid": 812140, "name": "刺客信条：奥德赛" }
+        ]},
+        { "awards": "score", "appid": 1174180, "name": "荒野大镖客：救赎2", "nominees": [
+          { "appid": 504230, "name": "蔚蓝" },
+          { "appid": 1593500, "name": "战神" },
+          { "appid": 1817070, "name": "漫威蜘蛛侠" },
+          { "appid": 589360, "name": "二之国2：亡灵之国" },
+          { "appid": 1467100, "name": "歧路旅人" }
+        ]},
+        { "awards": "impact", "appid": 504230, "name": "蔚蓝", "nominees": [
+          { "appid": 735580, "name": "11-11 Memories Retold" },
+          { "appid": 1102130, "name": "弗洛伦斯" },
+          { "appid": 532210, "name": "奇异人生2" },
+          { "appid": 842910, "name": "The MISSING" }
+        ]},
+        { "awards": "indie", "appid": 504230, "name": "蔚蓝", "nominees": [
+          { "appid": 588650, "name": "死亡细胞" },
+          { "appid": 590380, "name": "陷阵之志" },
+          { "appid": 764790, "name": "信使" },
+          { "appid": 653530, "name": "奥伯拉丁的回归" }
+        ]},
+        { "awards": "actionadv", "appid": 1593500, "name": "战神", "nominees": [
+          { "appid": 812140, "name": "刺客信条：奥德赛" },
+          { "appid": 1817070, "name": "漫威蜘蛛侠" },
+          { "appid": 1174180, "name": "荒野大镖客：救赎2" },
+          { "appid": 750920, "name": "古墓丽影：暗影" }
+        ]},
+        { "awards": "rpg", "appid": 582010, "name": "怪物猎人：世界", "nominees": [
+          { "appid": 1295510, "name": "勇者斗恶龙XI S" },
+          { "appid": 589360, "name": "二之国2：亡灵之国" },
+          { "appid": 1467100, "name": "歧路旅人" },
+          { "appid": 560130, "name": "永恒之柱2：死亡之火" }
+        ]},
+        { "awards": "fighting", "appid": 678950, "name": "龙珠斗士Z", "nominees": [
+          { "appid": 702890, "name": "苍翼默示录：交叉组队战" },
+          { "appid": 544750, "name": "灵魂能力6" },
+          { "appid": 310950, "name": "街头霸王V：街机版" }
+        ]},
+        { "awards": "family", "appid": 728880, "name": "胡闹厨房2", "nominees": [
+          { "appid": "任天堂独占", "name": "马力欧网球 王牌" },
+          { "appid": 950050, "name": "星链：阿特拉斯之战" },
+          { "appid": "任天堂独占", "name": "超级马力欧派对" }
+        ]},
+        { "awards": "sportsracing", "appid": 1293830, "name": "极限竞速：地平线 4", "nominees": [
+          { "appid": "Steam 未收录", "name": "FIFA 19" },
+          { "appid": "任天堂独占", "name": "马力欧网球 王牌" },
+          { "appid": 841370, "name": "NBA 2K19" },
+          { "appid": 770240, "name": "实况足球2019" }
+        ]},
+        { "awards": "mobile", "appid": 1102130, "name": "弗洛伦斯", "nominees": [
+          { "appid": 702670, "name": "甜甜圈都市" },
+          { "appid": "手机游戏", "name": "堡垒之夜" },
+          { "appid": "手机游戏", "name": "绝地求生手游" },
+          { "appid": 897820, "name": "王权：权力的游戏" }
+        ]},
+        { "awards": "art", "appid": 653530, "name": "奥伯拉丁的回归", "nominees": [
+          { "appid": 812140, "name": "刺客信条：奥德赛" },
+          { "appid": 1593500, "name": "战神" },
+          { "appid": 1174180, "name": "荒野大镖客：救赎2" },
+          { "appid": 1467100, "name": "歧路旅人" }
+        ]},
+        { "awards": "multiplayer", "appid": "Epic 独占", "name": "堡垒之夜", "nominees": [
+          { "appid": "暴雪战网", "name": "使命召唤15：黑色行动4" },
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 582010, "name": "怪物猎人：世界" },
+          { "appid": 1172620, "name": "盗贼之海" }
+        ]},
+        { "awards": "direction", "appid": 1593500, "name": "战神", "nominees": [
+          { "appid": 1222700, "name": "逃出生天" },
+          { "appid": 1222140, "name": "底特律：化身为人" },
+          { "appid": 1817070, "name": "漫威蜘蛛侠" },
+          { "appid": 1174180, "name": "荒野大镖客：救赎2" }
+        ]},
+        { "awards": "action", "appid": 588650, "name": "死亡细胞", "nominees": [
+          { "appid": "暴雪战网", "name": "使命召唤15：黑色行动4" },
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 552520, "name": "孤岛惊魂5" },
+          { "appid": 742300, "name": "洛克人11" }
+        ]},
+        { "awards": "simstrategy", "appid": 590380, "name": "陷阵之志", "nominees": [
+          { "appid": 485460, "name": "旗帜的传说3" },
+          { "appid": 637090, "name": "暴战机甲兵" },
+          { "appid": 323190, "name": "冰汽时代" },
+          { "appid": 790820, "name": "战场女武神4" }
+        ]},
+        { "awards": "vrar", "appid": "PlayStation 独占", "name": "宇宙机器人：搜救行动", "nominees": [
+          { "appid": 620980, "name": "节奏光剑" },
+          { "appid": "VR 独占", "name": "Firewall: Zero Hour" },
+          { "appid": 846470, "name": "Moss VR" },
+          { "appid": 1003590, "name": "俄罗斯方块效应：连接" }
+        ]},
+        { "awards": "audio", "appid": 1174180, "name": "荒野大镖客：救赎2", "nominees": [
+          { "appid": "暴雪战网", "name": "使命召唤15：黑色行动4" },
+          { "appid": 1293830, "name": "极限竞速：地平线 4" },
+          { "appid": 1593500, "name": "战神" },
+          { "appid": 1817070, "name": "漫威蜘蛛侠" }
+        ]},
+        { "awards": "debut", "appid": 764790, "name": "信使", "nominees": [
+          { "appid": 702670, "name": "甜甜圈都市" },
+          { "appid": 1102130, "name": "弗洛伦斯" },
+          { "appid": 846470, "name": "Moss VR" },
+          { "appid": 334940, "name": "尤库的小岛速递" }
+        ]},
+        { "awards": "ongoing", "appid": "Epic 独占", "name": "堡垒之夜", "nominees": [
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 275850, "name": "无人深空" },
+          { "appid": 2357570, "name": "守望先锋" },
+          { "appid": 359550, "name": "彩虹六号：围攻" }
+        ]}
       ]
     },
     {
       "year": 2019,
       "games": [
-        { "awards": "goty", "appid": 814380, "name": "只狼：影逝二度 年度版" },
-        { "awards": "narrative", "appid": 632470, "name": "极乐迪斯科 最终剪辑版" },
-        { "awards": "performance", "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
-        { "awards": "score", "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
-        { "awards": "impact", "appid": 683320, "name": "格莉丝" },
-        { "awards": "indie", "appid": 632470, "name": "极乐迪斯科 最终剪辑版" },
-        { "awards": "actionadv", "appid": 814380, "name": "只狼：影逝二度 年度版" },
-        { "awards": "rpg", "appid": 632470, "name": "极乐迪斯科 最终剪辑版" },
-        { "awards": "fighting", "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版" },
-        { "awards": "family", "appid": "任天堂独占", "name": "路易吉洋馆3" },
-        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "古惑狼赛车 氮气加速" },
-        { "awards": "mobile", "appid": "手机游戏", "name": "使命召唤手游" },
-        { "awards": "art", "appid": 870780, "name": "控制 - 终极合辑 / Control Ultimate Edition" },
-        { "awards": "multiplayer", "appid": 1172470, "name": "Apex英雄" },
-        { "awards": "direction", "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
-        { "awards": "action", "appid": 601150, "name": "鬼泣5" },
-        { "awards": "simstrategy", "appid": "任天堂独占", "name": "火焰纹章：风花雪月" },
-        { "awards": "vrar", "appid": 620980, "name": "节奏光剑" },
-        { "awards": "audio", "appid": 1938090, "name": "使命召唤" },
-        { "awards": "debut", "appid": 632470, "name": "极乐迪斯科 最终剪辑版" },
-        { "awards": "ongoing", "appid": "Epic 独占", "name": "堡垒之夜" },
-        { "awards": "playervoice", "appid": "任天堂独占", "name": "火焰纹章：风花雪月" }
+        { "awards": "goty", "appid": 814380, "name": "只狼：影逝二度 年度版", "nominees": [
+          { "appid": 870780, "name": "控制" },
+          { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
+          { "appid": 578650, "name": "天外世界" },
+          { "appid": 883710, "name": "生化危机2 重制版" },
+          { "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版" }
+        ]},
+        { "awards": "narrative", "appid": 632470, "name": "极乐迪斯科 最终剪辑版", "nominees": [
+          { "appid": 752590, "name": "瘟疫传说：无罪" },
+          { "appid": 870780, "name": "控制" },
+          { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
+          { "appid": 578650, "name": "天外世界" }
+        ]},
+        { "awards": "performance", "appid": 1850570, "name": "死亡搁浅 导演剪辑版", "nominees": [
+          { "appid": 1097840, "name": "战争机器5" },
+          { "appid": 578650, "name": "天外世界" },
+          { "appid": 870780, "name": "控制" }
+        ]},
+        { "awards": "score", "appid": 1850570, "name": "死亡搁浅 导演剪辑版", "nominees": [
+          { "appid": "任天堂独占", "name": "塞尔达传说：海拉鲁的节奏" },
+          { "appid": 601150, "name": "鬼泣5" },
+          { "appid": 2552450, "name": "王国之心3" },
+          { "appid": 1122720, "name": "Sayonara Wild Hearts" }
+        ]},
+        { "awards": "impact", "appid": 683320, "name": "格莉丝", "nominees": [
+          { "appid": "PlayStation 独占", "name": "壁中精灵" },
+          { "appid": 1059670, "name": "Kind Words" },
+          { "appid": 532210, "name": "奇异人生2" },
+          { "appid": 1225590, "name": "孤独之海" }
+        ]},
+        { "awards": "indie", "appid": 632470, "name": "极乐迪斯科 最终剪辑版", "nominees": [
+          { "appid": 736260, "name": "Baba Is You" },
+          { "appid": 460950, "name": "武士零" },
+          { "appid": 753640, "name": "星际拓荒" },
+          { "appid": 837470, "name": "鹅作戏" }
+        ]},
+        { "awards": "actionadv", "appid": 814380, "name": "只狼：影逝二度 年度版", "nominees": [
+          { "appid": 397540, "name": "无主之地3" },
+          { "appid": 870780, "name": "控制" },
+          { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：织梦岛" },
+          { "appid": 883710, "name": "生化危机2 重制版" }
+        ]},
+        { "awards": "rpg", "appid": 632470, "name": "极乐迪斯科 最终剪辑版", "nominees": [
+          { "appid": 39210, "name": "最终幻想XIV" },
+          { "appid": 2552450, "name": "王国之心3" },
+          { "appid": 582010, "name": "怪物猎人世界：冰原" },
+          { "appid": 578650, "name": "天外世界" }
+        ]},
+        { "awards": "fighting", "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版", "nominees": [
+          { "appid": 4144680, "name": "死或生6" },
+          { "appid": 816020, "name": "Jump Force" },
+          { "appid": 976310, "name": "真人快打11" },
+          { "appid": 1342260, "name": "侍魂 晓" }
+        ]},
+        { "awards": "family", "appid": "任天堂独占", "name": "路易吉洋馆3", "nominees": [
+          { "appid": "任天堂独占", "name": "健身环大冒险" },
+          { "appid": "任天堂独占", "name": "超级马力欧创造家 2" },
+          { "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版" },
+          { "appid": "任天堂独占", "name": "耀西的手工世界" }
+        ]},
+        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "古惑狼赛车 氮气加速", "nominees": [
+          { "appid": 690790, "name": "尘埃拉力赛2.0" },
+          { "appid": 996470, "name": "实况足球2020" },
+          { "appid": 928600, "name": "F1 2019" },
+          { "appid": "Steam 未收录", "name": "FIFA 20" }
+        ]},
+        { "awards": "mobile", "appid": "手机游戏", "name": "使命召唤手游", "nominees": [
+          { "appid": 1818690, "name": "Grindstone" },
+          { "appid": 1122720, "name": "Sayonara Wild Hearts" },
+          { "appid": 2325290, "name": "光·遇" },
+          { "appid": 785790, "name": "What the Golf?" }
+        ]},
+        { "awards": "art", "appid": 870780, "name": "控制 - 终极合辑 / Control Ultimate Edition", "nominees": [
+          { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
+          { "appid": 683320, "name": "格莉丝" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：织梦岛" },
+          { "appid": 1122720, "name": "Sayonara Wild Hearts" },
+          { "appid": 814380, "name": "只狼：影逝二度 年度版" }
+        ]},
+        { "awards": "multiplayer", "appid": 1172470, "name": "Apex英雄", "nominees": [
+          { "appid": 397540, "name": "无主之地3" },
+          { "appid": 1938090, "name": "使命召唤16：现代战争" },
+          { "appid": "任天堂独占", "name": "俄罗斯方块99" },
+          { "appid": 2221490, "name": "全境封锁2" }
+        ]},
+        { "awards": "direction", "appid": 1850570, "name": "死亡搁浅 导演剪辑版", "nominees": [
+          { "appid": 870780, "name": "控制" },
+          { "appid": 753640, "name": "星际拓荒" },
+          { "appid": 883710, "name": "生化危机2 重制版" },
+          { "appid": 814380, "name": "只狼：影逝二度 年度版" }
+        ]},
+        { "awards": "action", "appid": 601150, "name": "鬼泣5", "nominees": [
+          { "appid": 1172470, "name": "Apex英雄" },
+          { "appid": "任天堂独占", "name": "星魂之链" },
+          { "appid": 1938090, "name": "使命召唤16：现代战争" },
+          { "appid": 1097840, "name": "战争机器5" },
+          { "appid": 412020, "name": "地铁：离乡" }
+        ]},
+        { "awards": "simstrategy", "appid": "任天堂独占", "name": "火焰纹章：风花雪月", "nominees": [
+          { "appid": 718850, "name": "奇迹时代：星陨" },
+          { "appid": 916440, "name": "纪元1800" },
+          { "appid": 779340, "name": "全面战争：三国" },
+          { "appid": 492720, "name": "海岛大亨6" },
+          { "appid": 607050, "name": "战律" }
+        ]},
+        { "awards": "vrar", "appid": 620980, "name": "节奏光剑", "nominees": [
+          { "appid": "VR 独占", "name": "阿斯加德之怒" },
+          { "appid": "VR 独占", "name": "Blood & Truth" },
+          { "appid": 275850, "name": "无人深空" },
+          { "appid": 1053970, "name": "Trover Saves the Universe" }
+        ]},
+        { "awards": "audio", "appid": 1938090, "name": "使命召唤", "nominees": [
+          { "appid": 870780, "name": "控制" },
+          { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
+          { "appid": 1097840, "name": "战争机器5" },
+          { "appid": 883710, "name": "生化危机2 重制版" },
+          { "appid": 814380, "name": "只狼：影逝二度 年度版" }
+        ]},
+        { "awards": "debut", "appid": 632470, "name": "极乐迪斯科 最终剪辑版", "nominees": [
+          { "appid": 683320, "name": "格莉丝" },
+          { "appid": 557340, "name": "我的朋友佩德罗" },
+          { "appid": 753640, "name": "星际拓荒" },
+          { "appid": 646570, "name": "杀戮尖塔" },
+          { "appid": 837470, "name": "鹅作戏" }
+        ]},
+        { "awards": "ongoing", "appid": "Epic 独占", "name": "堡垒之夜", "nominees": [
+          { "appid": 1172470, "name": "Apex英雄" },
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": 39210, "name": "最终幻想XIV" },
+          { "appid": 359550, "name": "彩虹六号：围攻" }
+        ]},
+        { "awards": "playervoice", "appid": "任天堂独占", "name": "火焰纹章：风花雪月", "nominees": [
+          { "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版" },
+          { "appid": 1172380, "name": "星球大战绝地：陨落的武士团" },
+          { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" }
+        ]}
       ]
     },
     {
       "year": 2020,
       "games": [
-        { "awards": "goty", "appid": 2531310, "name": "最后生还者 第二部 重制版" },
-        { "awards": "narrative", "appid": 2531310, "name": "最后生还者 第二部 重制版" },
-        { "awards": "performance", "appid": 2531310, "name": "最后生还者 第二部 重制版" },
-        { "awards": "score", "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
-        { "awards": "impact", "appid": 1180660, "name": "谓何" },
-        { "awards": "indie", "appid": 1145360, "name": "哈迪斯" },
-        { "awards": "actionadv", "appid": 2531310, "name": "最后生还者 第二部 重制版" },
-        { "awards": "rpg", "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
-        { "awards": "fighting", "appid": 976310, "name": "真人快打11" },
-        { "awards": "family", "appid": "任天堂独占", "name": "集合啦！动物森友会" },
-        { "awards": "sportsracing", "appid": 2395210, "name": "托尼·霍克：职业滑板手 1 + 2" },
-        { "awards": "mobile", "appid": 945360, "name": "我们之中" },
-        { "awards": "art", "appid": 2215430, "name": "对马岛之魂 导演剪辑版" },
-        { "awards": "multiplayer", "appid": 945360, "name": "我们之中" },
-        { "awards": "direction", "appid": 2531310, "name": "最后生还者 第二部 重制版" },
-        { "awards": "action", "appid": 1145360, "name": "哈迪斯" },
-        { "awards": "simstrategy", "appid": 1250410, "name": "微软飞行模拟 四十周年纪念版" },
-        { "awards": "vrar", "appid": 546560, "name": "半衰期：爱莉克斯" },
-        { "awards": "audio", "appid": 2531310, "name": "最后生还者 第二部 重制版" },
-        { "awards": "debut", "appid": 739630, "name": "恐鬼症" },
-        { "awards": "ongoing", "appid": 275850, "name": "无人深空" },
-        { "awards": "playervoice", "appid": 2215430, "name": "对马岛之魂 导演剪辑版" }
+        { "awards": "goty", "appid": 2531310, "name": "最后生还者 第二部 重制版", "nominees": [
+          { "appid": "任天堂独占", "name": "集合啦！动物森友会" },
+          { "appid": 782330, "name": "毁灭战士：永恒" },
+          { "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
+          { "appid": 2215430, "name": "对马岛之魂 导演剪辑版" },
+          { "appid": 1145360, "name": "哈迪斯" }
+        ]},
+        { "awards": "narrative", "appid": 2531310, "name": "最后生还者 第二部 重制版", "nominees": [
+          { "appid": 2138740, "name": "十三机兵防卫圈" },
+          { "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
+          { "appid": 2215430, "name": "对马岛之魂 导演剪辑版" },
+          { "appid": 1145360, "name": "哈迪斯" }
+        ]},
+        { "awards": "performance", "appid": 2531310, "name": "最后生还者 第二部 重制版", "nominees": [
+          { "appid": 1145360, "name": "哈迪斯" },
+          { "appid": 1817190, "name": "漫威蜘蛛侠：迈尔斯·莫拉莱斯" },
+          { "appid": 2215430, "name": "对马岛之魂 导演剪辑版" }
+        ]},
+        { "awards": "score", "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE", "nominees": [
+          { "appid": 782330, "name": "毁灭战士：永恒" },
+          { "appid": 1145360, "name": "哈迪斯" },
+          { "appid": 2531310, "name": "最后生还者 第二部 重制版" },
+          { "appid": 1057090, "name": "奥日与鬼火意志" }
+        ]},
+        { "awards": "impact", "appid": 1180660, "name": "谓何", "nominees": [
+          { "appid": 1041920, "name": "If Found..." },
+          { "appid": 231200, "name": "肯塔基零号国道" },
+          { "appid": 972660, "name": "灵魂旅人" },
+          { "appid": 1003090, "name": "至暗之时" }
+        ]},
+        { "awards": "indie", "appid": 1145360, "name": "哈迪斯", "nominees": [
+          { "appid": 953490, "name": "腐肉" },
+          { "appid": 1097150, "name": "糖豆人：终极淘汰赛" },
+          { "appid": 418530, "name": "洞窟探险2" },
+          { "appid": 972660, "name": "灵魂旅人" }
+        ]},
+        { "awards": "actionadv", "appid": 2531310, "name": "最后生还者 第二部 重制版", "nominees": [
+          { "appid": 2208920, "name": "刺客信条：英灵殿" },
+          { "appid": 2215430, "name": "对马岛之魂 导演剪辑版" },
+          { "appid": 1057090, "name": "奥日与鬼火意志" },
+          { "appid": 1817190, "name": "漫威蜘蛛侠：迈尔斯·莫拉莱斯" },
+          { "appid": 1172380, "name": "星球大战绝地：陨落的武士团" }
+        ]},
+        { "awards": "rpg", "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE", "nominees": [
+          { "appid": "手机游戏", "name": "原神" },
+          { "appid": 1687950, "name": "女神异闻录5皇家版" },
+          { "appid": 719040, "name": "废土3" },
+          { "appid": 1235140, "name": "如龙7 光与暗的去向" }
+        ]},
+        { "awards": "fighting", "appid": 976310, "name": "真人快打11", "nominees": [
+          { "appid": 1090420, "name": "碧蓝幻想Versus" },
+          { "appid": 972640, "name": "一拳超人：无名英雄" },
+          { "appid": 310950, "name": "街头霸王V 冠军版" },
+          { "appid": 725060, "name": "夜下降生 Exe:Late[cl-r]" }
+        ]},
+        { "awards": "family", "appid": "任天堂独占", "name": "集合啦！动物森友会", "nominees": [
+          { "appid": 1378990, "name": "古惑狼4：时机已到" },
+          { "appid": 1097150, "name": "糖豆人：终极淘汰赛" },
+          { "appid": "任天堂独占", "name": "马力欧卡丁车实况：家庭赛车场" },
+          { "appid": 1672970, "name": "我的世界：地下城" },
+          { "appid": "任天堂独占", "name": "纸片马力欧：折纸国王" }
+        ]},
+        { "awards": "sportsracing", "appid": 2395210, "name": "托尼·霍克：职业滑板手 1 + 2", "nominees": [
+          { "appid": 1038250, "name": "尘埃5" },
+          { "appid": 1080110, "name": "F1 2020" },
+          { "appid": 1313860, "name": "FIFA 21" },
+          { "appid": 1225330, "name": "NBA 2K21" }
+        ]},
+        { "awards": "mobile", "appid": 945360, "name": "我们之中", "nominees": [
+          { "appid": "手机游戏", "name": "使命召唤手游" },
+          { "appid": "手机游戏", "name": "原神" },
+          { "appid": "Steam 未收录", "name": "符文之地传说" },
+          { "appid": "手机游戏", "name": "宝可梦咖啡店 Mix" }
+        ]},
+        { "awards": "art", "appid": 2215430, "name": "对马岛之魂 导演剪辑版", "nominees": [
+          { "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
+          { "appid": 1145360, "name": "哈迪斯" },
+          { "appid": 2531310, "name": "最后生还者 第二部 重制版" },
+          { "appid": 1057090, "name": "奥日与鬼火意志" }
+        ]},
+        { "awards": "multiplayer", "appid": 945360, "name": "我们之中", "nominees": [
+          { "appid": "任天堂独占", "name": "集合啦！动物森友会" },
+          { "appid": 1962663, "name": "使命召唤：战区" },
+          { "appid": 1097150, "name": "糖豆人：终极淘汰赛" },
+          { "appid": "Steam 未收录", "name": "无畏契约" }
+        ]},
+        { "awards": "direction", "appid": 2531310, "name": "最后生还者 第二部 重制版", "nominees": [
+          { "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
+          { "appid": 2215430, "name": "对马岛之魂 导演剪辑版" },
+          { "appid": 1145360, "name": "哈迪斯" },
+          { "appid": 546560, "name": "半衰期：爱莉克斯" }
+        ]},
+        { "awards": "action", "appid": 1145360, "name": "哈迪斯", "nominees": [
+          { "appid": 782330, "name": "毁灭战士：永恒" },
+          { "appid": 546560, "name": "半衰期：爱莉克斯" },
+          { "appid": 1325200, "name": "仁王2" },
+          { "appid": 985870, "name": "怒之铁拳4" }
+        ]},
+        { "awards": "simstrategy", "appid": 1250410, "name": "微软飞行模拟 四十周年纪念版", "nominees": [
+          { "appid": 1158310, "name": "十字军之王3" },
+          { "appid": 610370, "name": "赏金奇兵3" },
+          { "appid": 1184050, "name": "战争机器：战术小队" },
+          { "appid": 882100, "name": "幽浮：奇美拉战队" }
+        ]},
+        { "awards": "vrar", "appid": 546560, "name": "半衰期：爱莉克斯", "nominees": [
+          { "appid": "PlayStation 独占", "name": "梦境" },
+          { "appid": "PlayStation 独占", "name": "漫威钢铁侠VR" },
+          { "appid": 1222730, "name": "星球大战：战机中队" },
+          { "appid": 916840, "name": "行尸走肉：圣徒与罪人" }
+        ]},
+        { "awards": "audio", "appid": 2531310, "name": "最后生还者 第二部 重制版", "nominees": [
+          { "appid": 782330, "name": "毁灭战士：永恒" },
+          { "appid": 2215430, "name": "对马岛之魂 导演剪辑版" },
+          { "appid": 546560, "name": "半衰期：爱莉克斯" },
+          { "appid": 952060, "name": "生化危机3 重制版" }
+        ]},
+        { "awards": "debut", "appid": 739630, "name": "恐鬼症", "nominees": [
+          { "appid": 953490, "name": "腐肉" },
+          { "appid": 1143370, "name": "致命躯壳" },
+          { "appid": 730390, "name": "拉吉：远古传奇" },
+          { "appid": 1067540, "name": "洛基：北欧怪奇之旅" }
+        ]},
+        { "awards": "ongoing", "appid": 275850, "name": "无人深空", "nominees": [
+          { "appid": 1172470, "name": "Apex英雄" },
+          { "appid": 1962663, "name": "使命召唤：战区" },
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": "Epic 独占", "name": "堡垒之夜" }
+        ]},
+        { "awards": "playervoice", "appid": 2215430, "name": "对马岛之魂 导演剪辑版", "nominees": [
+          { "appid": 2531310, "name": "最后生还者 第二部 重制版" },
+          { "appid": 782330, "name": "毁灭战士：永恒" },
+          { "appid": 1145360, "name": "哈迪斯" },
+          { "appid": 1817190, "name": "漫威蜘蛛侠：迈尔斯·莫拉莱斯" }
+        ]}
       ]
     },
     {
       "year": 2021,
       "games": [
-        { "awards": "goty", "appid": 1426210, "name": "双人成行" },
-        { "awards": "narrative", "appid": 1088850, "name": "漫威银河护卫队" },
-        { "awards": "performance", "appid": 1196590, "name": "生化危机8：村庄" },
-        { "awards": "score", "appid": 1113560, "name": "尼尔 复制体 ver.1.22474487139..." },
-        { "awards": "impact", "appid": 936790, "name": "奇异人生：真实色彩" },
-        { "awards": "indie", "appid": 1954200, "name": "柯娜：精神之桥" },
-        { "awards": "actionadv", "appid": "任天堂独占", "name": "密特罗德：生存恐惧" },
-        { "awards": "rpg", "appid": 740130, "name": "破晓传奇" },
-        { "awards": "fighting", "appid": 1384160, "name": "罪恶装备 -奋战-" },
-        { "awards": "family", "appid": 1426210, "name": "双人成行" },
-        { "awards": "sportsracing", "appid": 1551360, "name": "极限竞速：地平线 5" },
-        { "awards": "mobile", "appid": "手机游戏", "name": "原神" },
-        { "awards": "art", "appid": 1252330, "name": "死亡循环" },
-        { "awards": "multiplayer", "appid": 1426210, "name": "双人成行" },
-        { "awards": "direction", "appid": 1252330, "name": "死亡循环" },
-        { "awards": "action", "appid": 1649240, "name": "死亡回归" },
-        { "awards": "simstrategy", "appid": 1466860, "name": "帝国时代IV 周年纪念版" },
-        { "awards": "vrar", "appid": 2050650, "name": "生化危机4 重制版" },
-        { "awards": "audio", "appid": 1551360, "name": "极限竞速：地平线 5" },
-        { "awards": "debut", "appid": 1954200, "name": "柯娜：精神之桥" },
-        { "awards": "ongoing", "appid": 39210, "name": "最终幻想XIV" },
-        { "awards": "playervoice", "appid": 1240440, "name": "光环：无限" }
+        { "awards": "goty", "appid": 1426210, "name": "双人成行", "nominees": [
+          { "appid": 1252330, "name": "死亡循环" },
+          { "appid": "任天堂独占", "name": "密特罗德：生存恐惧" },
+          { "appid": 333800, "name": "意航员2" },
+          { "appid": 1895880, "name": "瑞奇与叮当：时空跳转" },
+          { "appid": 1196590, "name": "生化危机8：村庄" }
+        ]},
+        { "awards": "narrative", "appid": 1088850, "name": "漫威银河护卫队", "nominees": [
+          { "appid": 1252330, "name": "死亡循环" },
+          { "appid": 1426210, "name": "双人成行" },
+          { "appid": 936790, "name": "奇异人生：真实色彩" },
+          { "appid": 333800, "name": "意航员2" }
+        ]},
+        { "awards": "performance", "appid": 1196590, "name": "生化危机8：村庄", "nominees": [
+          { "appid": 936790, "name": "奇异人生：真实色彩" },
+          { "appid": 2369390, "name": "孤岛惊魂6" },
+          { "appid": 1252330, "name": "死亡循环" }
+        ]},
+        { "awards": "score", "appid": 1113560, "name": "尼尔 复制体 ver.1.22474487139...", "nominees": [
+          { "appid": 1091500, "name": "赛博朋克 2077" },
+          { "appid": 1252330, "name": "死亡循环" },
+          { "appid": 1088850, "name": "漫威银河护卫队" },
+          { "appid": 1122680, "name": "艺术逃亡" }
+        ]},
+        { "awards": "impact", "appid": 936790, "name": "奇异人生：真实色彩", "nominees": [
+          { "appid": 1082430, "name": "历历在目" },
+          { "appid": 674930, "name": "男友地下城" },
+          { "appid": 1123450, "name": "Chicory: A Colorful Tale" },
+          { "appid": 651490, "name": "昨日难留" }
+        ]},
+        { "awards": "indie", "appid": 1954200, "name": "柯娜：精神之桥", "nominees": [
+          { "appid": 1097200, "name": "十二分钟" },
+          { "appid": 894020, "name": "死亡之门" },
+          { "appid": 1092790, "name": "邪恶冥刻" },
+          { "appid": 1282730, "name": "循环勇士" }
+        ]},
+        { "awards": "actionadv", "appid": "任天堂独占", "name": "密特罗德：生存恐惧", "nominees": [
+          { "appid": 1088850, "name": "漫威银河护卫队" },
+          { "appid": 333800, "name": "意航员2" },
+          { "appid": 1895880, "name": "瑞奇与叮当：时空跳转" },
+          { "appid": 1196590, "name": "生化危机8：村庄" }
+        ]},
+        { "awards": "rpg", "appid": 740130, "name": "破晓传奇", "nominees": [
+          { "appid": 1091500, "name": "赛博朋克 2077" },
+          { "appid": 1446780, "name": "怪物猎人：崛起" },
+          { "appid": 775500, "name": "绯红结系" },
+          { "appid": "任天堂独占", "name": "真女神转生5" }
+        ]},
+        { "awards": "fighting", "appid": 1384160, "name": "罪恶装备 -奋战-", "nominees": [
+          { "appid": 1490590, "name": "鬼灭之刃 火神血风谭" },
+          { "appid": 1809440, "name": "MELTY BLOOD: TYPE LUMINA" },
+          { "appid": 1610450, "name": "尼克频道全明星大乱斗" },
+          { "appid": 3112260, "name": "VR战士5 终极对决" }
+        ]},
+        { "awards": "family", "appid": 1426210, "name": "双人成行", "nominees": [
+          { "appid": "任天堂独占", "name": "马力欧派对 超级巨星" },
+          { "appid": "任天堂独占", "name": "新 宝可梦随乐拍" },
+          { "appid": "任天堂独占", "name": "超级马力欧3D世界+狂怒世界" },
+          { "appid": "任天堂独占", "name": "分享同乐！瓦力欧制造" }
+        ]},
+        { "awards": "sportsracing", "appid": 1551360, "name": "极限竞速：地平线 5", "nominees": [
+          { "appid": 1134570, "name": "F1 2021" },
+          { "appid": 1506830, "name": "FIFA 22" },
+          { "appid": 1271700, "name": "风火轮释放" },
+          { "appid": 2290180, "name": "极限国度" }
+        ]},
+        { "awards": "mobile", "appid": "手机游戏", "name": "原神", "nominees": [
+          { "appid": 2844850, "name": "Fantasian" },
+          { "appid": "手机游戏", "name": "英雄联盟手游" },
+          { "appid": "手机游戏", "name": "漫威未来革命" },
+          { "appid": "手机游戏", "name": "宝可梦大集结" }
+        ]},
+        { "awards": "art", "appid": 1252330, "name": "死亡循环", "nominees": [
+          { "appid": 1954200, "name": "柯娜：精神之桥" },
+          { "appid": 333800, "name": "意航员2" },
+          { "appid": 1895880, "name": "瑞奇与叮当：时空跳转" },
+          { "appid": 1122680, "name": "艺术逃亡" }
+        ]},
+        { "awards": "multiplayer", "appid": 1426210, "name": "双人成行", "nominees": [
+          { "appid": 924970, "name": "喋血复仇" },
+          { "appid": 1228900, "name": "KO City" },
+          { "appid": 1446780, "name": "怪物猎人：崛起" },
+          { "appid": 1063730, "name": "新世界" },
+          { "appid": 892970, "name": "英灵神殿" }
+        ]},
+        { "awards": "direction", "appid": 1252330, "name": "死亡循环", "nominees": [
+          { "appid": 1426210, "name": "双人成行" },
+          { "appid": 333800, "name": "意航员2" },
+          { "appid": 1895880, "name": "瑞奇与叮当：时空跳转" },
+          { "appid": 1863640, "name": "死亡回归" }
+        ]},
+        { "awards": "action", "appid": 1863640, "name": "死亡回归", "nominees": [
+          { "appid": 924970, "name": "喋血复仇" },
+          { "appid": 1824220, "name": "骑士精神2" },
+          { "appid": 1252330, "name": "死亡循环" },
+          { "appid": 2369390, "name": "孤岛惊魂6" }
+        ]},
+        { "awards": "simstrategy", "appid": 1466860, "name": "帝国时代IV 周年纪念版", "nominees": [
+          { "appid": 700600, "name": "邪恶天才2：统治世界" },
+          { "appid": 1124300, "name": "人类" },
+          { "appid": 1092790, "name": "邪恶冥刻" },
+          { "appid": 1250410, "name": "微软飞行模拟 四十周年纪念版" }
+        ]},
+        { "awards": "vrar", "appid": 2050650, "name": "生化危机4 重制版", "nominees": [
+          { "appid": 1659040, "name": "杀手3" },
+          { "appid": 1499120, "name": "I Expect You To Die 2" },
+          { "appid": "VR 独占", "name": "回声回响2" },
+          { "appid": 752480, "name": "狙击精英VR" }
+        ]},
+        { "awards": "audio", "appid": 1551360, "name": "极限竞速：地平线 5", "nominees": [
+          { "appid": 1252330, "name": "死亡循环" },
+          { "appid": 1895880, "name": "瑞奇与叮当：时空跳转" },
+          { "appid": 1196590, "name": "生化危机8：村庄" },
+          { "appid": 1863640, "name": "死亡回归" }
+        ]},
+        { "awards": "debut", "appid": 1954200, "name": "柯娜：精神之桥", "nominees": [
+          { "appid": 757310, "name": "Sable" },
+          { "appid": 1122680, "name": "艺术逃亡" },
+          { "appid": 874260, "name": "遗忘之城" },
+          { "appid": 892970, "name": "英灵神殿" }
+        ]},
+        { "awards": "ongoing", "appid": 39210, "name": "最终幻想XIV", "nominees": [
+          { "appid": 1172470, "name": "Apex英雄" },
+          { "appid": 1962663, "name": "使命召唤：战区" },
+          { "appid": "Epic 独占", "name": "堡垒之夜" },
+          { "appid": "手机游戏", "name": "原神" }
+        ]},
+        { "awards": "playervoice", "appid": 1240440, "name": "光环：无限", "nominees": [
+          { "appid": 1551360, "name": "极限竞速：地平线 5" },
+          { "appid": 1426210, "name": "双人成行" },
+          { "appid": "任天堂独占", "name": "密特罗德：生存恐惧" },
+          { "appid": 1196590, "name": "生化危机8：村庄" }
+        ]}
       ]
     },
     {
       "year": 2022,
       "games": [
-        { "awards": "goty", "appid": 1245620, "name": "艾尔登法环" },
-        { "awards": "narrative", "appid": 2322010, "name": "战神：诸神黄昏" },
-        { "awards": "performance", "appid": 2322010, "name": "战神：诸神黄昏" },
-        { "awards": "score", "appid": 2322010, "name": "战神：诸神黄昏" },
-        { "awards": "impact", "appid": 1341820, "name": "黄昏降临时" },
-        { "awards": "indie", "appid": 1332010, "name": "迷失" },
-        { "awards": "actionadv", "appid": 2322010, "name": "战神：诸神黄昏" },
-        { "awards": "rpg", "appid": 1245620, "name": "艾尔登法环" },
-        { "awards": "fighting", "appid": 1818750, "name": "多元宇宙大乱斗" },
-        { "awards": "family", "appid": "任天堂独占", "name": "星之卡比 探索发现" },
-        { "awards": "sportsracing", "appid": "PlayStation 独占", "name": "跑车浪漫旅7" },
-        { "awards": "mobile", "appid": 1997040, "name": "漫威终极逆转" },
-        { "awards": "art", "appid": 1245620, "name": "艾尔登法环" },
-        { "awards": "multiplayer", "appid": "任天堂独占", "name": "斯普拉遁3" },
-        { "awards": "direction", "appid": 1245620, "name": "艾尔登法环" },
-        { "awards": "action", "appid": "任天堂独占", "name": "猎天使魔女3" },
-        { "awards": "simstrategy", "appid": "任天堂独占", "name": "马力欧+疯兔 星耀之愿" },
-        { "awards": "vrar", "appid": 2059670, "name": "莫斯2" },
-        { "awards": "audio", "appid": 2322010, "name": "战神：诸神黄昏" },
-        { "awards": "debut", "appid": 1332010, "name": "迷失" },
-        { "awards": "ongoing", "appid": 39210, "name": "最终幻想XIV" },
-        { "awards": "playervoice", "appid": "手机游戏", "name": "原神" }
+        { "awards": "goty", "appid": 1245620, "name": "艾尔登法环", "nominees": [
+          { "appid": 1182900, "name": "瘟疫传说：安魂曲" },
+          { "appid": 2322010, "name": "战神：诸神黄昏" },
+          { "appid": 2420110, "name": "地平线 西之绝境 完整版" },
+          { "appid": 1332010, "name": "迷失" },
+          { "appid": "任天堂独占", "name": "异度神剑3" }
+        ]},
+        { "awards": "narrative", "appid": 2322010, "name": "战神：诸神黄昏", "nominees": [
+          { "appid": 1182900, "name": "瘟疫传说：安魂曲" },
+          { "appid": 1245620, "name": "艾尔登法环" },
+          { "appid": 2420110, "name": "地平线 西之绝境 完整版" },
+          { "appid": 1457360, "name": "永生" }
+        ]},
+        { "awards": "performance", "appid": 2322010, "name": "战神：诸神黄昏", "nominees": [
+          { "appid": 2420110, "name": "地平线 西之绝境 完整版" },
+          { "appid": 1457360, "name": "永生" },
+          { "appid": 1182900, "name": "瘟疫传说：安魂曲" }
+        ]},
+        { "awards": "score", "appid": 2322010, "name": "战神：诸神黄昏", "nominees": [
+          { "appid": 1182900, "name": "瘟疫传说：安魂曲" },
+          { "appid": 1245620, "name": "艾尔登法环" },
+          { "appid": 1061910, "name": "金属：地狱歌唱家" },
+          { "appid": "任天堂独占", "name": "异度神剑3" }
+        ]},
+        { "awards": "impact", "appid": 1341820, "name": "黄昏降临时", "nominees": [
+          { "appid": 1497450, "name": "蓝色回忆录" },
+          { "appid": 1578650, "name": "深空梦里人" },
+          { "appid": 898890, "name": "Endling - 灭绝永无止境" },
+          { "appid": 1307730, "name": "后见之明" },
+          { "appid": 1148760, "name": "我曾是个少年殖民者" }
+        ]},
+        { "awards": "indie", "appid": 1332010, "name": "迷失", "nominees": [
+          { "appid": 1313140, "name": "咩咩启示录" },
+          { "appid": 1533420, "name": "Neon White" },
+          { "appid": 2138710, "name": "Sifu 师父" },
+          { "appid": 553420, "name": "TUNIC" }
+        ]},
+        { "awards": "actionadv", "appid": 2322010, "name": "战神：诸神黄昏", "nominees": [
+          { "appid": 1182900, "name": "瘟疫传说：安魂曲" },
+          { "appid": 2420110, "name": "地平线 西之绝境 完整版" },
+          { "appid": 1332010, "name": "迷失" },
+          { "appid": 553420, "name": "TUNIC" }
+        ]},
+        { "awards": "rpg", "appid": 1245620, "name": "艾尔登法环", "nominees": [
+          { "appid": 2014380, "name": "时空勇士" },
+          { "appid": "任天堂独占", "name": "宝可梦传说 阿尔宙斯" },
+          { "appid": 1850510, "name": "三角战略" },
+          { "appid": "任天堂独占", "name": "异度神剑3" }
+        ]},
+        { "awards": "fighting", "appid": 1818750, "name": "多元宇宙大乱斗", "nominees": [
+          { "appid": 1216060, "name": "DNF Duel" },
+          { "appid": 1372110, "name": "JOJO的奇妙冒险 群星之战 重制版" },
+          { "appid": 1498570, "name": "拳皇15" },
+          { "appid": 2138710, "name": "Sifu 师父" }
+        ]},
+        { "awards": "family", "appid": "任天堂独占", "name": "星之卡比 探索发现", "nominees": [
+          { "appid": 920210, "name": "乐高星球大战：天行者传奇" },
+          { "appid": "任天堂独占", "name": "马力欧+疯兔 星耀之愿" },
+          { "appid": "任天堂独占", "name": "Nintendo Switch 运动" },
+          { "appid": "任天堂独占", "name": "斯普拉遁3" }
+        ]},
+        { "awards": "sportsracing", "appid": "PlayStation 独占", "name": "跑车浪漫旅7", "nominees": [
+          { "appid": 2108330, "name": "F1 22" },
+          { "appid": 1811260, "name": "FIFA 23" },
+          { "appid": 1919590, "name": "NBA 2K23" },
+          { "appid": 1190170, "name": "奥力奥力世界" }
+        ]},
+        { "awards": "mobile", "appid": 1997040, "name": "漫威终极逆转", "nominees": [
+          { "appid": "手机游戏", "name": "Apex英雄手游" },
+          { "appid": "手机游戏", "name": "暗黑破坏神：不朽" },
+          { "appid": "手机游戏", "name": "原神" },
+          { "appid": 2064650, "name": "幻塔" }
+        ]},
+        { "awards": "art", "appid": 1245620, "name": "艾尔登法环", "nominees": [
+          { "appid": 2322010, "name": "战神：诸神黄昏" },
+          { "appid": 2420110, "name": "地平线 西之绝境 完整版" },
+          { "appid": 698670, "name": "轻蔑" },
+          { "appid": 1332010, "name": "迷失" }
+        ]},
+        { "awards": "multiplayer", "appid": "任天堂独占", "name": "斯普拉遁3", "nominees": [
+          { "appid": 1938090, "name": "使命召唤：现代战争II 2022" },
+          { "appid": 1818750, "name": "多元宇宙大乱斗" },
+          { "appid": 2357570, "name": "守望先锋：归来" },
+          { "appid": 1361510, "name": "忍者神龟：施莱德的复仇" }
+        ]},
+        { "awards": "direction", "appid": 1245620, "name": "艾尔登法环", "nominees": [
+          { "appid": 2322010, "name": "战神：诸神黄昏" },
+          { "appid": 2420110, "name": "地平线 西之绝境 完整版" },
+          { "appid": 1457360, "name": "永生" },
+          { "appid": 1332010, "name": "迷失" }
+        ]},
+        { "awards": "action", "appid": "任天堂独占", "name": "猎天使魔女3", "nominees": [
+          { "appid": 1938090, "name": "使命召唤：现代战争II 2022" },
+          { "appid": 1533420, "name": "Neon White" },
+          { "appid": 2138710, "name": "Sifu 师父" },
+          { "appid": 1361510, "name": "忍者神龟：施莱德的复仇" }
+        ]},
+        { "awards": "simstrategy", "appid": "任天堂独占", "name": "马力欧+疯兔 星耀之愿", "nominees": [
+          { "appid": 1605220, "name": "沙丘：香料战争" },
+          { "appid": 1142710, "name": "全面战争：战锤3" },
+          { "appid": 1649080, "name": "双点校园" },
+          { "appid": 529340, "name": "维多利亚3" }
+        ]},
+        { "awards": "vrar", "appid": 2059670, "name": "莫斯2", "nominees": [
+          { "appid": 1849900, "name": "Among Us VR" },
+          { "appid": 1592190, "name": "BONELAB 骨骼实验室" }
+        ]},
+        { "awards": "audio", "appid": 2322010, "name": "战神：诸神黄昏", "nominees": [
+          { "appid": 1938090, "name": "使命召唤：现代战争II 2022" },
+          { "appid": 1245620, "name": "艾尔登法环" },
+          { "appid": "PlayStation 独占", "name": "跑车浪漫旅7" },
+          { "appid": 2420110, "name": "地平线 西之绝境 完整版" }
+        ]},
+        { "awards": "debut", "appid": 1332010, "name": "迷失", "nominees": [
+          { "appid": 1533420, "name": "Neon White" },
+          { "appid": 1221250, "name": "诺科" },
+          { "appid": 553420, "name": "TUNIC" },
+          { "appid": 1794680, "name": "吸血鬼幸存者" }
+        ]},
+        { "awards": "ongoing", "appid": 39210, "name": "最终幻想XIV", "nominees": [
+          { "appid": 1172470, "name": "Apex英雄" },
+          { "appid": 1085660, "name": "命运2" },
+          { "appid": "Epic 独占", "name": "堡垒之夜" },
+          { "appid": "手机游戏", "name": "原神" }
+        ]},
+        { "awards": "playervoice", "appid": "手机游戏", "name": "原神", "nominees": [
+          { "appid": 1245620, "name": "艾尔登法环" },
+          { "appid": 2322010, "name": "战神：诸神黄昏" },
+          { "appid": 1237320, "name": "索尼克 未知边境" },
+          { "appid": 1332010, "name": "迷失" }
+        ]}
       ]
     },
     {
       "year": 2023,
       "games": [
-        { "awards": "goty", "appid": 1086940, "name": "博德之门3" },
-        { "awards": "narrative", "appid": "Epic 独占", "name": "心灵杀手2" },
-        { "awards": "performance", "appid": 1086940, "name": "博德之门3" },
-        { "awards": "score", "appid": 2515020, "name": "最终幻想16" },
-        { "awards": "impact", "appid": 1496590, "name": "奇娅" },
-        { "awards": "indie", "appid": 1244090, "name": "星之海" },
-        { "awards": "actionadv", "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
-        { "awards": "rpg", "appid": 1086940, "name": "博德之门3" },
-        { "awards": "fighting", "appid": 1364780, "name": "街头霸王6" },
-        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" },
-        { "awards": "sportsracing", "appid": 2440510, "name": "极限竞速" },
-        { "awards": "mobile", "appid": "手机游戏", "name": "崩坏：星穹铁道" },
-        { "awards": "art", "appid": "Epic 独占", "name": "心灵杀手2" },
-        { "awards": "multiplayer", "appid": 1086940, "name": "博德之门3" },
-        { "awards": "direction", "appid": "Epic 独占", "name": "心灵杀手2" },
-        { "awards": "action", "appid": 1888160, "name": "装甲核心VI：境界天火" },
-        { "awards": "simstrategy", "appid": "任天堂独占", "name": "皮克敏4" },
-        { "awards": "vrar", "appid": 1196590, "name": "生化危机8：村庄" },
-        { "awards": "audio", "appid": 1817230, "name": "完美音浪" },
-        { "awards": "debut", "appid": 1497440, "name": "茧" },
-        { "awards": "ongoing", "appid": 1091500, "name": "赛博朋克 2077" },
-        { "awards": "playervoice", "appid": 1086940, "name": "博德之门3" }
+        { "awards": "goty", "appid": 1086940, "name": "博德之门3", "nominees": [
+          { "appid": "Epic 独占", "name": "心灵杀手2" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
+          { "appid": 2651280, "name": "漫威蜘蛛侠2" },
+          { "appid": 2050650, "name": "生化危机4 重制版" },
+          { "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" }
+        ]},
+        { "awards": "narrative", "appid": "Epic 独占", "name": "心灵杀手2", "nominees": [
+          { "appid": 1086940, "name": "博德之门3" },
+          { "appid": 2138330, "name": "赛博朋克 2077：往日之影" },
+          { "appid": 2515020, "name": "最终幻想16" },
+          { "appid": 2651280, "name": "漫威蜘蛛侠2" }
+        ]},
+        { "awards": "performance", "appid": 1086940, "name": "博德之门3", "nominees": [
+          { "appid": 2138330, "name": "赛博朋克 2077：往日之影" },
+          { "appid": "Epic 独占", "name": "心灵杀手2" },
+          { "appid": 2651280, "name": "漫威蜘蛛侠2" },
+          { "appid": 1774580, "name": "星球大战 绝地：幸存者" },
+          { "appid": 2515020, "name": "最终幻想16" }
+        ]},
+        { "awards": "score", "appid": 2515020, "name": "最终幻想16", "nominees": [
+          { "appid": "Epic 独占", "name": "心灵杀手2" },
+          { "appid": 1086940, "name": "博德之门3" },
+          { "appid": 1817230, "name": "完美音浪" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" }
+        ]},
+        { "awards": "impact", "appid": 1496590, "name": "奇娅", "nominees": [
+          { "appid": 1201270, "name": "无垠之心" },
+          { "appid": 1931770, "name": "巴别塔圣歌" },
+          { "appid": 1310330, "name": "再见火山高校" },
+          { "appid": 1593030, "name": "伊始之地" },
+          { "appid": 1491670, "name": "Venba" }
+        ]},
+        { "awards": "indie", "appid": 1244090, "name": "星之海", "nominees": [
+          { "appid": 1497440, "name": "茧" },
+          { "appid": 1868140, "name": "潜水员戴夫" },
+          { "appid": 1562430, "name": "渔帆暗涌" },
+          { "appid": 1382070, "name": "Viewfinder 取景器" }
+        ]},
+        { "awards": "actionadv", "appid": "任天堂独占", "name": "塞尔达传说：王国之泪", "nominees": [
+          { "appid": "Epic 独占", "name": "心灵杀手2" },
+          { "appid": 2651280, "name": "漫威蜘蛛侠2" },
+          { "appid": 2050650, "name": "生化危机4 重制版" },
+          { "appid": 1774580, "name": "星球大战 绝地：幸存者" }
+        ]},
+        { "awards": "rpg", "appid": 1086940, "name": "博德之门3", "nominees": [
+          { "appid": 2515020, "name": "最终幻想16" },
+          { "appid": 1627720, "name": "匹诺曹的谎言" },
+          { "appid": 1244090, "name": "星之海" },
+          { "appid": 1716740, "name": "星空" }
+        ]},
+        { "awards": "fighting", "appid": 1364780, "name": "街头霸王6", "nominees": [
+          { "appid": 1851030, "name": "God of Rock" },
+          { "appid": 1971870, "name": "真人快打1" },
+          { "appid": 2017080, "name": "尼克频道全明星大乱斗2" },
+          { "appid": 1555150, "name": "Pocket Bravery" }
+        ]},
+        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇", "nominees": [
+          { "appid": 2054660, "name": "迪士尼幻梦岛" },
+          { "appid": 1260320, "name": "猛兽派对" },
+          { "appid": "任天堂独占", "name": "皮克敏4" },
+          { "appid": 2022670, "name": "索尼克 超级巨星" }
+        ]},
+        { "awards": "sportsracing", "appid": 2440510, "name": "极限竞速", "nominees": [
+          { "appid": 2195250, "name": "EA SPORTS FC 24" },
+          { "appid": 2488620, "name": "F1 23" },
+          { "appid": 2051120, "name": "风火轮释放2：涡轮加速" },
+          { "appid": 2698940, "name": "飚酷车神：轰鸣盛典" }
+        ]},
+        { "awards": "mobile", "appid": "手机游戏", "name": "崩坏：星穹铁道", "nominees": [
+          { "appid": "手机游戏", "name": "最终幻想7：永恒危机" },
+          { "appid": 2495100, "name": "Hello Kitty 岛屿冒险" },
+          { "appid": "手机游戏", "name": "怪物猎人Now" },
+          { "appid": 1593030, "name": "伊始之地" }
+        ]},
+        { "awards": "art", "appid": "Epic 独占", "name": "心灵杀手2", "nominees": [
+          { "appid": 1817230, "name": "完美音浪" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
+          { "appid": 1627720, "name": "匹诺曹的谎言" },
+          { "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" }
+        ]},
+        { "awards": "multiplayer", "appid": 1086940, "name": "博德之门3", "nominees": [
+          { "appid": 2344520, "name": "暗黑破坏神IV" },
+          { "appid": 1260320, "name": "猛兽派对" },
+          { "appid": 1364780, "name": "街头霸王6" },
+          { "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" }
+        ]},
+        { "awards": "direction", "appid": "Epic 独占", "name": "心灵杀手2", "nominees": [
+          { "appid": 1086940, "name": "博德之门3" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
+          { "appid": 2651280, "name": "漫威蜘蛛侠2" },
+          { "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" }
+        ]},
+        { "awards": "action", "appid": 1888160, "name": "装甲核心VI：境界天火", "nominees": [
+          { "appid": 934700, "name": "死亡岛2" },
+          { "appid": 2144740, "name": "幽灵行者2" },
+          { "appid": 1817230, "name": "完美音浪" },
+          { "appid": 1282100, "name": "遗迹2" }
+        ]},
+        { "awards": "simstrategy", "appid": "任天堂独占", "name": "皮克敏4", "nominees": [
+          { "appid": "任天堂独占", "name": "高级战争1+2 Re-Boot Camp" },
+          { "appid": 949230, "name": "都市：天际线2" },
+          { "appid": 1677280, "name": "英雄连3" },
+          { "appid": "任天堂独占", "name": "火焰纹章 Engage" }
+        ]},
+        { "awards": "vrar", "appid": 1196590, "name": "生化危机8：村庄", "nominees": [
+          { "appid": "PlayStation 独占", "name": "跑车浪漫旅7" },
+          { "appid": 1582560, "name": "Humanity 人性" },
+          { "appid": "VR 独占", "name": "地平线：山之呼唤" },
+          { "appid": "VR 独占", "name": "Synapse 突触" }
+        ]},
+        { "awards": "audio", "appid": 1817230, "name": "完美音浪", "nominees": [
+          { "appid": "Epic 独占", "name": "心灵杀手2" },
+          { "appid": 1693980, "name": "死亡空间 重制版" },
+          { "appid": 2651280, "name": "漫威蜘蛛侠2" },
+          { "appid": 2050650, "name": "生化危机4 重制版" }
+        ]},
+        { "awards": "debut", "appid": 1497440, "name": "茧", "nominees": [
+          { "appid": 1562430, "name": "渔帆暗涌" },
+          { "appid": 2231450, "name": "披萨塔" },
+          { "appid": 1491670, "name": "Venba" },
+          { "appid": 1382070, "name": "Viewfinder 取景器" }
+        ]},
+        { "awards": "ongoing", "appid": 1091500, "name": "赛博朋克 2077", "nominees": [
+          { "appid": 1172470, "name": "Apex英雄" },
+          { "appid": 39210, "name": "最终幻想XIV" },
+          { "appid": "Epic 独占", "name": "堡垒之夜" },
+          { "appid": "手机游戏", "name": "原神" }
+        ]},
+        { "awards": "playervoice", "appid": 1086940, "name": "博德之门3", "nominees": [
+          { "appid": 2138330, "name": "赛博朋克 2077：往日之影" },
+          { "appid": "手机游戏", "name": "原神" },
+          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
+          { "appid": 2651280, "name": "漫威蜘蛛侠2" }
+        ]}
       ]
     },
     {
       "year": 2024,
       "games": [
-        { "awards": "goty", "appid": "PlayStation 独占", "name": "宇宙机器人" },
-        { "awards": "narrative", "appid": 2679460, "name": "暗喻幻想" },
-        { "awards": "performance", "appid": 2461850, "name": "地狱之刃II：塞娜的传说" },
-        { "awards": "score", "appid": 2909400, "name": "最终幻想7 重生" },
-        { "awards": "impact", "appid": 2420660, "name": "涅瓦" },
-        { "awards": "indie", "appid": 2379780, "name": "小丑牌" },
-        { "awards": "actionadv", "appid": "PlayStation 独占", "name": "宇宙机器人" },
-        { "awards": "rpg", "appid": 2679460, "name": "暗喻幻想" },
-        { "awards": "fighting", "appid": 1778820, "name": "铁拳8" },
-        { "awards": "family", "appid": "PlayStation 独占", "name": "宇宙机器人" },
-        { "awards": "sportsracing", "appid": 2669320, "name": "EA SPORTS FC 25" },
-        { "awards": "mobile", "appid": 2379780, "name": "小丑牌" },
-        { "awards": "art", "appid": 2679460, "name": "暗喻幻想" },
-        { "awards": "multiplayer", "appid": 553850, "name": "绝地潜兵2" },
-        { "awards": "direction", "appid": "PlayStation 独占", "name": "宇宙机器人" },
-        { "awards": "action", "appid": 2358720, "name": "黑神话：悟空" },
-        { "awards": "simstrategy", "appid": 1601580, "name": "冰汽时代2" },
-        { "awards": "vrar", "appid": "VR 独占", "name": "蝙蝠侠：阿卡姆之影" },
-        { "awards": "audio", "appid": 2461850, "name": "地狱之刃II：塞娜的传说" },
-        { "awards": "debut", "appid": 2379780, "name": "小丑牌" },
-        { "awards": "ongoing", "appid": 553850, "name": "绝地潜兵2" },
-        { "awards": "playervoice", "appid": 2358720, "name": "黑神话：悟空" }
+        { "awards": "goty", "appid": "PlayStation 独占", "name": "宇宙机器人", "nominees": [
+          { "appid": 2379780, "name": "小丑牌" },
+          { "appid": 2358720, "name": "黑神话：悟空" },
+          { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
+          { "appid": 2909400, "name": "最终幻想7：重生" },
+          { "appid": 2679460, "name": "暗喻幻想" }
+        ]},
+        { "awards": "narrative", "appid": 2679460, "name": "暗喻幻想", "nominees": [
+          { "appid": 2909400, "name": "最终幻想7：重生" },
+          { "appid": 2072450, "name": "如龙8：无限财富" },
+          { "appid": 2461850, "name": "地狱之刃II：塞娜的传说" },
+          { "appid": 2124490, "name": "寂静岭2 重制版" }
+        ]},
+        { "awards": "performance", "appid": 2461850, "name": "地狱之刃II：塞娜的传说", "nominees": [
+          { "appid": 2909400, "name": "最终幻想7：重生" },
+          { "appid": 1874000, "name": "奇异人生：双重曝光" },
+          { "appid": 2842040, "name": "星球大战：亡命之徒" },
+          { "appid": 2124490, "name": "寂静岭2 重制版" }
+        ]},
+        { "awards": "score", "appid": 2909400, "name": "最终幻想7 重生", "nominees": [
+          { "appid": "PlayStation 独占", "name": "宇宙机器人" },
+          { "appid": 2679460, "name": "暗喻幻想" },
+          { "appid": 2124490, "name": "寂静岭2 重制版" },
+          { "appid": 3489700, "name": "剑星" }
+        ]},
+        { "awards": "impact", "appid": 2420660, "name": "涅瓦", "nominees": [
+          { "appid": 1373960, "name": "印迪卡" },
+          { "appid": 1874000, "name": "奇异人生：双重曝光" },
+          { "appid": 2461850, "name": "地狱之刃II：塞娜的传说" },
+          { "appid": 2316580, "name": "肯泽拉传说：扎乌" }
+        ]},
+        { "awards": "indie", "appid": 2379780, "name": "小丑牌", "nominees": [
+          { "appid": 813230, "name": "动物井" },
+          { "appid": 2008920, "name": "罗蕾莱与激光之眼" },
+          { "appid": 2420660, "name": "涅瓦" },
+          { "appid": 1147860, "name": "UFO 50" }
+        ]},
+        { "awards": "actionadv", "appid": "PlayStation 独占", "name": "宇宙机器人", "nominees": [
+          { "appid": "任天堂独占", "name": "塞尔达传说：智慧的再现" },
+          { "appid": 2751000, "name": "波斯王子：失落的王冠" },
+          { "appid": 2124490, "name": "寂静岭2 重制版" },
+          { "appid": 2842040, "name": "星球大战：亡命之徒" }
+        ]},
+        { "awards": "rpg", "appid": 2679460, "name": "暗喻幻想", "nominees": [
+          { "appid": 2054970, "name": "龙之信条2" },
+          { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
+          { "appid": 2909400, "name": "最终幻想7：重生" },
+          { "appid": 2072450, "name": "如龙8：无限财富" }
+        ]},
+        { "awards": "fighting", "appid": 1778820, "name": "铁拳8", "nominees": [
+          { "appid": 1790600, "name": "七龙珠 电光炸裂！ZERO" },
+          { "appid": 2157560, "name": "Granblue Fantasy Versus: Rising" },
+          { "appid": 2634890, "name": "漫威vs卡普空格斗收藏集：街机经典" },
+          { "appid": 1818750, "name": "MultiVersus" }
+        ]},
+        { "awards": "family", "appid": "PlayStation 独占", "name": "宇宙机器人", "nominees": [
+          { "appid": "任天堂独占", "name": "塞尔达传说：智慧的再现" },
+          { "appid": 1627570, "name": "勇敢小骑士" },
+          { "appid": "任天堂独占", "name": "碧姬公主 表演时刻！" },
+          { "appid": "任天堂独占", "name": "超级马力欧派对 空前盛会" }
+        ]},
+        { "awards": "sportsracing", "appid": 2669320, "name": "EA SPORTS FC 25", "nominees": [
+          { "appid": 2488620, "name": "F1 24" },
+          { "appid": 2878980, "name": "NBA 2K25" },
+          { "appid": 1785650, "name": "TopSpin 2K25" },
+          { "appid": 2315690, "name": "WWE 2K24" }
+        ]},
+        { "awards": "mobile", "appid": 2379780, "name": "小丑牌", "nominees": [
+          { "appid": "手机游戏", "name": "剑与远征：启程" },
+          { "appid": "手机游戏", "name": "宝可梦集换式卡牌 Pocket" },
+          { "appid": 3513350, "name": "鸣潮" },
+          { "appid": "Steam 未收录", "name": "绝区零" }
+        ]},
+        { "awards": "art", "appid": 2679460, "name": "暗喻幻想", "nominees": [
+          { "appid": "PlayStation 独占", "name": "宇宙机器人" },
+          { "appid": 2358720, "name": "黑神话：悟空" },
+          { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
+          { "appid": 2420660, "name": "涅瓦" }
+        ]},
+        { "awards": "multiplayer", "appid": 553850, "name": "绝地潜兵2", "nominees": [
+          { "appid": 4384550, "name": "使命召唤：黑色行动6" },
+          { "appid": "任天堂独占", "name": "超级马力欧派对 空前盛会" },
+          { "appid": 1778820, "name": "铁拳8" },
+          { "appid": 2183900, "name": "战锤40K：星际战士2" }
+        ]},
+        { "awards": "direction", "appid": "PlayStation 独占", "name": "宇宙机器人", "nominees": [
+          { "appid": 2379780, "name": "小丑牌" },
+          { "appid": 2358720, "name": "黑神话：悟空" },
+          { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
+          { "appid": 2909400, "name": "最终幻想7：重生" },
+          { "appid": 2679460, "name": "暗喻幻想" }
+        ]},
+        { "awards": "action", "appid": 2358720, "name": "黑神话：悟空", "nominees": [
+          { "appid": 4384550, "name": "使命召唤：黑色行动6" },
+          { "appid": 553850, "name": "绝地潜兵2" },
+          { "appid": 3489700, "name": "剑星" },
+          { "appid": 2183900, "name": "战锤40K：星际战士2" }
+        ]},
+        { "awards": "simstrategy", "appid": 1601580, "name": "冰汽时代2", "nominees": [
+          { "appid": 1934680, "name": "神话时代：重述" },
+          { "appid": 2510710, "name": "神之路" },
+          { "appid": 1363080, "name": "庄园领主" },
+          { "appid": "Steam 未收录", "name": "圣兽之王" }
+        ]},
+        { "awards": "vrar", "appid": "VR 独占", "name": "蝙蝠侠：阿卡姆之影", "nominees": [
+          { "appid": 2897700, "name": "亚利桑那阳光 重制版" },
+          { "appid": "VR 独占", "name": "阿斯加德之怒2" },
+          { "appid": 2878270, "name": "Metal: Hellsinger VR" },
+          { "appid": 2669410, "name": "地铁：觉醒" }
+        ]},
+        { "awards": "audio", "appid": 2461850, "name": "地狱之刃II：塞娜的传说", "nominees": [
+          { "appid": "PlayStation 独占", "name": "宇宙机器人" },
+          { "appid": 4384550, "name": "使命召唤：黑色行动6" },
+          { "appid": 2909400, "name": "最终幻想7：重生" },
+          { "appid": 2124490, "name": "寂静岭2 重制版" }
+        ]},
+        { "awards": "debut", "appid": 2379780, "name": "小丑牌", "nominees": [
+          { "appid": 813230, "name": "动物井" },
+          { "appid": 1363080, "name": "庄园领主" },
+          { "appid": 1458140, "name": "超自然车旅 Pacific Drive" },
+          { "appid": 1627570, "name": "勇敢小骑士" }
+        ]},
+        { "awards": "ongoing", "appid": 553850, "name": "绝地潜兵2", "nominees": [
+          { "appid": 2336880, "name": "命运2：终焉之形" },
+          { "appid": 3043530, "name": "暗黑破坏神IV：憎恨之躯" },
+          { "appid": 2649240, "name": "FINAL FANTASY XIV: Dawntrail" },
+          { "appid": "Epic 独占", "name": "堡垒之夜" }
+        ]},
+        { "awards": "playervoice", "appid": 2358720, "name": "黑神话：悟空", "nominees": [
+          { "appid": "Steam 未收录", "name": "原神" },
+          { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
+          { "appid": 3513350, "name": "鸣潮" },
+          { "appid": "Steam 未收录", "name": "绝区零" }
+        ]}
       ]
     },
     {
       "year": 2025,
       "games": [
-        { "awards": "goty", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "narrative", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "performance", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "score", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "impact", "appid": 1934570, "name": "午夜之南" },
-        { "awards": "indie", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "actionadv", "appid": 1030300, "name": "空洞骑士：丝之歌" },
-        { "awards": "rpg", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "fighting", "appid": 2492040, "name": "饿狼传说：群狼之城" },
-        { "awards": "family", "appid": "任天堂独占", "name": "大金刚 蕉力全开" },
-        { "awards": "sportsracing", "appid": "任天堂独占", "name": "马力欧卡丁车 世界" },
-        { "awards": "mobile", "appid": 3224770, "name": "赛马娘 Pretty Derby" },
-        { "awards": "art", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "multiplayer", "appid": 1808500, "name": "ARC突袭者" },
-        { "awards": "direction", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "action", "appid": 1145350, "name": "哈迪斯II" },
-        { "awards": "simstrategy", "appid": 1004640, "name": "最终幻想战略版：伊瓦利斯编年史" },
-        { "awards": "vrar", "appid": 2863640, "name": "午夜漫步" },
-        { "awards": "audio", "appid": 2807960, "name": "战地风云 6" },
-        { "awards": "debut", "appid": 1903340, "name": "光与影：33号远征队" },
-        { "awards": "ongoing", "appid": 275850, "name": "无人深空" },
-        { "awards": "playervoice", "appid": 3513350, "name": "鸣潮" }
+        { "awards": "goty", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 3280350, "name": "死亡搁浅2" },
+          { "appid": "任天堂独占", "name": "大金刚 蕉力全开" },
+          { "appid": 1145350, "name": "哈迪斯II" },
+          { "appid": 1030300, "name": "空洞骑士：丝之歌" },
+          { "appid": 1771300, "name": "天国拯救2" }
+        ]},
+        { "awards": "narrative", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 3280350, "name": "死亡搁浅2" },
+          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": 1771300, "name": "天国拯救2" },
+          { "appid": 2947440, "name": "寂静岭f" }
+        ]},
+        { "awards": "performance", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 2677660, "name": "夺宝奇兵：古老之圈" },
+          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": 2947440, "name": "寂静岭f" }
+        ]},
+        { "awards": "score", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 3280350, "name": "死亡搁浅2" },
+          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": 1145350, "name": "哈迪斯II" },
+          { "appid": 1030300, "name": "空洞骑士：丝之歌" }
+        ]},
+        { "awards": "impact", "appid": 1934570, "name": "午夜之南", "nominees": [
+          { "appid": 2359120, "name": "Consume Me" },
+          { "appid": 2367820, "name": "Despelote" },
+          { "appid": 1902960, "name": "失落的记录：绽放与愤怒" },
+          { "appid": 1299460, "name": "Wanderstop" }
+        ]},
+        { "awards": "indie", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 1904480, "name": "Absolum" },
+          { "appid": 2062430, "name": "BALL x PIT" },
+          { "appid": 1569580, "name": "Blue Prince" },
+          { "appid": 1145350, "name": "哈迪斯II" },
+          { "appid": 1030300, "name": "空洞骑士：丝之歌" }
+        ]},
+        { "awards": "actionadv", "appid": 1030300, "name": "空洞骑士：丝之歌", "nominees": [
+          { "appid": 3280350, "name": "死亡搁浅2" },
+          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": 2677660, "name": "夺宝奇兵：古老之圈" },
+          { "appid": 2001120, "name": "双影奇境" }
+        ]},
+        { "awards": "rpg", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 2457220, "name": "宣誓" },
+          { "appid": 1771300, "name": "天国拯救2" },
+          { "appid": 2246340, "name": "怪物猎人：荒野" },
+          { "appid": 1449110, "name": "天外世界2" }
+        ]},
+        { "awards": "fighting", "appid": 2492040, "name": "饿狼传说：群狼之城", "nominees": [
+          { "appid": "Steam 未收录", "name": "2XKO" },
+          { "appid": 2400430, "name": "卡普空格斗收藏集2" },
+          { "appid": 3454980, "name": "Mortal Kombat: Legacy Kollection" },
+          { "appid": 3112260, "name": "Virtua Fighter 5 R.E.V.O. World Stage" }
+        ]},
+        { "awards": "family", "appid": "任天堂独占", "name": "大金刚 蕉力全开", "nominees": [
+          { "appid": 1969370, "name": "乐高派对" },
+          { "appid": 1538550, "name": "LEGO Voyagers" },
+          { "appid": "任天堂独占", "name": "马力欧卡丁车 世界" },
+          { "appid": 2486820, "name": "索尼克赛车 交叉世界" },
+          { "appid": 2001120, "name": "双影奇境" }
+        ]},
+        { "awards": "sportsracing", "appid": "任天堂独占", "name": "马力欧卡丁车 世界", "nominees": [
+          { "appid": 3405690, "name": "EA SPORTS FC 26" },
+          { "appid": 3059520, "name": "F1 25" },
+          { "appid": 2138720, "name": "REMATCH" },
+          { "appid": 2486820, "name": "索尼克赛车 交叉世界" }
+        ]},
+        { "awards": "mobile", "appid": 3224770, "name": "赛马娘 Pretty Derby", "nominees": [
+          { "appid": "手机游戏", "name": "命运：崛起" },
+          { "appid": "手机游戏", "name": "女神异闻录：夜幕魅影" },
+          { "appid": "手机游戏", "name": "Sonic Rumble" },
+          { "appid": 3513350, "name": "鸣潮" }
+        ]},
+        { "awards": "art", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 3280350, "name": "死亡搁浅2" },
+          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": 1145350, "name": "哈迪斯II" },
+          { "appid": 1030300, "name": "空洞骑士：丝之歌" }
+        ]},
+        { "awards": "multiplayer", "appid": 1808500, "name": "ARC突袭者", "nominees": [
+          { "appid": 2807960, "name": "战地风云 6" },
+          { "appid": 2622380, "name": "艾尔登法环：黑夜君临" },
+          { "appid": 3527290, "name": "PEAK" },
+          { "appid": 2001120, "name": "双影奇境" }
+        ]},
+        { "awards": "direction", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 3280350, "name": "死亡搁浅2" },
+          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": 1145350, "name": "哈迪斯II" },
+          { "appid": 2001120, "name": "双影奇境" }
+        ]},
+        { "awards": "action", "appid": 1145350, "name": "哈迪斯II", "nominees": [
+          { "appid": 2807960, "name": "战地风云 6" },
+          { "appid": 3017860, "name": "毁灭战士：黑暗时代" },
+          { "appid": 2627260, "name": "忍者龙剑传4" },
+          { "appid": 2361770, "name": "超级忍：反攻的斩击" }
+        ]},
+        { "awards": "simstrategy", "appid": 1004640, "name": "最终幻想战略版：伊瓦利斯编年史", "nominees": [
+          { "appid": 1601570, "name": "多重人生" },
+          { "appid": 1295660, "name": "文明7" },
+          { "appid": 2958130, "name": "侏罗纪世界：进化3" },
+          { "appid": 1486920, "name": "风暴崛起" },
+          { "appid": 2185060, "name": "双点博物馆" }
+        ]},
+        { "awards": "vrar", "appid": 2863640, "name": "午夜漫步", "nominees": [
+          { "appid": 1850050, "name": "异形：夺命舰VR" },
+          { "appid": "VR 独占", "name": "漫威死侍VR" }
+        ]},
+        { "awards": "audio", "appid": 2807960, "name": "战地风云 6", "nominees": [
+          { "appid": 1903340, "name": "光与影：33号远征队" },
+          { "appid": 3280350, "name": "死亡搁浅2" },
+          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": 2947440, "name": "寂静岭f" }
+        ]},
+        { "awards": "debut", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
+          { "appid": 1569580, "name": "Blue Prince" },
+          { "appid": 2367820, "name": "Despelote" },
+          { "appid": 2592160, "name": "Dispatch" },
+          { "appid": 3405340, "name": "Megabonk" }
+        ]},
+        { "awards": "ongoing", "appid": 275850, "name": "无人深空", "nominees": [
+          { "appid": 39210, "name": "FINAL FANTASY XIV Online" },
+          { "appid": "Epic 独占", "name": "堡垒之夜" },
+          { "appid": 553850, "name": "绝地潜兵2" },
+          { "appid": 2767030, "name": "漫威争锋" }
+        ]},
+        { "awards": "playervoice", "appid": 3513350, "name": "鸣潮", "nominees": [
+          { "appid": 1903340, "name": "光与影：33号远征队" },
+          { "appid": 2592160, "name": "Dispatch" },
+          { "appid": "Steam 未收录", "name": "原神" },
+          { "appid": 1030300, "name": "空洞骑士：丝之歌" }
+        ]}
       ]
     }
   ]
