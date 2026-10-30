@@ -1,13 +1,13 @@
 {
-  "_meta": { "description": "The Game Awards 主要奖项获奖列表（2014-2025）：每行一个奖项，类别顺序延续上一年、当年新增类别排最后；appid 数字=Steam游戏、字符串=非Steam平台独占；name 为中文译名；2014 起含 nominees（该奖项当年其余提名游戏，按 Wikipedia 各届页面）", "updated": "2026-10-29", "source": "Wikipedia TGA 2014-2025 各届获奖记录（子代理交叉验证）", "categories": { "goty": "年度游戏", "direction": "最佳游戏指导", "narrative": "最佳叙事", "art": "最佳美术指导", "score": "最佳配乐", "audio": "最佳音效设计", "performance": "最佳表演", "impact": "最具影响游戏", "ongoing": "最佳持续运营", "indie": "最佳独立游戏", "debut": "最佳处女作独立", "mobile": "最佳手机游戏", "vrar": "最佳VR/AR游戏", "action": "最佳动作游戏", "actionadv": "最佳动作冒险", "rpg": "最佳角色扮演", "fighting": "最佳格斗游戏", "family": "最佳家庭游戏", "simstrategy": "最佳模拟/策略", "sportsracing": "最佳体育/竞速", "multiplayer": "最佳多人游戏", "playervoice": "玩家之声" }, "total": 161, "exclusives": 36 },
+  "_meta": { "description": "The Game Awards 主要奖项获奖列表（2014-2025）：每行一个奖项，类别顺序延续上一年、当年新增类别排最后；appid 数字=Steam游戏、字符串=非Steam平台独占（附 url=对应商店海报/官方图直链，Meta 图存于仓库 TGA_covers/，无官方图时为内置 SVG data URI）；name 为中文译名；2014 起含 nominees（该奖项当年其余提名游戏，按 Wikipedia 各届页面）", "updated": "2026-10-30", "source": "Wikipedia TGA 2014-2025 各届获奖记录（子代理交叉验证）", "categories": { "goty": "年度游戏", "direction": "最佳游戏指导", "narrative": "最佳叙事", "art": "最佳美术指导", "score": "最佳配乐", "audio": "最佳音效设计", "performance": "最佳表演", "impact": "最具影响游戏", "ongoing": "最佳持续运营", "indie": "最佳独立游戏", "debut": "最佳处女作独立", "mobile": "最佳手机游戏", "vrar": "最佳VR/AR游戏", "action": "最佳动作游戏", "actionadv": "最佳动作冒险", "rpg": "最佳角色扮演", "fighting": "最佳格斗游戏", "family": "最佳家庭游戏", "simstrategy": "最佳模拟/策略", "sportsracing": "最佳体育/竞速", "multiplayer": "最佳多人游戏", "playervoice": "玩家之声" }, "total": 161, "exclusives": 36 },
   "years": [
     {
       "year": 2014,
       "games": [
         { "awards": "goty", "appid": 1222690, "name": "龙腾世纪审判", "nominees": [
-          { "appid": "任天堂独占", "name": "猎天使魔女2" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_Bayonetta2.jpg", "name": "猎天使魔女2" },
           { "appid": 335300, "name": "黑暗之魂II：原罪学者" },
-          { "appid": "暴雪战网", "name": "炉石传说" },
+          { "appid": "暴雪战网", "url": "https://blznav.akamaized.net/img/games/cards/card-hearthstone-e9fe5d89ddb0ae23.jpg", "name": "炉石传说" },
           { "appid": 241930, "name": "中土世界：暗影魔多" }
         ]},
         { "awards": "narrative", "appid": 260230, "name": "勇敢的心：世界大战", "nominees": [
@@ -36,45 +36,45 @@
         ]},
         { "awards": "indie", "appid": 250760, "name": "铲子骑士：宝盒", "nominees": [
           { "appid": 232790, "name": "破碎年龄" },
-          { "appid": "手机游戏", "name": "纪念碑谷" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8e/d8/218ed8a3-c616-9ec7-419e-368073b9deb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "纪念碑谷" },
           { "appid": 237850, "name": "晶体管" },
           { "appid": 258520, "name": "伊森卡特的消失" }
         ]},
         { "awards": "actionadv", "appid": 241930, "name": "中土世界：暗影魔多", "nominees": [
           { "appid": 286570, "name": "刺客信条：大革命" },
           { "appid": 214490, "name": "异形：隔离" },
-          { "appid": "任天堂独占", "name": "猎天使魔女2" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_Bayonetta2.jpg", "name": "猎天使魔女2" },
           { "appid": 1250410, "name": "日落过载" }
         ]},
         { "awards": "rpg", "appid": 1222690, "name": "龙腾世纪审判", "nominees": [
-          { "appid": "任天堂独占", "name": "勇气默示录" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_BravelyDefault_image1280w.jpg", "name": "勇气默示录" },
           { "appid": 335300, "name": "黑暗之魂II：原罪学者" },
           { "appid": 230230, "name": "神界：原罪" },
           { "appid": 213670, "name": "南方公园：真理之杖" }
         ]},
-        { "awards": "fighting", "appid": "任天堂独占", "name": "任天堂明星大乱斗 Wii U 版", "nominees": [
-          { "appid": "Xbox/微软商店", "name": "杀手学堂：第二季" },
+        { "awards": "fighting", "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SuperSmashBrosForWiiU.jpg", "name": "任天堂明星大乱斗 Wii U 版", "nominees": [
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.3064.70339337929815063.3498cd11-7d0b-48d2-a6b9-2504bc0c3385.d81e10ff-0d07-4923-a0c3-cfc6a64873ed", "name": "杀手学堂：第二季" },
           { "appid": 1879400, "name": "女神异闻录4 竞技场 究极后桥背摔" },
-          { "appid": "任天堂独占", "name": "任天堂明星大乱斗 3DS 版" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_SuperSmashBrosForNintendo3DS.jpg", "name": "任天堂明星大乱斗 3DS 版" },
           { "appid": 45760, "name": "终极街霸4" }
         ]},
-        { "awards": "family", "appid": "任天堂独占", "name": "马力欧卡丁车8", "nominees": [
+        { "awards": "family", "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_MarioKart8.jpg", "name": "马力欧卡丁车8", "nominees": [
           { "appid": 281410, "name": "迪士尼无限2.0：漫威超级英雄" },
-          { "appid": "Xbox/微软商店", "name": "幻曲：音乐进化" },
-          { "appid": "Steam 未收录", "name": "小龙斯派罗：陷阱别动队" },
-          { "appid": "任天堂独占", "name": "任天狗狗+猫猫" }
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.2193.63352013326533305.239e3c82-6d17-42ca-b405-813b42813789.c55f227d-5fa8-4649-8213-29019e46eadc", "name": "幻曲：音乐进化" },
+          { "appid": "Steam 未收录", "url": "https://gamingbolt.com/wp-content/uploads/2014/08/SKylandersTrapTeam-Box-Art.jpg", "name": "小龙斯派罗：陷阱别动队" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_NintendogsAndCats.jpg", "name": "任天狗狗+猫猫" }
         ]},
-        { "awards": "sportsracing", "appid": "任天堂独占", "name": "马力欧卡丁车8", "nominees": [
+        { "awards": "sportsracing", "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_MarioKart8.jpg", "name": "马力欧卡丁车8", "nominees": [
           { "appid": 356870, "name": "FIFA 15" },
-          { "appid": "Xbox/微软商店", "name": "极限竞速：地平线2" },
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.6287.66372533939361121.92fcfa17-4d30-488c-8b2e-9313165f4489.87e49438-c567-4112-991b-78371a0dadf5", "name": "极限竞速：地平线2" },
           { "appid": 370910, "name": "NBA 2K15" },
           { "appid": 248150, "name": "特技摩托：聚变" }
         ]},
-        { "awards": "mobile", "appid": "暴雪战网", "name": "炉石传说", "nominees": [
-          { "appid": "任天堂独占", "name": "勇气默示录" },
-          { "appid": "手机游戏", "name": "纪念碑谷" },
-          { "appid": "任天堂独占", "name": "任天堂明星大乱斗 3DS 版" },
-          { "appid": "手机游戏", "name": "Threes" }
+        { "awards": "mobile", "appid": "暴雪战网", "url": "https://blznav.akamaized.net/img/games/cards/card-hearthstone-e9fe5d89ddb0ae23.jpg", "name": "炉石传说", "nominees": [
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_BravelyDefault_image1280w.jpg", "name": "勇气默示录" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8e/d8/218ed8a3-c616-9ec7-419e-368073b9deb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "纪念碑谷" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_SuperSmashBrosForNintendo3DS.jpg", "name": "任天堂明星大乱斗 3DS 版" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/47/56/b8475690-d12a-dce4-b99c-caf53418ba98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "Threes" }
         ]}
       ]
     },
@@ -82,10 +82,10 @@
       "year": 2015,
       "games": [
         { "awards": "goty", "appid": 292030, "name": "巫师3：狂猎 — 重制版", "nominees": [
-          { "appid": "PlayStation 独占", "name": "血源诅咒" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0713/WSZqsrnejjt85wYmUqeBQvMQ.png", "name": "血源诅咒" },
           { "appid": 377160, "name": "辐射4" },
           { "appid": 287700, "name": "合金装备V：幻痛" },
-          { "appid": "任天堂独占", "name": "超级马力欧创造家" }
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SuperMarioMaker_v01_image1280w.jpg", "name": "超级马力欧创造家" }
         ]},
         { "awards": "narrative", "appid": 368370, "name": "她的故事", "nominees": [
           { "appid": 319630, "name": "奇异人生" },
@@ -101,7 +101,7 @@
         ]},
         { "awards": "score", "appid": 287700, "name": "合金装备V：幻痛", "nominees": [
           { "appid": 377160, "name": "辐射4" },
-          { "appid": "Xbox/微软商店", "name": "光环5：守护者" },
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.64118.69279545232152045.f1a4a87c-fcc9-4b7c-a620-f6c56eb2d5ad.37725d25-3e41-41e7-a2ce-6b0f9994ef5c", "name": "光环5：守护者" },
           { "appid": 261570, "name": "奥日与黑暗森林" },
           { "appid": 292030, "name": "巫师3：狂猎 — 重制版" }
         ]},
@@ -124,7 +124,7 @@
           { "appid": 391220, "name": "古墓丽影：崛起" }
         ]},
         { "awards": "rpg", "appid": 292030, "name": "巫师3：狂猎 — 重制版", "nominees": [
-          { "appid": "PlayStation 独占", "name": "血源诅咒" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0713/WSZqsrnejjt85wYmUqeBQvMQ.png", "name": "血源诅咒" },
           { "appid": 377160, "name": "辐射4" },
           { "appid": 291650, "name": "永恒之柱" },
           { "appid": 391540, "name": "传说之下" }
@@ -132,36 +132,36 @@
         { "awards": "fighting", "appid": 307780, "name": "真人快打X", "nominees": [
           { "appid": 376300, "name": "罪恶装备 Xrd -SIGN-" },
           { "appid": 258160, "name": "Rise of Incarnates" },
-          { "appid": "Steam 下架", "name": "Rising Thunder" }
+          { "appid": "Steam 下架", "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NjAgMjE1Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxMDE4MjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxZTI5M2IiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNDYwIiBoZWlnaHQ9IjIxNSIgcng9IjEwIiBmaWxsPSJ1cmwoI2cpIi8+PHJlY3Qgd2lkdGg9IjQ2MCIgaGVpZ2h0PSIyMTUiIHJ4PSIxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjZjMGY0IiBzdHJva2Utb3BhY2l0eT0iLjM1IiBzdHJva2Utd2lkdGg9IjEuNSIvPjxwYXRoIGQ9Ik0yNTAgMzYgTDE5NiAxMDggTDIyOCAxMDggTDIwNCAxNjQgTDI3MiA5MiBMMjM4IDkyIEwyNjYgMzYgWiIgZmlsbD0iI2ZiYmYyNCIgc3Ryb2tlPSIjMGMxMjIwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48Y2lyY2xlIGN4PSIyMzAiIGN5PSIxMDAiIHI9Ijc2IiBmaWxsPSJub25lIiBzdHJva2U9IiMzYjgyZjYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIuNSIgc3Ryb2tlLWRhc2hhcnJheT0iNiA4Ii8+PHJlY3QgeD0iMTYiIHk9IjE2IiByeD0iNCIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIyMSIgZmlsbD0icmdiYSgwLDAsMCwuNDUpIi8+PHRleHQgeD0iMjQiIHk9IjMxIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjNjZjMGY0IiBmb250LWZhbWlseT0iJ01pY3Jvc29mdCBZYUhlaScsc2Fucy1zZXJpZiI+U3RlYW0g5LiL5p62PC90ZXh0Pjx0ZXh0IHg9IjIwIiB5PSIxODIiIGZvbnQtc2l6ZT0iMjQiIGZvbnQtd2VpZ2h0PSI4MDAiIGZpbGw9IiNmOGZhZmMiIGZvbnQtZmFtaWx5PSInTWljcm9zb2Z0IFlhSGVpJyxzYW5zLXNlcmlmIj5SaXNpbmcgVGh1bmRlcjwvdGV4dD48L3N2Zz4=", "name": "Rising Thunder" }
         ]},
-        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧创造家", "nominees": [
+        { "awards": "family", "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SuperMarioMaker_v01_image1280w.jpg", "name": "超级马力欧创造家", "nominees": [
           { "appid": 361640, "name": "迪士尼无限3.0" },
-          { "appid": "Steam 未收录", "name": "乐高次元" },
-          { "appid": "Steam 未收录", "name": "小龙斯派罗：超级改装" },
-          { "appid": "任天堂独占", "name": "斯普拉遁" }
+          { "appid": "Steam 未收录", "url": "https://cdn1.spong.com/pack/l/e/legodimens425296l/_-LEGO-Dimensions-Xbox-One-_.jpg", "name": "乐高次元" },
+          { "appid": "Steam 未收录", "url": "https://cdn.mobygames.com/covers/2414260-skylanders-superchargers-playstation-3-front-cover.jpg", "name": "小龙斯派罗：超级改装" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_Splatoon.jpg", "name": "斯普拉遁" }
         ]},
         { "awards": "sportsracing", "appid": 252950, "name": "火箭联盟", "nominees": [
-          { "appid": "Steam 未收录", "name": "FIFA 16" },
-          { "appid": "Xbox/微软商店", "name": "极限竞速6" },
+          { "appid": "Steam 未收录", "url": "https://cdn.mobygames.com/covers/2745147-fifa-16-xbox-one-front-cover.jpg", "name": "FIFA 16" },
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.22606.65302228228640121.b44e6c95-d8c9-4b75-9e32-d2e2ee52fb98.68f43277-1df3-4f2a-bfa6-0c46cfab20f4", "name": "极限竞速6" },
           { "appid": 370240, "name": "NBA 2K16" },
           { "appid": 375960, "name": "实况足球2016" }
         ]},
         { "awards": "mobile", "appid": 540840, "name": "劳拉GO", "nominees": [
           { "appid": 360740, "name": "Downwell" },
           { "appid": 588430, "name": "辐射：避难所" },
-          { "appid": "任天堂独占", "name": "怪物猎人4 终极版" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_Monster_Hunter4Ultimate.jpg", "name": "怪物猎人4 终极版" },
           { "appid": 455400, "name": "吃豆人256" }
         ]},
         { "awards": "art", "appid": 261570, "name": "奥日与黑暗森林", "nominees": [
           { "appid": 208650, "name": "蝙蝠侠：阿卡姆骑士" },
-          { "appid": "PlayStation 独占", "name": "血源诅咒" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0713/WSZqsrnejjt85wYmUqeBQvMQ.png", "name": "血源诅咒" },
           { "appid": 287700, "name": "合金装备V：幻痛" },
           { "appid": 292030, "name": "巫师3：狂猎 — 重制版" }
         ]},
-        { "awards": "multiplayer", "appid": "任天堂独占", "name": "斯普拉遁", "nominees": [
+        { "awards": "multiplayer", "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_Splatoon.jpg", "name": "斯普拉遁", "nominees": [
           { "appid": 311210, "name": "使命召唤12：黑色行动3" },
-          { "appid": "Steam 未收录", "name": "命运：被夺走之王" },
-          { "appid": "Xbox/微软商店", "name": "光环5：守护者" },
+          { "appid": "Steam 未收录", "url": "https://destiny.wiki.gallery/images/thumb/d/d2/The_Taken_King_Key_Art.jpg/1200px-The_Taken_King_Key_Art.jpg", "name": "命运：被夺走之王" },
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.64118.69279545232152045.f1a4a87c-fcc9-4b7c-a620-f6c56eb2d5ad.37725d25-3e41-41e7-a2ce-6b0f9994ef5c", "name": "光环5：守护者" },
           { "appid": 252950, "name": "火箭联盟" }
         ]}
       ]
@@ -194,7 +194,7 @@
         { "awards": "impact", "appid": 419460, "name": "那条龙，癌症", "nominees": [
           { "appid": 416210, "name": "Block'hood" },
           { "appid": 491950, "name": "奥威尔" },
-          { "appid": "手机游戏", "name": "Sea Hero Quest" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/1e/3d/db1e3d36-ba31-63e1-31bc-5f23f2155c0c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "Sea Hero Quest" },
           { "appid": 388320, "name": "1979革命：黑色星期五" }
         ]},
         { "awards": "indie", "appid": 304430, "name": "INSIDE", "nominees": [
@@ -206,37 +206,37 @@
         { "awards": "actionadv", "appid": 403640, "name": "耻辱2", "nominees": [
           { "appid": 1659040, "name": "杀手" },
           { "appid": 257850, "name": "光明旅者" },
-          { "appid": "PlayStation 独占", "name": "瑞奇与叮当" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/cdn/UP9000/CUSA01047_00/XUMI7tohtY97NG57Aj6UAvrYKxFA9e2C.png", "name": "瑞奇与叮当" },
           { "appid": 1659420, "name": "神秘海域4：盗贼末路" }
         ]},
         { "awards": "rpg", "appid": 292030, "name": "巫师3：狂猎 — 重制版", "nominees": [
           { "appid": 374320, "name": "黑暗之魂3" },
           { "appid": 337000, "name": "杀出重围：人类分裂" },
-          { "appid": "暴雪战网", "name": "魔兽世界：军团再临" },
-          { "appid": "任天堂独占", "name": "异度之刃X" }
+          { "appid": "暴雪战网", "url": "https://images.launchbox-app.com/c767699d-a514-4cc1-a7cb-09e47c3e7c8b.png", "name": "魔兽世界：军团再临" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_XenobladeChroniclesX.jpg", "name": "异度之刃X" }
         ]},
         { "awards": "fighting", "appid": 310950, "name": "街头霸王V", "nominees": [
           { "appid": 577940, "name": "杀手学堂" },
           { "appid": 571260, "name": "拳皇14 Steam版" },
-          { "appid": "任天堂独占", "name": "宝可拳" }
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_PokkenTournament_enGB.jpg", "name": "宝可拳" }
         ]},
-        { "awards": "family", "appid": "手机游戏", "name": "宝可梦GO", "nominees": [
+        { "awards": "family", "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/dc/39/eadc39e3-9f46-fe9e-7810-3b943989bf96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "宝可梦GO", "nominees": [
           { "appid": 2436570, "name": "勇者斗恶龙：创世小玩家" },
           { "appid": 438640, "name": "乐高星球大战：原力觉醒" },
-          { "appid": "PlayStation 独占", "name": "瑞奇与叮当" },
-          { "appid": "Steam 未收录", "name": "小龙斯派罗：创想师" }
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/cdn/UP9000/CUSA01047_00/XUMI7tohtY97NG57Aj6UAvrYKxFA9e2C.png", "name": "瑞奇与叮当" },
+          { "appid": "Steam 未收录", "url": "https://cdn3.spong.com/pack/s/k/skylanders435468l/_-Skylanders-Imaginators-Xbox-360-_.jpg", "name": "小龙斯派罗：创想师" }
         ]},
-        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "极限竞速：地平线3", "nominees": [
-          { "appid": "Steam 未收录", "name": "FIFA 17" },
-          { "appid": "PlayStation 独占", "name": "MLB The Show 16" },
+        { "awards": "sportsracing", "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.15767.13510798887550312.1152921504704377460.e0e88452-19d8-488c-bd67-b1e62c14728c", "name": "极限竞速：地平线3", "nominees": [
+          { "appid": "Steam 未收录", "url": "https://cdn.mobygames.com/covers/2279214-fifa-17-windows-front-cover.jpg", "name": "FIFA 17" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2122/RMzZWu9Zl2lqa5tVC1teMDA9.png", "name": "MLB The Show 16" },
           { "appid": 385760, "name": "NBA 2K17" },
           { "appid": 456610, "name": "实况足球2017" }
         ]},
-        { "awards": "mobile", "appid": "手机游戏", "name": "宝可梦GO", "nominees": [
-          { "appid": "手机游戏", "name": "部落冲突：皇室战争" },
-          { "appid": "任天堂独占", "name": "火焰纹章if" },
-          { "appid": "任天堂独占", "name": "怪物猎人X" },
-          { "appid": "手机游戏", "name": "Severed" }
+        { "awards": "mobile", "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/dc/39/eadc39e3-9f46-fe9e-7810-3b943989bf96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "宝可梦GO", "nominees": [
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/8f/83/038f835b-27e2-40e4-a196-80444df3a217/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg", "name": "部落冲突：皇室战争" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_FireEmblemFates_enGB.jpg", "name": "火焰纹章if" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_MonsterHunterGenerations_image1280w.jpg", "name": "怪物猎人X" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/6f/4c/666f4cfd-2b79-29c8-19db-d4c7087ba7f4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-85-220.png/512x512bb.jpg", "name": "Severed" }
         ]},
         { "awards": "art", "appid": 304430, "name": "INSIDE", "nominees": [
           { "appid": 384190, "name": "ABZU" },
@@ -246,7 +246,7 @@
         ]},
         { "awards": "multiplayer", "appid": 2357570, "name": "守望先锋", "nominees": [
           { "appid": 1238840, "name": "战地1" },
-          { "appid": "Xbox/微软商店", "name": "战争机器4" },
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.27107.13510798887356280.e9581154-ba55-457f-9b5f-4285b6036ba9.852cd1b9-b6db-430f-a640-b02d32c72c05", "name": "战争机器4" },
           { "appid": 1243830, "name": "胡闹厨房 全都好吃" },
           { "appid": 1237970, "name": "泰坦陨落2" },
           { "appid": 359550, "name": "彩虹六号：围攻" }
@@ -259,19 +259,19 @@
         ]},
         { "awards": "action", "appid": 379720, "name": "毁灭战士", "nominees": [
           { "appid": 1238840, "name": "战地1" },
-          { "appid": "Xbox/微软商店", "name": "战争机器4" },
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.27107.13510798887356280.e9581154-ba55-457f-9b5f-4285b6036ba9.852cd1b9-b6db-430f-a640-b02d32c72c05", "name": "战争机器4" },
           { "appid": 2357570, "name": "守望先锋" },
           { "appid": 1237970, "name": "泰坦陨落2" }
         ]},
         { "awards": "simstrategy", "appid": 289070, "name": "文明VI", "nominees": [
-          { "appid": "任天堂独占", "name": "火焰纹章if" },
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_FireEmblemFates_enGB.jpg", "name": "火焰纹章if" },
           { "appid": 281640, "name": "旗帜的传说2" },
           { "appid": 364360, "name": "全面战争：战锤" },
           { "appid": 268500, "name": "幽浮2" }
         ]},
         { "awards": "vrar", "appid": 636450, "name": "Rez 无限", "nominees": [
           { "appid": 502820, "name": "蝙蝠侠：阿卡姆VR" },
-          { "appid": "VR 独占", "name": "EVE：瓦尔基里" },
+          { "appid": "VR 独占", "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NjAgMjE1Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxMDE4MjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxZTI5M2IiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNDYwIiBoZWlnaHQ9IjIxNSIgcng9IjEwIiBmaWxsPSJ1cmwoI2cpIi8+PHJlY3Qgd2lkdGg9IjQ2MCIgaGVpZ2h0PSIyMTUiIHJ4PSIxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTc4YmZhIiBzdHJva2Utb3BhY2l0eT0iLjM1IiBzdHJva2Utd2lkdGg9IjEuNSIvPjxjaXJjbGUgY3g9IjcwIiBjeT0iNDAiIHI9IjEuNiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjciLz48Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuNSIvPjxjaXJjbGUgY3g9IjM5MCIgY3k9IjM2IiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii44Ii8+PGNpcmNsZSBjeD0iMzQwIiBjeT0iNzAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjUiLz48Y2lyY2xlIGN4PSI2MCIgY3k9IjE1MCIgcj0iMS40IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuNiIvPjxjaXJjbGUgY3g9IjQxMCIgY3k9IjEzMCIgcj0iMS42IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuNyIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDAiIHJ4PSI5NSIgcnk9IjM0IiBmaWxsPSIjYTc4YmZhIiBvcGFjaXR5PSIuMTIiLz48cGF0aCBkPSJNMTUwIDExOCBMMjMwIDU4IEwzMTAgMTE4IEwyMzAgOTYgWiIgZmlsbD0icmdiYSgxNSwyMCw0NSwuOSkiIHN0cm9rZT0iI2E3OGJmYSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMjA4IDk2IEwyMzAgODIgTDI1MiA5NiBMMjMwIDExOCBaIiBmaWxsPSIjYTc4YmZhIiBvcGFjaXR5PSIuNTUiLz48cmVjdCB4PSIxNiIgeT0iMTYiIHJ4PSI0IiB3aWR0aD0iODEiIGhlaWdodD0iMjEiIGZpbGw9InJnYmEoMCwwLDAsLjQ1KSIvPjx0ZXh0IHg9IjI0IiB5PSIzMSIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2E3OGJmYSIgZm9udC1mYW1pbHk9IidNaWNyb3NvZnQgWWFIZWknLHNhbnMtc2VyaWYiPlZSIOeLrOWNoDwvdGV4dD48dGV4dCB4PSIyMCIgeT0iMTgyIiBmb250LXNpemU9IjI0IiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjZjhmYWZjIiBmb250LWZhbWlseT0iJ01pY3Jvc29mdCBZYUhlaScsc2Fucy1zZXJpZiI+RVZF77ya55Om5bCU5Z+66YeMPC90ZXh0Pjwvc3ZnPg==", "name": "EVE：瓦尔基里" },
           { "appid": 448280, "name": "工作模拟器" },
           { "appid": 356400, "name": "Thumper" }
         ]}
@@ -280,11 +280,11 @@
     {
       "year": 2017,
       "games": [
-        { "awards": "goty", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息", "nominees": [
+        { "awards": "goty", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58", "name": "塞尔达传说：旷野之息", "nominees": [
           { "appid": 1151640, "name": "地平线：零之曙光" },
           { "appid": 1687950, "name": "女神异闻录5皇家版" },
           { "appid": 578080, "name": "绝地求生" },
-          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5", "name": "超级马力欧：奥德赛" }
         ]},
         { "awards": "narrative", "appid": 501300, "name": "艾迪芬奇的记忆", "nominees": [
           { "appid": 414340, "name": "地狱之刃：塞娜的献祭" },
@@ -301,8 +301,8 @@
           { "appid": 268910, "name": "茶杯头" },
           { "appid": 1085660, "name": "命运2" },
           { "appid": 1687950, "name": "女神异闻录5皇家版" },
-          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5", "name": "超级马力欧：奥德赛" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58", "name": "塞尔达传说：旷野之息" }
         ]},
         { "awards": "impact", "appid": 414340, "name": "地狱之刃：塞娜的献祭", "nominees": [
           { "appid": 808090, "name": "Bury Me, My Love" },
@@ -316,10 +316,10 @@
           { "appid": 462770, "name": "篝火" },
           { "appid": 501300, "name": "艾迪芬奇的记忆" }
         ]},
-        { "awards": "actionadv", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息", "nominees": [
+        { "awards": "actionadv", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58", "name": "塞尔达传说：旷野之息", "nominees": [
           { "appid": 582160, "name": "刺客信条：起源" },
           { "appid": 1151640, "name": "地平线：零之曙光" },
-          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5", "name": "超级马力欧：奥德赛" },
           { "appid": 1659420, "name": "神秘海域：失落的遗产" }
         ]},
         { "awards": "rpg", "appid": 1687950, "name": "女神异闻录5皇家版", "nominees": [
@@ -329,47 +329,47 @@
           { "appid": 488790, "name": "南方公园：完整破碎" }
         ]},
         { "awards": "fighting", "appid": 627270, "name": "不义联盟2", "nominees": [
-          { "appid": "任天堂独占", "name": "ARMS" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000392/f904982d4ad208926f0ae354b7295548d37ae4389e78192fae941fbd0e94f46b", "name": "ARMS" },
           { "appid": 493840, "name": "漫威vs卡普空：无限" },
           { "appid": 535520, "name": "尼德霍格2" },
           { "appid": 389730, "name": "铁拳7" }
         ]},
-        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧：奥德赛", "nominees": [
-          { "appid": "任天堂独占", "name": "马力欧卡丁车8 豪华版" },
-          { "appid": "任天堂独占", "name": "马力欧+疯兔：王国之战" },
+        { "awards": "family", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5", "name": "超级马力欧：奥德赛", "nominees": [
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453", "name": "马力欧卡丁车8 豪华版" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000819/c0544d71c50c0595b8589451e9fc8b2deaf5cab52415202e0585e137fbe3d5fb", "name": "马力欧+疯兔：王国之战" },
           { "appid": 584400, "name": "索尼克狂欢" },
-          { "appid": "任天堂独占", "name": "斯普拉遁2" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000529/b0b183a9860296016649fadb03b929411e7e5e0809af241e2e9652ebf0c5a715", "name": "斯普拉遁2" }
         ]},
-        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "极限竞速7", "nominees": [
-          { "appid": "Steam 未收录", "name": "FIFA 18" },
-          { "appid": "PlayStation 独占", "name": "GT赛车：竞技运动" },
+        { "awards": "sportsracing", "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.27100.13999052238919448.1152921504737892794.9f16f87c-536f-4c43-96b0-b483fe852d1d", "name": "极限竞速7", "nominees": [
+          { "appid": "Steam 未收录", "url": "https://cdn1.spong.com/pack/f/i/fifa18443741l/_-FIFA-18-PS3-_.jpg", "name": "FIFA 18" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/trophy/np/NPWR09921_00_003EE781881CD253436F47B136654659336BAE8773/0DC2B0C04F0A7204D2FCFD4ECFF20B7E65FD2B41.PNG", "name": "GT赛车：竞技运动" },
           { "appid": 577800, "name": "NBA 2K18" },
           { "appid": 592580, "name": "实况足球2018" },
           { "appid": 378860, "name": "赛车计划2" }
         ]},
-        { "awards": "mobile", "appid": "手机游戏", "name": "纪念碑谷2", "nominees": [
-          { "appid": "手机游戏", "name": "火焰纹章英雄" },
+        { "awards": "mobile", "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/f1/15/97f11538-719a-d660-41d2-d1cde2c59258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "纪念碑谷2", "nominees": [
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/09/8b/49098bac-64f4-777b-4f67-dead1009e6ee/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg", "name": "火焰纹章英雄" },
           { "appid": 435400, "name": "隐藏的家伙" },
           { "appid": 581270, "name": "回忆之旅" },
-          { "appid": "手机游戏", "name": "超级马力欧酷跑" }
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/55/50/ae5550ee-25a2-f00d-685d-ab061349bd51/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "超级马力欧酷跑" }
         ]},
         { "awards": "art", "appid": 268910, "name": "茶杯头", "nominees": [
           { "appid": 1085660, "name": "命运2" },
           { "appid": 1151640, "name": "地平线：零之曙光" },
           { "appid": 1687950, "name": "女神异闻录5皇家版" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58", "name": "塞尔达传说：旷野之息" }
         ]},
         { "awards": "multiplayer", "appid": 578080, "name": "绝地求生", "nominees": [
           { "appid": 476600, "name": "使命召唤14：二战" },
           { "appid": 1085660, "name": "命运2" },
-          { "appid": "Epic 独占", "name": "堡垒之夜" },
-          { "appid": "任天堂独占", "name": "马力欧卡丁车8 豪华版" },
-          { "appid": "任天堂独占", "name": "斯普拉遁2" }
+          { "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453", "name": "马力欧卡丁车8 豪华版" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000529/b0b183a9860296016649fadb03b929411e7e5e0809af241e2e9652ebf0c5a715", "name": "斯普拉遁2" }
         ]},
-        { "awards": "direction", "appid": "任天堂独占", "name": "塞尔达传说：旷野之息", "nominees": [
+        { "awards": "direction", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58", "name": "塞尔达传说：旷野之息", "nominees": [
           { "appid": 1151640, "name": "地平线：零之曙光" },
           { "appid": 418370, "name": "生化危机7" },
-          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5", "name": "超级马力欧：奥德赛" },
           { "appid": 612880, "name": "德军总部II：新巨像" }
         ]},
         { "awards": "action", "appid": 612880, "name": "德军总部II：新巨像", "nominees": [
@@ -378,26 +378,26 @@
           { "appid": 485510, "name": "仁王" },
           { "appid": 480490, "name": "掠夺" }
         ]},
-        { "awards": "simstrategy", "appid": "任天堂独占", "name": "马力欧+疯兔：王国之战", "nominees": [
-          { "appid": "Xbox/微软商店", "name": "光环战争2" },
+        { "awards": "simstrategy", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000819/c0544d71c50c0595b8589451e9fc8b2deaf5cab52415202e0585e137fbe3d5fb", "name": "马力欧+疯兔：王国之战", "nominees": [
+          { "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.6988.13510798886375954.7fab3417-408f-452b-bb10-612182e7a5ee.5708d7dd-59ab-411a-b732-5de746c6ee4c", "name": "光环战争2" },
           { "appid": 594570, "name": "全面战争：战锤2" },
           { "appid": 286000, "name": "Tooth and Tail" },
           { "appid": 593380, "name": "幽浮2：天选者之战" }
         ]},
         { "awards": "vrar", "appid": 418370, "name": "生化危机7", "nominees": [
-          { "appid": "VR 独占", "name": "Farpoint" },
-          { "appid": "VR 独占", "name": "Lone Echo" },
+          { "appid": "VR 独占", "url": "https://image.api.playstation.com/cdn/EP9000/CUSA04508_00/Myjyi8yHDKzWfuyyaTf0D1tWzb8OP0SQ.png", "name": "Farpoint" },
+          { "appid": "VR 独占", "url": "https://raw.githubusercontent.com/SmallFork/json/main/TGA_covers/lone-echo.webp", "name": "Lone Echo" },
           { "appid": 411460, "name": "星际迷航：舰桥船员" },
           { "appid": 617830, "name": "SUPERHOT VR" }
         ]},
         { "awards": "audio", "appid": 414340, "name": "地狱之刃：塞娜的献祭", "nominees": [
           { "appid": 1085660, "name": "命运2" },
           { "appid": 418370, "name": "生化危机7" },
-          { "appid": "任天堂独占", "name": "超级马力欧：奥德赛" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：旷野之息" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5", "name": "超级马力欧：奥德赛" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58", "name": "塞尔达传说：旷野之息" }
         ]},
         { "awards": "debut", "appid": 268910, "name": "茶杯头", "nominees": [
-          { "appid": "任天堂独占", "name": "高尔夫物语" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000776/9cf84b25fccd6da0f9dd2047590d014fc5cf533841d749e3fc73235adc6a0405", "name": "高尔夫物语" },
           { "appid": 367520, "name": "空洞骑士" },
           { "appid": 489140, "name": "Mr. Shifty" },
           { "appid": 433340, "name": "史莱姆牧场" }
@@ -470,20 +470,20 @@
           { "appid": 310950, "name": "街头霸王V：街机版" }
         ]},
         { "awards": "family", "appid": 728880, "name": "胡闹厨房2", "nominees": [
-          { "appid": "任天堂独占", "name": "马力欧网球 王牌" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000003889/7d4bb0a9ace1fb56a41aae8ef0d4ee806419e6187afdb4697a598458f02cd8e7", "name": "马力欧网球 王牌" },
           { "appid": 950050, "name": "星链：阿特拉斯之战" },
-          { "appid": "任天堂独占", "name": "超级马力欧派对" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000014158/0ca41128bf40b7e0dc32a046a659ecdc69e4d7cc7a3257d6280be665d2f795b5", "name": "超级马力欧派对" }
         ]},
         { "awards": "sportsracing", "appid": 1293830, "name": "极限竞速：地平线 4", "nominees": [
-          { "appid": "Steam 未收录", "name": "FIFA 19" },
-          { "appid": "任天堂独占", "name": "马力欧网球 王牌" },
+          { "appid": "Steam 未收录", "url": "https://cdn0.spong.com/pack/f/i/fifa19449920l/_-FIFA-19-PS4-_.jpg", "name": "FIFA 19" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000003889/7d4bb0a9ace1fb56a41aae8ef0d4ee806419e6187afdb4697a598458f02cd8e7", "name": "马力欧网球 王牌" },
           { "appid": 841370, "name": "NBA 2K19" },
           { "appid": 770240, "name": "实况足球2019" }
         ]},
         { "awards": "mobile", "appid": 1102130, "name": "弗洛伦斯", "nominees": [
           { "appid": 702670, "name": "甜甜圈都市" },
-          { "appid": "手机游戏", "name": "堡垒之夜" },
-          { "appid": "手机游戏", "name": "绝地求生手游" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg", "name": "绝地求生手游" },
           { "appid": 897820, "name": "王权：权力的游戏" }
         ]},
         { "awards": "art", "appid": 653530, "name": "奥伯拉丁的回归", "nominees": [
@@ -492,8 +492,8 @@
           { "appid": 1174180, "name": "荒野大镖客：救赎2" },
           { "appid": 1467100, "name": "歧路旅人" }
         ]},
-        { "awards": "multiplayer", "appid": "Epic 独占", "name": "堡垒之夜", "nominees": [
-          { "appid": "暴雪战网", "name": "使命召唤15：黑色行动4" },
+        { "awards": "multiplayer", "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜", "nominees": [
+          { "appid": "暴雪战网", "url": "https://blznav.akamaized.net/img/games/cards/card-cod-bo-4-964bdaf14e2a62de.jpg", "name": "使命召唤15：黑色行动4" },
           { "appid": 1085660, "name": "命运2" },
           { "appid": 582010, "name": "怪物猎人：世界" },
           { "appid": 1172620, "name": "盗贼之海" }
@@ -505,7 +505,7 @@
           { "appid": 1174180, "name": "荒野大镖客：救赎2" }
         ]},
         { "awards": "action", "appid": 588650, "name": "死亡细胞", "nominees": [
-          { "appid": "暴雪战网", "name": "使命召唤15：黑色行动4" },
+          { "appid": "暴雪战网", "url": "https://blznav.akamaized.net/img/games/cards/card-cod-bo-4-964bdaf14e2a62de.jpg", "name": "使命召唤15：黑色行动4" },
           { "appid": 1085660, "name": "命运2" },
           { "appid": 552520, "name": "孤岛惊魂5" },
           { "appid": 742300, "name": "洛克人11" }
@@ -516,14 +516,14 @@
           { "appid": 323190, "name": "冰汽时代" },
           { "appid": 790820, "name": "战场女武神4" }
         ]},
-        { "awards": "vrar", "appid": "PlayStation 独占", "name": "宇宙机器人：搜救行动", "nominees": [
+        { "awards": "vrar", "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2716/XctlNDbp9eKmFiIR6JBuhKh4.png", "name": "宇宙机器人：搜救行动", "nominees": [
           { "appid": 620980, "name": "节奏光剑" },
-          { "appid": "VR 独占", "name": "Firewall: Zero Hour" },
+          { "appid": "VR 独占", "url": "https://image.api.playstation.com/vulcan/img/cfn/11307vi577ppej_iM9ypdopidsWrubQ6kXT_vFfJSan4nhcQQ_mlEqqnSdmX9mN7O2mumE6y5t9VkvOAQ2Y8TLPkWcYETX5L.png", "name": "Firewall: Zero Hour" },
           { "appid": 846470, "name": "Moss VR" },
           { "appid": 1003590, "name": "俄罗斯方块效应：连接" }
         ]},
         { "awards": "audio", "appid": 1174180, "name": "荒野大镖客：救赎2", "nominees": [
-          { "appid": "暴雪战网", "name": "使命召唤15：黑色行动4" },
+          { "appid": "暴雪战网", "url": "https://blznav.akamaized.net/img/games/cards/card-cod-bo-4-964bdaf14e2a62de.jpg", "name": "使命召唤15：黑色行动4" },
           { "appid": 1293830, "name": "极限竞速：地平线 4" },
           { "appid": 1593500, "name": "战神" },
           { "appid": 1817070, "name": "漫威蜘蛛侠" }
@@ -534,7 +534,7 @@
           { "appid": 846470, "name": "Moss VR" },
           { "appid": 334940, "name": "尤库的小岛速递" }
         ]},
-        { "awards": "ongoing", "appid": "Epic 独占", "name": "堡垒之夜", "nominees": [
+        { "awards": "ongoing", "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜", "nominees": [
           { "appid": 1085660, "name": "命运2" },
           { "appid": 275850, "name": "无人深空" },
           { "appid": 2357570, "name": "守望先锋" },
@@ -550,7 +550,7 @@
           { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
           { "appid": 578650, "name": "天外世界" },
           { "appid": 883710, "name": "生化危机2 重制版" },
-          { "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9", "name": "任天堂明星大乱斗：特别版" }
         ]},
         { "awards": "narrative", "appid": 632470, "name": "极乐迪斯科 最终剪辑版", "nominees": [
           { "appid": 752590, "name": "瘟疫传说：无罪" },
@@ -564,13 +564,13 @@
           { "appid": 870780, "name": "控制" }
         ]},
         { "awards": "score", "appid": 1850570, "name": "死亡搁浅 导演剪辑版", "nominees": [
-          { "appid": "任天堂独占", "name": "塞尔达传说：海拉鲁的节奏" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000021364/e634f0b1b09278f6f10f76df203683873c1c00aa8a946cee36e068792a99dc9e", "name": "塞尔达传说：海拉鲁的节奏" },
           { "appid": 601150, "name": "鬼泣5" },
           { "appid": 2552450, "name": "王国之心3" },
           { "appid": 1122720, "name": "Sayonara Wild Hearts" }
         ]},
         { "awards": "impact", "appid": 683320, "name": "格莉丝", "nominees": [
-          { "appid": "PlayStation 独占", "name": "壁中精灵" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/cdn/IP9100/CUSA04318_00/Qk6LtLhlaxiQufUyyITKhhFEd9mmxdzH.png", "name": "壁中精灵" },
           { "appid": 1059670, "name": "Kind Words" },
           { "appid": 532210, "name": "奇异人生2" },
           { "appid": 1225590, "name": "孤独之海" }
@@ -585,7 +585,7 @@
           { "appid": 397540, "name": "无主之地3" },
           { "appid": 870780, "name": "控制" },
           { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：织梦岛" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000020033/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1", "name": "塞尔达传说：织梦岛" },
           { "appid": 883710, "name": "生化危机2 重制版" }
         ]},
         { "awards": "rpg", "appid": 632470, "name": "极乐迪斯科 最终剪辑版", "nominees": [
@@ -594,25 +594,25 @@
           { "appid": 582010, "name": "怪物猎人世界：冰原" },
           { "appid": 578650, "name": "天外世界" }
         ]},
-        { "awards": "fighting", "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版", "nominees": [
+        { "awards": "fighting", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9", "name": "任天堂明星大乱斗：特别版", "nominees": [
           { "appid": 4144680, "name": "死或生6" },
           { "appid": 816020, "name": "Jump Force" },
           { "appid": 976310, "name": "真人快打11" },
           { "appid": 1342260, "name": "侍魂 晓" }
         ]},
-        { "awards": "family", "appid": "任天堂独占", "name": "路易吉洋馆3", "nominees": [
-          { "appid": "任天堂独占", "name": "健身环大冒险" },
-          { "appid": "任天堂独占", "name": "超级马力欧创造家 2" },
-          { "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版" },
-          { "appid": "任天堂独占", "name": "耀西的手工世界" }
+        { "awards": "family", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000001620/2b166fb3197dacfde1d939acd6a976b9fbe3b1a32c54f9f0d2c8d23efb22412d", "name": "路易吉洋馆3", "nominees": [
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/ncom/en_US/products/games/switch/ring-fit-adventure/110583-switch-ring-fit-adventure-1200x675", "name": "健身环大冒险" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97", "name": "超级马力欧创造家 2" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9", "name": "任天堂明星大乱斗：特别版" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f", "name": "耀西的手工世界" }
         ]},
-        { "awards": "sportsracing", "appid": "Xbox/微软商店", "name": "古惑狼赛车 氮气加速", "nominees": [
+        { "awards": "sportsracing", "appid": "Xbox/微软商店", "url": "https://store-images.s-microsoft.com/image/apps.53374.68749109251632061.7415fd07-15d9-4d61-941f-64c80c5c0bd5.8fdd10d3-6081-4720-b172-44af4ebf61af", "name": "古惑狼赛车 氮气加速", "nominees": [
           { "appid": 690790, "name": "尘埃拉力赛2.0" },
           { "appid": 996470, "name": "实况足球2020" },
           { "appid": 928600, "name": "F1 2019" },
-          { "appid": "Steam 未收录", "name": "FIFA 20" }
+          { "appid": "Steam 未收录", "url": "https://www.fifauteam.com/wp-content/uploads/2019/07/A1967-11.jpg", "name": "FIFA 20" }
         ]},
-        { "awards": "mobile", "appid": "手机游戏", "name": "使命召唤手游", "nominees": [
+        { "awards": "mobile", "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/66/35/bc6635d9-68f4-6ab5-969f-92e034a50cfa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg", "name": "使命召唤手游", "nominees": [
           { "appid": 1818690, "name": "Grindstone" },
           { "appid": 1122720, "name": "Sayonara Wild Hearts" },
           { "appid": 2325290, "name": "光·遇" },
@@ -621,14 +621,14 @@
         { "awards": "art", "appid": 870780, "name": "控制 - 终极合辑 / Control Ultimate Edition", "nominees": [
           { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" },
           { "appid": 683320, "name": "格莉丝" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：织梦岛" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000020033/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1", "name": "塞尔达传说：织梦岛" },
           { "appid": 1122720, "name": "Sayonara Wild Hearts" },
           { "appid": 814380, "name": "只狼：影逝二度 年度版" }
         ]},
         { "awards": "multiplayer", "appid": 1172470, "name": "Apex英雄", "nominees": [
           { "appid": 397540, "name": "无主之地3" },
           { "appid": 1938090, "name": "使命召唤16：现代战争" },
-          { "appid": "任天堂独占", "name": "俄罗斯方块99" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000018547/2aaa58fe27cdc4784f54ee9f4e7dffd43ad1fd1fffabfd86029889696220d33b", "name": "俄罗斯方块99" },
           { "appid": 2221490, "name": "全境封锁2" }
         ]},
         { "awards": "direction", "appid": 1850570, "name": "死亡搁浅 导演剪辑版", "nominees": [
@@ -639,12 +639,12 @@
         ]},
         { "awards": "action", "appid": 601150, "name": "鬼泣5", "nominees": [
           { "appid": 1172470, "name": "Apex英雄" },
-          { "appid": "任天堂独占", "name": "星魂之链" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000018695/76f381cf2156c793d5f7a9e5c66f4d872b593d2e9d79ed8b84eb9827f32bb655", "name": "星魂之链" },
           { "appid": 1938090, "name": "使命召唤16：现代战争" },
           { "appid": 1097840, "name": "战争机器5" },
           { "appid": 412020, "name": "地铁：离乡" }
         ]},
-        { "awards": "simstrategy", "appid": "任天堂独占", "name": "火焰纹章：风花雪月", "nominees": [
+        { "awards": "simstrategy", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000007606/c499fdc86779ca95e61daed1f94288a245d196360d278138e56d44097d1a3878", "name": "火焰纹章：风花雪月", "nominees": [
           { "appid": 718850, "name": "奇迹时代：星陨" },
           { "appid": 916440, "name": "纪元1800" },
           { "appid": 779340, "name": "全面战争：三国" },
@@ -652,8 +652,8 @@
           { "appid": 607050, "name": "战律" }
         ]},
         { "awards": "vrar", "appid": 620980, "name": "节奏光剑", "nominees": [
-          { "appid": "VR 独占", "name": "阿斯加德之怒" },
-          { "appid": "VR 独占", "name": "Blood & Truth" },
+          { "appid": "VR 独占", "url": "https://raw.githubusercontent.com/SmallFork/json/main/TGA_covers/asgards-wrath.webp", "name": "阿斯加德之怒" },
+          { "appid": "VR 独占", "url": "https://image.api.playstation.com/vulcan/img/cfn/11307ZowJ3qHlRjM9u8oVnBLk8CSQPcrvZ6FZABV7ZF-zVcgsGPc6aejwfrJobOfbuY0JDIXFt3yAitNKMtgdb8SwNIYyIgw.png", "name": "Blood & Truth" },
           { "appid": 275850, "name": "无人深空" },
           { "appid": 1053970, "name": "Trover Saves the Universe" }
         ]},
@@ -671,14 +671,14 @@
           { "appid": 646570, "name": "杀戮尖塔" },
           { "appid": 837470, "name": "鹅作戏" }
         ]},
-        { "awards": "ongoing", "appid": "Epic 独占", "name": "堡垒之夜", "nominees": [
+        { "awards": "ongoing", "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜", "nominees": [
           { "appid": 1172470, "name": "Apex英雄" },
           { "appid": 1085660, "name": "命运2" },
           { "appid": 39210, "name": "最终幻想XIV" },
           { "appid": 359550, "name": "彩虹六号：围攻" }
         ]},
-        { "awards": "playervoice", "appid": "任天堂独占", "name": "火焰纹章：风花雪月", "nominees": [
-          { "appid": "任天堂独占", "name": "任天堂明星大乱斗：特别版" },
+        { "awards": "playervoice", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000007606/c499fdc86779ca95e61daed1f94288a245d196360d278138e56d44097d1a3878", "name": "火焰纹章：风花雪月", "nominees": [
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9", "name": "任天堂明星大乱斗：特别版" },
           { "appid": 1172380, "name": "星球大战绝地：陨落的武士团" },
           { "appid": 1850570, "name": "死亡搁浅 导演剪辑版" }
         ]}
@@ -688,7 +688,7 @@
       "year": 2020,
       "games": [
         { "awards": "goty", "appid": 2531310, "name": "最后生还者 第二部 重制版", "nominees": [
-          { "appid": "任天堂独占", "name": "集合啦！动物森友会" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a", "name": "集合啦！动物森友会" },
           { "appid": 782330, "name": "毁灭战士：永恒" },
           { "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
           { "appid": 2215430, "name": "对马岛之魂 导演剪辑版" },
@@ -731,7 +731,7 @@
           { "appid": 1172380, "name": "星球大战绝地：陨落的武士团" }
         ]},
         { "awards": "rpg", "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE", "nominees": [
-          { "appid": "手机游戏", "name": "原神" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" },
           { "appid": 1687950, "name": "女神异闻录5皇家版" },
           { "appid": 719040, "name": "废土3" },
           { "appid": 1235140, "name": "如龙7 光与暗的去向" }
@@ -742,12 +742,12 @@
           { "appid": 310950, "name": "街头霸王V 冠军版" },
           { "appid": 725060, "name": "夜下降生 Exe:Late[cl-r]" }
         ]},
-        { "awards": "family", "appid": "任天堂独占", "name": "集合啦！动物森友会", "nominees": [
+        { "awards": "family", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a", "name": "集合啦！动物森友会", "nominees": [
           { "appid": 1378990, "name": "古惑狼4：时机已到" },
           { "appid": 1097150, "name": "糖豆人：终极淘汰赛" },
-          { "appid": "任天堂独占", "name": "马力欧卡丁车实况：家庭赛车场" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000012352/04a99fcf7010676408152bb5c485178d31ab797d757b714ab0aaa318963ccda2", "name": "马力欧卡丁车实况：家庭赛车场" },
           { "appid": 1672970, "name": "我的世界：地下城" },
-          { "appid": "任天堂独占", "name": "纸片马力欧：折纸国王" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000029726/7f079a1e3927ea4752fb448ea7f2ccbd86933f5483ad9dd6de23ec96ed4df70b", "name": "纸片马力欧：折纸国王" }
         ]},
         { "awards": "sportsracing", "appid": 2395210, "name": "托尼·霍克：职业滑板手 1 + 2", "nominees": [
           { "appid": 1038250, "name": "尘埃5" },
@@ -756,10 +756,10 @@
           { "appid": 1225330, "name": "NBA 2K21" }
         ]},
         { "awards": "mobile", "appid": 945360, "name": "我们之中", "nominees": [
-          { "appid": "手机游戏", "name": "使命召唤手游" },
-          { "appid": "手机游戏", "name": "原神" },
-          { "appid": "Steam 未收录", "name": "符文之地传说" },
-          { "appid": "手机游戏", "name": "宝可梦咖啡店 Mix" }
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/66/35/bc6635d9-68f4-6ab5-969f-92e034a50cfa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg", "name": "使命召唤手游" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" },
+          { "appid": "Steam 未收录", "url": "https://playruneterra.com/assets/ccc9b55ec5fec88d1a616e7dec4795282a3aba52/static/image/share-image.jpg", "name": "符文之地传说" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/c2/5b/77c25b8b-0679-8099-31a7-1653ac16be9c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "宝可梦咖啡店 Mix" }
         ]},
         { "awards": "art", "appid": 2215430, "name": "对马岛之魂 导演剪辑版", "nominees": [
           { "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
@@ -768,10 +768,10 @@
           { "appid": 1057090, "name": "奥日与鬼火意志" }
         ]},
         { "awards": "multiplayer", "appid": 945360, "name": "我们之中", "nominees": [
-          { "appid": "任天堂独占", "name": "集合啦！动物森友会" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a", "name": "集合啦！动物森友会" },
           { "appid": 1962663, "name": "使命召唤：战区" },
           { "appid": 1097150, "name": "糖豆人：终极淘汰赛" },
-          { "appid": "Steam 未收录", "name": "无畏契约" }
+          { "appid": "Steam 未收录", "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/3828b05489971b4715f673bc0e2db81f6c7afac7-5120x1616.png", "name": "无畏契约" }
         ]},
         { "awards": "direction", "appid": 2531310, "name": "最后生还者 第二部 重制版", "nominees": [
           { "appid": 1462040, "name": "最终幻想7 重制版 INTERGRADE" },
@@ -792,8 +792,8 @@
           { "appid": 882100, "name": "幽浮：奇美拉战队" }
         ]},
         { "awards": "vrar", "appid": 546560, "name": "半衰期：爱莉克斯", "nominees": [
-          { "appid": "PlayStation 独占", "name": "梦境" },
-          { "appid": "PlayStation 独占", "name": "漫威钢铁侠VR" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2913/NE6EsohLBmlXJmgxaIGHVjh9.png", "name": "梦境" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2716/8pc2fi23ksuIvi0gEHO5EqV2.png", "name": "漫威钢铁侠VR" },
           { "appid": 1222730, "name": "星球大战：战机中队" },
           { "appid": 916840, "name": "行尸走肉：圣徒与罪人" }
         ]},
@@ -813,7 +813,7 @@
           { "appid": 1172470, "name": "Apex英雄" },
           { "appid": 1962663, "name": "使命召唤：战区" },
           { "appid": 1085660, "name": "命运2" },
-          { "appid": "Epic 独占", "name": "堡垒之夜" }
+          { "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜" }
         ]},
         { "awards": "playervoice", "appid": 2215430, "name": "对马岛之魂 导演剪辑版", "nominees": [
           { "appid": 2531310, "name": "最后生还者 第二部 重制版" },
@@ -828,7 +828,7 @@
       "games": [
         { "awards": "goty", "appid": 1426210, "name": "双人成行", "nominees": [
           { "appid": 1252330, "name": "死亡循环" },
-          { "appid": "任天堂独占", "name": "密特罗德：生存恐惧" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2", "name": "密特罗德：生存恐惧" },
           { "appid": 333800, "name": "意航员2" },
           { "appid": 1895880, "name": "瑞奇与叮当：时空跳转" },
           { "appid": 1196590, "name": "生化危机8：村庄" }
@@ -862,7 +862,7 @@
           { "appid": 1092790, "name": "邪恶冥刻" },
           { "appid": 1282730, "name": "循环勇士" }
         ]},
-        { "awards": "actionadv", "appid": "任天堂独占", "name": "密特罗德：生存恐惧", "nominees": [
+        { "awards": "actionadv", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2", "name": "密特罗德：生存恐惧", "nominees": [
           { "appid": 1088850, "name": "漫威银河护卫队" },
           { "appid": 333800, "name": "意航员2" },
           { "appid": 1895880, "name": "瑞奇与叮当：时空跳转" },
@@ -872,7 +872,7 @@
           { "appid": 1091500, "name": "赛博朋克 2077" },
           { "appid": 1446780, "name": "怪物猎人：崛起" },
           { "appid": 775500, "name": "绯红结系" },
-          { "appid": "任天堂独占", "name": "真女神转生5" }
+          { "appid": "任天堂独占", "url": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_ShinMegamiTenseiV_image500w.jpg", "name": "真女神转生5" }
         ]},
         { "awards": "fighting", "appid": 1384160, "name": "罪恶装备 -奋战-", "nominees": [
           { "appid": 1490590, "name": "鬼灭之刃 火神血风谭" },
@@ -881,10 +881,10 @@
           { "appid": 3112260, "name": "VR战士5 终极对决" }
         ]},
         { "awards": "family", "appid": 1426210, "name": "双人成行", "nominees": [
-          { "appid": "任天堂独占", "name": "马力欧派对 超级巨星" },
-          { "appid": "任天堂独占", "name": "新 宝可梦随乐拍" },
-          { "appid": "任天堂独占", "name": "超级马力欧3D世界+狂怒世界" },
-          { "appid": "任天堂独占", "name": "分享同乐！瓦力欧制造" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304", "name": "马力欧派对 超级巨星" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000037989/00bd7efe46ab2b3ff0774172a5d4f21a5b2f467b3e324557ce1e9a9ae12c1d3b", "name": "新 宝可梦随乐拍" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f", "name": "超级马力欧3D世界+狂怒世界" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/warioware-get-it-together-us/113263-switch-warioware-get-it-together-box-art-us-1200x675", "name": "分享同乐！瓦力欧制造" }
         ]},
         { "awards": "sportsracing", "appid": 1551360, "name": "极限竞速：地平线 5", "nominees": [
           { "appid": 1134570, "name": "F1 2021" },
@@ -892,11 +892,11 @@
           { "appid": 1271700, "name": "风火轮释放" },
           { "appid": 2290180, "name": "极限国度" }
         ]},
-        { "awards": "mobile", "appid": "手机游戏", "name": "原神", "nominees": [
+        { "awards": "mobile", "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神", "nominees": [
           { "appid": 2844850, "name": "Fantasian" },
-          { "appid": "手机游戏", "name": "英雄联盟手游" },
-          { "appid": "手机游戏", "name": "漫威未来革命" },
-          { "appid": "手机游戏", "name": "宝可梦大集结" }
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/e1/e9/70e1e94a-6d1e-2dd1-3375-75b43d8f71a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "英雄联盟手游" },
+          { "appid": "手机游戏", "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NjAgMjE1Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxMDE4MjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxZTI5M2IiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNDYwIiBoZWlnaHQ9IjIxNSIgcng9IjEwIiBmaWxsPSJ1cmwoI2cpIi8+PHJlY3Qgd2lkdGg9IjQ2MCIgaGVpZ2h0PSIyMTUiIHJ4PSIxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzRkMzk5IiBzdHJva2Utb3BhY2l0eT0iLjM1IiBzdHJva2Utd2lkdGg9IjEuNSIvPjxwYXRoIGQ9Ik0yMzAgNDAgTDI1MiA4MiBMMjk4IDg4IEwyNjQgMTIwIEwyNzMgMTY2IEwyMzAgMTQzIEwxODcgMTY2IEwxOTYgMTIwIEwxNjIgODggTDIwOCA4MiBaIiBmaWxsPSIjZTYyNDI5IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjIzMCIgY3k9IjEwNCIgcj0iMTIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii45Ii8+PHJlY3QgeD0iMTYiIHk9IjE2IiByeD0iNCIgd2lkdGg9IjY4IiBoZWlnaHQ9IjIxIiBmaWxsPSJyZ2JhKDAsMCwwLC40NSkiLz48dGV4dCB4PSIyNCIgeT0iMzEiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMzNGQzOTkiIGZvbnQtZmFtaWx5PSInTWljcm9zb2Z0IFlhSGVpJyxzYW5zLXNlcmlmIj7miYvmnLrmuLjmiI88L3RleHQ+PHRleHQgeD0iMjAiIHk9IjE4MiIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0iI2Y4ZmFmYyIgZm9udC1mYW1pbHk9IidNaWNyb3NvZnQgWWFIZWknLHNhbnMtc2VyaWYiPua8q+WogeacquadpemdqeWRvTwvdGV4dD48L3N2Zz4=", "name": "漫威未来革命" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/87/a1/f887a1db-782d-9c7f-41f7-59419f460c9e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg", "name": "宝可梦大集结" }
         ]},
         { "awards": "art", "appid": 1252330, "name": "死亡循环", "nominees": [
           { "appid": 1954200, "name": "柯娜：精神之桥" },
@@ -932,7 +932,7 @@
         { "awards": "vrar", "appid": 2050650, "name": "生化危机4 重制版", "nominees": [
           { "appid": 1659040, "name": "杀手3" },
           { "appid": 1499120, "name": "I Expect You To Die 2" },
-          { "appid": "VR 独占", "name": "回声回响2" },
+          { "appid": "VR 独占", "url": "https://raw.githubusercontent.com/SmallFork/json/main/TGA_covers/lone-echo-2.webp", "name": "回声回响2" },
           { "appid": 752480, "name": "狙击精英VR" }
         ]},
         { "awards": "audio", "appid": 1551360, "name": "极限竞速：地平线 5", "nominees": [
@@ -950,13 +950,13 @@
         { "awards": "ongoing", "appid": 39210, "name": "最终幻想XIV", "nominees": [
           { "appid": 1172470, "name": "Apex英雄" },
           { "appid": 1962663, "name": "使命召唤：战区" },
-          { "appid": "Epic 独占", "name": "堡垒之夜" },
-          { "appid": "手机游戏", "name": "原神" }
+          { "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" }
         ]},
         { "awards": "playervoice", "appid": 1240440, "name": "光环：无限", "nominees": [
           { "appid": 1551360, "name": "极限竞速：地平线 5" },
           { "appid": 1426210, "name": "双人成行" },
-          { "appid": "任天堂独占", "name": "密特罗德：生存恐惧" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2", "name": "密特罗德：生存恐惧" },
           { "appid": 1196590, "name": "生化危机8：村庄" }
         ]}
       ]
@@ -969,7 +969,7 @@
           { "appid": 2322010, "name": "战神：诸神黄昏" },
           { "appid": 2420110, "name": "地平线 西之绝境 完整版" },
           { "appid": 1332010, "name": "迷失" },
-          { "appid": "任天堂独占", "name": "异度神剑3" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/xenoblade-chronicles-3/114559-nintendo-switch-xenoblade-chron-3-1200x675", "name": "异度神剑3" }
         ]},
         { "awards": "narrative", "appid": 2322010, "name": "战神：诸神黄昏", "nominees": [
           { "appid": 1182900, "name": "瘟疫传说：安魂曲" },
@@ -986,7 +986,7 @@
           { "appid": 1182900, "name": "瘟疫传说：安魂曲" },
           { "appid": 1245620, "name": "艾尔登法环" },
           { "appid": 1061910, "name": "金属：地狱歌唱家" },
-          { "appid": "任天堂独占", "name": "异度神剑3" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/xenoblade-chronicles-3/114559-nintendo-switch-xenoblade-chron-3-1200x675", "name": "异度神剑3" }
         ]},
         { "awards": "impact", "appid": 1341820, "name": "黄昏降临时", "nominees": [
           { "appid": 1497450, "name": "蓝色回忆录" },
@@ -1009,9 +1009,9 @@
         ]},
         { "awards": "rpg", "appid": 1245620, "name": "艾尔登法环", "nominees": [
           { "appid": 2014380, "name": "时空勇士" },
-          { "appid": "任天堂独占", "name": "宝可梦传说 阿尔宙斯" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/pokemon-legends-arceus-114390/114390-pokemon-legends-arceus-us-1200x675", "name": "宝可梦传说 阿尔宙斯" },
           { "appid": 1850510, "name": "三角战略" },
-          { "appid": "任天堂独占", "name": "异度神剑3" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/xenoblade-chronicles-3/114559-nintendo-switch-xenoblade-chron-3-1200x675", "name": "异度神剑3" }
         ]},
         { "awards": "fighting", "appid": 1818750, "name": "多元宇宙大乱斗", "nominees": [
           { "appid": 1216060, "name": "DNF Duel" },
@@ -1019,22 +1019,22 @@
           { "appid": 1498570, "name": "拳皇15" },
           { "appid": 2138710, "name": "Sifu 师父" }
         ]},
-        { "awards": "family", "appid": "任天堂独占", "name": "星之卡比 探索发现", "nominees": [
+        { "awards": "family", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/kirby-and-the-forgotten-land-114404/114404-switch-kirby-and-the-forgotten-land-us-1200x675", "name": "星之卡比 探索发现", "nominees": [
           { "appid": 920210, "name": "乐高星球大战：天行者传奇" },
-          { "appid": "任天堂独占", "name": "马力欧+疯兔 星耀之愿" },
-          { "appid": "任天堂独占", "name": "Nintendo Switch 运动" },
-          { "appid": "任天堂独占", "name": "斯普拉遁3" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/store/software/switch/70010000035797/f3dc6aa2e25ab6d713ac5da17e90ce676dfadf6a0b8fefb37b8b5159d89fc36c", "name": "马力欧+疯兔 星耀之愿" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/nintendo-switch-sports-114528/114528-switch-nintendo-switch-sports-v2-1200x675", "name": "Nintendo Switch 运动" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/splatoon-3-114543/114543-switch-splatoon-3-1200x675", "name": "斯普拉遁3" }
         ]},
-        { "awards": "sportsracing", "appid": "PlayStation 独占", "name": "跑车浪漫旅7", "nominees": [
+        { "awards": "sportsracing", "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/y7iyxoBE8VKotN89QCFhLgLM.png", "name": "跑车浪漫旅7", "nominees": [
           { "appid": 2108330, "name": "F1 22" },
           { "appid": 1811260, "name": "FIFA 23" },
           { "appid": 1919590, "name": "NBA 2K23" },
           { "appid": 1190170, "name": "奥力奥力世界" }
         ]},
         { "awards": "mobile", "appid": 1997040, "name": "漫威终极逆转", "nominees": [
-          { "appid": "手机游戏", "name": "Apex英雄手游" },
-          { "appid": "手机游戏", "name": "暗黑破坏神：不朽" },
-          { "appid": "手机游戏", "name": "原神" },
+          { "appid": "手机游戏", "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NjAgMjE1Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxMDE4MjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxZTI5M2IiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNDYwIiBoZWlnaHQ9IjIxNSIgcng9IjEwIiBmaWxsPSJ1cmwoI2cpIi8+PHJlY3Qgd2lkdGg9IjQ2MCIgaGVpZ2h0PSIyMTUiIHJ4PSIxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzRkMzk5IiBzdHJva2Utb3BhY2l0eT0iLjM1IiBzdHJva2Utd2lkdGg9IjEuNSIvPjxjaXJjbGUgY3g9IjIzMCIgY3k9Ijk2IiByPSI1MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmY0NjU1IiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIyMzAiIGN5PSI5NiIgcj0iMjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmNDY1NSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz48cGF0aCBkPSJNMjMwIDMwIHYyNiBNMjMwIDEzNiB2MjYgTTE2NCA5NiBoMjYgTTI3MCA5NiBoMjYiIHN0cm9rZT0iI2ZmNDY1NSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48Y2lyY2xlIGN4PSIyMzAiIGN5PSI5NiIgcj0iNiIgZmlsbD0iI2ZmNDY1NSIvPjxyZWN0IHg9IjE2IiB5PSIxNiIgcng9IjQiIHdpZHRoPSI2OCIgaGVpZ2h0PSIyMSIgZmlsbD0icmdiYSgwLDAsMCwuNDUpIi8+PHRleHQgeD0iMjQiIHk9IjMxIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMzRkMzk5IiBmb250LWZhbWlseT0iJ01pY3Jvc29mdCBZYUhlaScsc2Fucy1zZXJpZiI+5omL5py65ri45oiPPC90ZXh0Pjx0ZXh0IHg9IjIwIiB5PSIxODIiIGZvbnQtc2l6ZT0iMjQiIGZvbnQtd2VpZ2h0PSI4MDAiIGZpbGw9IiNmOGZhZmMiIGZvbnQtZmFtaWx5PSInTWljcm9zb2Z0IFlhSGVpJyxzYW5zLXNlcmlmIj5BcGV46Iux6ZuE5omL5ri4PC90ZXh0Pjwvc3ZnPg==", "name": "Apex英雄手游" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/db/dc/dfdbdcf9-9266-5b88-0792-795342cbf627/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg", "name": "暗黑破坏神：不朽" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" },
           { "appid": 2064650, "name": "幻塔" }
         ]},
         { "awards": "art", "appid": 1245620, "name": "艾尔登法环", "nominees": [
@@ -1043,7 +1043,7 @@
           { "appid": 698670, "name": "轻蔑" },
           { "appid": 1332010, "name": "迷失" }
         ]},
-        { "awards": "multiplayer", "appid": "任天堂独占", "name": "斯普拉遁3", "nominees": [
+        { "awards": "multiplayer", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/splatoon-3-114543/114543-switch-splatoon-3-1200x675", "name": "斯普拉遁3", "nominees": [
           { "appid": 1938090, "name": "使命召唤：现代战争II 2022" },
           { "appid": 1818750, "name": "多元宇宙大乱斗" },
           { "appid": 2357570, "name": "守望先锋：归来" },
@@ -1055,13 +1055,13 @@
           { "appid": 1457360, "name": "永生" },
           { "appid": 1332010, "name": "迷失" }
         ]},
-        { "awards": "action", "appid": "任天堂独占", "name": "猎天使魔女3", "nominees": [
+        { "awards": "action", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/en_US/products/games/switch/bayonetta-3-107290/107290-nintendo-switch-bayonetta-3-1200x675", "name": "猎天使魔女3", "nominees": [
           { "appid": 1938090, "name": "使命召唤：现代战争II 2022" },
           { "appid": 1533420, "name": "Neon White" },
           { "appid": 2138710, "name": "Sifu 师父" },
           { "appid": 1361510, "name": "忍者神龟：施莱德的复仇" }
         ]},
-        { "awards": "simstrategy", "appid": "任天堂独占", "name": "马力欧+疯兔 星耀之愿", "nominees": [
+        { "awards": "simstrategy", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/store/software/switch/70010000035797/f3dc6aa2e25ab6d713ac5da17e90ce676dfadf6a0b8fefb37b8b5159d89fc36c", "name": "马力欧+疯兔 星耀之愿", "nominees": [
           { "appid": 1605220, "name": "沙丘：香料战争" },
           { "appid": 1142710, "name": "全面战争：战锤3" },
           { "appid": 1649080, "name": "双点校园" },
@@ -1074,7 +1074,7 @@
         { "awards": "audio", "appid": 2322010, "name": "战神：诸神黄昏", "nominees": [
           { "appid": 1938090, "name": "使命召唤：现代战争II 2022" },
           { "appid": 1245620, "name": "艾尔登法环" },
-          { "appid": "PlayStation 独占", "name": "跑车浪漫旅7" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/y7iyxoBE8VKotN89QCFhLgLM.png", "name": "跑车浪漫旅7" },
           { "appid": 2420110, "name": "地平线 西之绝境 完整版" }
         ]},
         { "awards": "debut", "appid": 1332010, "name": "迷失", "nominees": [
@@ -1086,10 +1086,10 @@
         { "awards": "ongoing", "appid": 39210, "name": "最终幻想XIV", "nominees": [
           { "appid": 1172470, "name": "Apex英雄" },
           { "appid": 1085660, "name": "命运2" },
-          { "appid": "Epic 独占", "name": "堡垒之夜" },
-          { "appid": "手机游戏", "name": "原神" }
+          { "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" }
         ]},
-        { "awards": "playervoice", "appid": "手机游戏", "name": "原神", "nominees": [
+        { "awards": "playervoice", "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神", "nominees": [
           { "appid": 1245620, "name": "艾尔登法环" },
           { "appid": 2322010, "name": "战神：诸神黄昏" },
           { "appid": 1237320, "name": "索尼克 未知边境" },
@@ -1101,13 +1101,13 @@
       "year": 2023,
       "games": [
         { "awards": "goty", "appid": 1086940, "name": "博德之门3", "nominees": [
-          { "appid": "Epic 独占", "name": "心灵杀手2" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
+          { "appid": "Epic 独占", "url": "https://www.alanwake.com/wp-content/uploads/2023/05/aw2-standard.png", "name": "心灵杀手2" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/the-legend-of-zelda-tears-of-the-kingdom-112383/112383-nintendo-the-legeld-of-zelda-tears-of-the-kingdom-1200x675", "name": "塞尔达传说：王国之泪" },
           { "appid": 2651280, "name": "漫威蜘蛛侠2" },
           { "appid": 2050650, "name": "生化危机4 重制版" },
-          { "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/super-mario-bros-wonder-118640/118640-nintendo-super-mario-bros-wonder-1200x675", "name": "超级马力欧兄弟 惊奇" }
         ]},
-        { "awards": "narrative", "appid": "Epic 独占", "name": "心灵杀手2", "nominees": [
+        { "awards": "narrative", "appid": "Epic 独占", "url": "https://www.alanwake.com/wp-content/uploads/2023/05/aw2-standard.png", "name": "心灵杀手2", "nominees": [
           { "appid": 1086940, "name": "博德之门3" },
           { "appid": 2138330, "name": "赛博朋克 2077：往日之影" },
           { "appid": 2515020, "name": "最终幻想16" },
@@ -1115,16 +1115,16 @@
         ]},
         { "awards": "performance", "appid": 1086940, "name": "博德之门3", "nominees": [
           { "appid": 2138330, "name": "赛博朋克 2077：往日之影" },
-          { "appid": "Epic 独占", "name": "心灵杀手2" },
+          { "appid": "Epic 独占", "url": "https://www.alanwake.com/wp-content/uploads/2023/05/aw2-standard.png", "name": "心灵杀手2" },
           { "appid": 2651280, "name": "漫威蜘蛛侠2" },
           { "appid": 1774580, "name": "星球大战 绝地：幸存者" },
           { "appid": 2515020, "name": "最终幻想16" }
         ]},
         { "awards": "score", "appid": 2515020, "name": "最终幻想16", "nominees": [
-          { "appid": "Epic 独占", "name": "心灵杀手2" },
+          { "appid": "Epic 独占", "url": "https://www.alanwake.com/wp-content/uploads/2023/05/aw2-standard.png", "name": "心灵杀手2" },
           { "appid": 1086940, "name": "博德之门3" },
           { "appid": 1817230, "name": "完美音浪" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/the-legend-of-zelda-tears-of-the-kingdom-112383/112383-nintendo-the-legeld-of-zelda-tears-of-the-kingdom-1200x675", "name": "塞尔达传说：王国之泪" }
         ]},
         { "awards": "impact", "appid": 1496590, "name": "奇娅", "nominees": [
           { "appid": 1201270, "name": "无垠之心" },
@@ -1139,8 +1139,8 @@
           { "appid": 1562430, "name": "渔帆暗涌" },
           { "appid": 1382070, "name": "Viewfinder 取景器" }
         ]},
-        { "awards": "actionadv", "appid": "任天堂独占", "name": "塞尔达传说：王国之泪", "nominees": [
-          { "appid": "Epic 独占", "name": "心灵杀手2" },
+        { "awards": "actionadv", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/the-legend-of-zelda-tears-of-the-kingdom-112383/112383-nintendo-the-legeld-of-zelda-tears-of-the-kingdom-1200x675", "name": "塞尔达传说：王国之泪", "nominees": [
+          { "appid": "Epic 独占", "url": "https://www.alanwake.com/wp-content/uploads/2023/05/aw2-standard.png", "name": "心灵杀手2" },
           { "appid": 2651280, "name": "漫威蜘蛛侠2" },
           { "appid": 2050650, "name": "生化危机4 重制版" },
           { "appid": 1774580, "name": "星球大战 绝地：幸存者" }
@@ -1157,10 +1157,10 @@
           { "appid": 2017080, "name": "尼克频道全明星大乱斗2" },
           { "appid": 1555150, "name": "Pocket Bravery" }
         ]},
-        { "awards": "family", "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇", "nominees": [
+        { "awards": "family", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/super-mario-bros-wonder-118640/118640-nintendo-super-mario-bros-wonder-1200x675", "name": "超级马力欧兄弟 惊奇", "nominees": [
           { "appid": 2054660, "name": "迪士尼幻梦岛" },
           { "appid": 1260320, "name": "猛兽派对" },
-          { "appid": "任天堂独占", "name": "皮克敏4" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/pikmin-4-117531/117531-pikmin-4-1200x675", "name": "皮克敏4" },
           { "appid": 2022670, "name": "索尼克 超级巨星" }
         ]},
         { "awards": "sportsracing", "appid": 2440510, "name": "极限竞速", "nominees": [
@@ -1169,29 +1169,29 @@
           { "appid": 2051120, "name": "风火轮释放2：涡轮加速" },
           { "appid": 2698940, "name": "飚酷车神：轰鸣盛典" }
         ]},
-        { "awards": "mobile", "appid": "手机游戏", "name": "崩坏：星穹铁道", "nominees": [
-          { "appid": "手机游戏", "name": "最终幻想7：永恒危机" },
+        { "awards": "mobile", "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/65/dc/fd65dc18-c4b6-7b64-8266-a423f3f113e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "崩坏：星穹铁道", "nominees": [
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/46/02/c946027e-833e-c3ca-c448-6d4cfca14e24/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "最终幻想7：永恒危机" },
           { "appid": 2495100, "name": "Hello Kitty 岛屿冒险" },
-          { "appid": "手机游戏", "name": "怪物猎人Now" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/a2/a4/eca2a402-b5d6-4338-9305-21a90e296a87/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg", "name": "怪物猎人Now" },
           { "appid": 1593030, "name": "伊始之地" }
         ]},
-        { "awards": "art", "appid": "Epic 独占", "name": "心灵杀手2", "nominees": [
+        { "awards": "art", "appid": "Epic 独占", "url": "https://www.alanwake.com/wp-content/uploads/2023/05/aw2-standard.png", "name": "心灵杀手2", "nominees": [
           { "appid": 1817230, "name": "完美音浪" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/the-legend-of-zelda-tears-of-the-kingdom-112383/112383-nintendo-the-legeld-of-zelda-tears-of-the-kingdom-1200x675", "name": "塞尔达传说：王国之泪" },
           { "appid": 1627720, "name": "匹诺曹的谎言" },
-          { "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/super-mario-bros-wonder-118640/118640-nintendo-super-mario-bros-wonder-1200x675", "name": "超级马力欧兄弟 惊奇" }
         ]},
         { "awards": "multiplayer", "appid": 1086940, "name": "博德之门3", "nominees": [
           { "appid": 2344520, "name": "暗黑破坏神IV" },
           { "appid": 1260320, "name": "猛兽派对" },
           { "appid": 1364780, "name": "街头霸王6" },
-          { "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/super-mario-bros-wonder-118640/118640-nintendo-super-mario-bros-wonder-1200x675", "name": "超级马力欧兄弟 惊奇" }
         ]},
-        { "awards": "direction", "appid": "Epic 独占", "name": "心灵杀手2", "nominees": [
+        { "awards": "direction", "appid": "Epic 独占", "url": "https://www.alanwake.com/wp-content/uploads/2023/05/aw2-standard.png", "name": "心灵杀手2", "nominees": [
           { "appid": 1086940, "name": "博德之门3" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/the-legend-of-zelda-tears-of-the-kingdom-112383/112383-nintendo-the-legeld-of-zelda-tears-of-the-kingdom-1200x675", "name": "塞尔达传说：王国之泪" },
           { "appid": 2651280, "name": "漫威蜘蛛侠2" },
-          { "appid": "任天堂独占", "name": "超级马力欧兄弟 惊奇" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/super-mario-bros-wonder-118640/118640-nintendo-super-mario-bros-wonder-1200x675", "name": "超级马力欧兄弟 惊奇" }
         ]},
         { "awards": "action", "appid": 1888160, "name": "装甲核心VI：境界天火", "nominees": [
           { "appid": 934700, "name": "死亡岛2" },
@@ -1199,20 +1199,20 @@
           { "appid": 1817230, "name": "完美音浪" },
           { "appid": 1282100, "name": "遗迹2" }
         ]},
-        { "awards": "simstrategy", "appid": "任天堂独占", "name": "皮克敏4", "nominees": [
-          { "appid": "任天堂独占", "name": "高级战争1+2 Re-Boot Camp" },
+        { "awards": "simstrategy", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/pikmin-4-117531/117531-pikmin-4-1200x675", "name": "皮克敏4", "nominees": [
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/advance-wars-1-2-re-boot-camp-114408/114408-switch-advance-wars-1_2-reboot-camp-1200x675", "name": "高级战争1+2 Re-Boot Camp" },
           { "appid": 949230, "name": "都市：天际线2" },
           { "appid": 1677280, "name": "英雄连3" },
-          { "appid": "任天堂独占", "name": "火焰纹章 Engage" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/fire-emblem-engage-114548/114548-nintendo-fire-emblem-engage-us-1200x675", "name": "火焰纹章 Engage" }
         ]},
         { "awards": "vrar", "appid": 1196590, "name": "生化危机8：村庄", "nominees": [
-          { "appid": "PlayStation 独占", "name": "跑车浪漫旅7" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/y7iyxoBE8VKotN89QCFhLgLM.png", "name": "跑车浪漫旅7" },
           { "appid": 1582560, "name": "Humanity 人性" },
-          { "appid": "VR 独占", "name": "地平线：山之呼唤" },
-          { "appid": "VR 独占", "name": "Synapse 突触" }
+          { "appid": "VR 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0615/eicVspHDlt11H1xtnsw5dgkz.png", "name": "地平线：山之呼唤" },
+          { "appid": "VR 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2316/4bfd3815c3ed85e38783d46c3a24fde13752f09b61c94705.png", "name": "Synapse 突触" }
         ]},
         { "awards": "audio", "appid": 1817230, "name": "完美音浪", "nominees": [
-          { "appid": "Epic 独占", "name": "心灵杀手2" },
+          { "appid": "Epic 独占", "url": "https://www.alanwake.com/wp-content/uploads/2023/05/aw2-standard.png", "name": "心灵杀手2" },
           { "appid": 1693980, "name": "死亡空间 重制版" },
           { "appid": 2651280, "name": "漫威蜘蛛侠2" },
           { "appid": 2050650, "name": "生化危机4 重制版" }
@@ -1226,13 +1226,13 @@
         { "awards": "ongoing", "appid": 1091500, "name": "赛博朋克 2077", "nominees": [
           { "appid": 1172470, "name": "Apex英雄" },
           { "appid": 39210, "name": "最终幻想XIV" },
-          { "appid": "Epic 独占", "name": "堡垒之夜" },
-          { "appid": "手机游戏", "name": "原神" }
+          { "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" }
         ]},
         { "awards": "playervoice", "appid": 1086940, "name": "博德之门3", "nominees": [
           { "appid": 2138330, "name": "赛博朋克 2077：往日之影" },
-          { "appid": "手机游戏", "name": "原神" },
-          { "appid": "任天堂独占", "name": "塞尔达传说：王国之泪" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/the-legend-of-zelda-tears-of-the-kingdom-112383/112383-nintendo-the-legeld-of-zelda-tears-of-the-kingdom-1200x675", "name": "塞尔达传说：王国之泪" },
           { "appid": 2651280, "name": "漫威蜘蛛侠2" }
         ]}
       ]
@@ -1240,7 +1240,7 @@
     {
       "year": 2024,
       "games": [
-        { "awards": "goty", "appid": "PlayStation 独占", "name": "宇宙机器人", "nominees": [
+        { "awards": "goty", "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png", "name": "宇宙机器人", "nominees": [
           { "appid": 2379780, "name": "小丑牌" },
           { "appid": 2358720, "name": "黑神话：悟空" },
           { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
@@ -1260,7 +1260,7 @@
           { "appid": 2124490, "name": "寂静岭2 重制版" }
         ]},
         { "awards": "score", "appid": 2909400, "name": "最终幻想7 重生", "nominees": [
-          { "appid": "PlayStation 独占", "name": "宇宙机器人" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png", "name": "宇宙机器人" },
           { "appid": 2679460, "name": "暗喻幻想" },
           { "appid": 2124490, "name": "寂静岭2 重制版" },
           { "appid": 3489700, "name": "剑星" }
@@ -1277,8 +1277,8 @@
           { "appid": 2420660, "name": "涅瓦" },
           { "appid": 1147860, "name": "UFO 50" }
         ]},
-        { "awards": "actionadv", "appid": "PlayStation 独占", "name": "宇宙机器人", "nominees": [
-          { "appid": "任天堂独占", "name": "塞尔达传说：智慧的再现" },
+        { "awards": "actionadv", "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png", "name": "宇宙机器人", "nominees": [
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/the-legend-of-zelda-echoes-of-wisdom-119253/119253-the-legend-of-zelda-echoes-of-wisdom-1200x675", "name": "塞尔达传说：智慧的再现" },
           { "appid": 2751000, "name": "波斯王子：失落的王冠" },
           { "appid": 2124490, "name": "寂静岭2 重制版" },
           { "appid": 2842040, "name": "星球大战：亡命之徒" }
@@ -1295,11 +1295,11 @@
           { "appid": 2634890, "name": "漫威vs卡普空格斗收藏集：街机经典" },
           { "appid": 1818750, "name": "MultiVersus" }
         ]},
-        { "awards": "family", "appid": "PlayStation 独占", "name": "宇宙机器人", "nominees": [
-          { "appid": "任天堂独占", "name": "塞尔达传说：智慧的再现" },
+        { "awards": "family", "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png", "name": "宇宙机器人", "nominees": [
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/the-legend-of-zelda-echoes-of-wisdom-119253/119253-the-legend-of-zelda-echoes-of-wisdom-1200x675", "name": "塞尔达传说：智慧的再现" },
           { "appid": 1627570, "name": "勇敢小骑士" },
-          { "appid": "任天堂独占", "name": "碧姬公主 表演时刻！" },
-          { "appid": "任天堂独占", "name": "超级马力欧派对 空前盛会" }
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/princess-peach-showtime-118784/118784-princess-peach-showtime-1280x720", "name": "碧姬公主 表演时刻！" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/super-mario-party-jamboree-119268/119268-super-mario-party-jamboree-1200x675", "name": "超级马力欧派对 空前盛会" }
         ]},
         { "awards": "sportsracing", "appid": 2669320, "name": "EA SPORTS FC 25", "nominees": [
           { "appid": 2488620, "name": "F1 24" },
@@ -1308,24 +1308,24 @@
           { "appid": 2315690, "name": "WWE 2K24" }
         ]},
         { "awards": "mobile", "appid": 2379780, "name": "小丑牌", "nominees": [
-          { "appid": "手机游戏", "name": "剑与远征：启程" },
-          { "appid": "手机游戏", "name": "宝可梦集换式卡牌 Pocket" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/90/d2/2190d26d-73b6-74eb-9986-0eec5d7371bd/AppIcon-Global-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg", "name": "剑与远征：启程" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/36/be/cc36be7e-34a8-367e-5ebb-343175027e2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "宝可梦集换式卡牌 Pocket" },
           { "appid": 3513350, "name": "鸣潮" },
-          { "appid": "Steam 未收录", "name": "绝区零" }
+          { "appid": "Steam 未收录", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/64/6a/43646a64-9712-9da1-4c8a-14f95be9e413/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg", "name": "绝区零" }
         ]},
         { "awards": "art", "appid": 2679460, "name": "暗喻幻想", "nominees": [
-          { "appid": "PlayStation 独占", "name": "宇宙机器人" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png", "name": "宇宙机器人" },
           { "appid": 2358720, "name": "黑神话：悟空" },
           { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
           { "appid": 2420660, "name": "涅瓦" }
         ]},
         { "awards": "multiplayer", "appid": 553850, "name": "绝地潜兵2", "nominees": [
           { "appid": 4384550, "name": "使命召唤：黑色行动6" },
-          { "appid": "任天堂独占", "name": "超级马力欧派对 空前盛会" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Software/super-mario-party-jamboree-119268/119268-super-mario-party-jamboree-1200x675", "name": "超级马力欧派对 空前盛会" },
           { "appid": 1778820, "name": "铁拳8" },
           { "appid": 2183900, "name": "战锤40K：星际战士2" }
         ]},
-        { "awards": "direction", "appid": "PlayStation 独占", "name": "宇宙机器人", "nominees": [
+        { "awards": "direction", "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png", "name": "宇宙机器人", "nominees": [
           { "appid": 2379780, "name": "小丑牌" },
           { "appid": 2358720, "name": "黑神话：悟空" },
           { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
@@ -1342,16 +1342,16 @@
           { "appid": 1934680, "name": "神话时代：重述" },
           { "appid": 2510710, "name": "神之路" },
           { "appid": 1363080, "name": "庄园领主" },
-          { "appid": "Steam 未收录", "name": "圣兽之王" }
+          { "appid": "Steam 未收录", "url": "https://unicorn-overlord.com/en/resources/img/ogp_0308.jpg", "name": "圣兽之王" }
         ]},
-        { "awards": "vrar", "appid": "VR 独占", "name": "蝙蝠侠：阿卡姆之影", "nominees": [
+        { "awards": "vrar", "appid": "VR 独占", "url": "https://raw.githubusercontent.com/SmallFork/json/main/TGA_covers/batman-arkham-shadow.webp", "name": "蝙蝠侠：阿卡姆之影", "nominees": [
           { "appid": 2897700, "name": "亚利桑那阳光 重制版" },
-          { "appid": "VR 独占", "name": "阿斯加德之怒2" },
+          { "appid": "VR 独占", "url": "https://raw.githubusercontent.com/SmallFork/json/main/TGA_covers/asgards-wrath-2.webp", "name": "阿斯加德之怒2" },
           { "appid": 2878270, "name": "Metal: Hellsinger VR" },
           { "appid": 2669410, "name": "地铁：觉醒" }
         ]},
         { "awards": "audio", "appid": 2461850, "name": "地狱之刃II：塞娜的传说", "nominees": [
-          { "appid": "PlayStation 独占", "name": "宇宙机器人" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png", "name": "宇宙机器人" },
           { "appid": 4384550, "name": "使命召唤：黑色行动6" },
           { "appid": 2909400, "name": "最终幻想7：重生" },
           { "appid": 2124490, "name": "寂静岭2 重制版" }
@@ -1366,13 +1366,13 @@
           { "appid": 2336880, "name": "命运2：终焉之形" },
           { "appid": 3043530, "name": "暗黑破坏神IV：憎恨之躯" },
           { "appid": 2649240, "name": "FINAL FANTASY XIV: Dawntrail" },
-          { "appid": "Epic 独占", "name": "堡垒之夜" }
+          { "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜" }
         ]},
         { "awards": "playervoice", "appid": 2358720, "name": "黑神话：悟空", "nominees": [
-          { "appid": "Steam 未收录", "name": "原神" },
+          { "appid": "Steam 未收录", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" },
           { "appid": 2778580, "name": "艾尔登法环：黄金树幽影" },
           { "appid": 3513350, "name": "鸣潮" },
-          { "appid": "Steam 未收录", "name": "绝区零" }
+          { "appid": "Steam 未收录", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/64/6a/43646a64-9712-9da1-4c8a-14f95be9e413/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg", "name": "绝区零" }
         ]}
       ]
     },
@@ -1381,25 +1381,25 @@
       "games": [
         { "awards": "goty", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
           { "appid": 3280350, "name": "死亡搁浅2" },
-          { "appid": "任天堂独占", "name": "大金刚 蕉力全开" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Software/Donkey%20Kong%20Bananza/121485-nintendo-switch-2-donkey-kong-bananza-2000x2000", "name": "大金刚 蕉力全开" },
           { "appid": 1145350, "name": "哈迪斯II" },
           { "appid": 1030300, "name": "空洞骑士：丝之歌" },
           { "appid": 1771300, "name": "天国拯救2" }
         ]},
         { "awards": "narrative", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
           { "appid": 3280350, "name": "死亡搁浅2" },
-          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/890df32c227f619c5bd80e9f34ba2be53d0fea4b1615adee.png", "name": "羊蹄山战鬼" },
           { "appid": 1771300, "name": "天国拯救2" },
           { "appid": 2947440, "name": "寂静岭f" }
         ]},
         { "awards": "performance", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
           { "appid": 2677660, "name": "夺宝奇兵：古老之圈" },
-          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/890df32c227f619c5bd80e9f34ba2be53d0fea4b1615adee.png", "name": "羊蹄山战鬼" },
           { "appid": 2947440, "name": "寂静岭f" }
         ]},
         { "awards": "score", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
           { "appid": 3280350, "name": "死亡搁浅2" },
-          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/890df32c227f619c5bd80e9f34ba2be53d0fea4b1615adee.png", "name": "羊蹄山战鬼" },
           { "appid": 1145350, "name": "哈迪斯II" },
           { "appid": 1030300, "name": "空洞骑士：丝之歌" }
         ]},
@@ -1418,7 +1418,7 @@
         ]},
         { "awards": "actionadv", "appid": 1030300, "name": "空洞骑士：丝之歌", "nominees": [
           { "appid": 3280350, "name": "死亡搁浅2" },
-          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/890df32c227f619c5bd80e9f34ba2be53d0fea4b1615adee.png", "name": "羊蹄山战鬼" },
           { "appid": 2677660, "name": "夺宝奇兵：古老之圈" },
           { "appid": 2001120, "name": "双影奇境" }
         ]},
@@ -1429,33 +1429,33 @@
           { "appid": 1449110, "name": "天外世界2" }
         ]},
         { "awards": "fighting", "appid": 2492040, "name": "饿狼传说：群狼之城", "nominees": [
-          { "appid": "Steam 未收录", "name": "2XKO" },
+          { "appid": "Steam 未收录", "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0d8da14d9cc0c69376e8fb42cc6344276bf937ad-1200x600.jpg", "name": "2XKO" },
           { "appid": 2400430, "name": "卡普空格斗收藏集2" },
           { "appid": 3454980, "name": "Mortal Kombat: Legacy Kollection" },
           { "appid": 3112260, "name": "Virtua Fighter 5 R.E.V.O. World Stage" }
         ]},
-        { "awards": "family", "appid": "任天堂独占", "name": "大金刚 蕉力全开", "nominees": [
+        { "awards": "family", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Software/Donkey%20Kong%20Bananza/121485-nintendo-switch-2-donkey-kong-bananza-2000x2000", "name": "大金刚 蕉力全开", "nominees": [
           { "appid": 1969370, "name": "乐高派对" },
           { "appid": 1538550, "name": "LEGO Voyagers" },
-          { "appid": "任天堂独占", "name": "马力欧卡丁车 世界" },
+          { "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Software/Mario%20Kart%20World/121472-nintendo-switch-2-mario-kart-world-2000x2000", "name": "马力欧卡丁车 世界" },
           { "appid": 2486820, "name": "索尼克赛车 交叉世界" },
           { "appid": 2001120, "name": "双影奇境" }
         ]},
-        { "awards": "sportsracing", "appid": "任天堂独占", "name": "马力欧卡丁车 世界", "nominees": [
+        { "awards": "sportsracing", "appid": "任天堂独占", "url": "https://assets.nintendo.com/image/upload/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Software/Mario%20Kart%20World/121472-nintendo-switch-2-mario-kart-world-2000x2000", "name": "马力欧卡丁车 世界", "nominees": [
           { "appid": 3405690, "name": "EA SPORTS FC 26" },
           { "appid": 3059520, "name": "F1 25" },
           { "appid": 2138720, "name": "REMATCH" },
           { "appid": 2486820, "name": "索尼克赛车 交叉世界" }
         ]},
         { "awards": "mobile", "appid": 3224770, "name": "赛马娘 Pretty Derby", "nominees": [
-          { "appid": "手机游戏", "name": "命运：崛起" },
-          { "appid": "手机游戏", "name": "女神异闻录：夜幕魅影" },
-          { "appid": "手机游戏", "name": "Sonic Rumble" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/05/40/150540fe-7a35-7315-91da-de145e59c7f1/AppIcon-1x_U007emarketing-0-11-85-220-0.png/512x512bb.jpg", "name": "命运：崛起" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/ff/a3/7fffa3d2-b415-31d3-2cc1-880b8bbb79f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "女神异闻录：夜幕魅影" },
+          { "appid": "手机游戏", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/79/28/49792823-89a1-6bf7-b8e3-e10da01ab7bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg", "name": "Sonic Rumble" },
           { "appid": 3513350, "name": "鸣潮" }
         ]},
         { "awards": "art", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
           { "appid": 3280350, "name": "死亡搁浅2" },
-          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/890df32c227f619c5bd80e9f34ba2be53d0fea4b1615adee.png", "name": "羊蹄山战鬼" },
           { "appid": 1145350, "name": "哈迪斯II" },
           { "appid": 1030300, "name": "空洞骑士：丝之歌" }
         ]},
@@ -1467,7 +1467,7 @@
         ]},
         { "awards": "direction", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
           { "appid": 3280350, "name": "死亡搁浅2" },
-          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/890df32c227f619c5bd80e9f34ba2be53d0fea4b1615adee.png", "name": "羊蹄山战鬼" },
           { "appid": 1145350, "name": "哈迪斯II" },
           { "appid": 2001120, "name": "双影奇境" }
         ]},
@@ -1486,12 +1486,12 @@
         ]},
         { "awards": "vrar", "appid": 2863640, "name": "午夜漫步", "nominees": [
           { "appid": 1850050, "name": "异形：夺命舰VR" },
-          { "appid": "VR 独占", "name": "漫威死侍VR" }
+          { "appid": "VR 独占", "url": "https://raw.githubusercontent.com/SmallFork/json/main/TGA_covers/deadpool-vr.jpg", "name": "漫威死侍VR" }
         ]},
         { "awards": "audio", "appid": 2807960, "name": "战地风云 6", "nominees": [
           { "appid": 1903340, "name": "光与影：33号远征队" },
           { "appid": 3280350, "name": "死亡搁浅2" },
-          { "appid": "PlayStation 独占", "name": "羊蹄山战鬼" },
+          { "appid": "PlayStation 独占", "url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/890df32c227f619c5bd80e9f34ba2be53d0fea4b1615adee.png", "name": "羊蹄山战鬼" },
           { "appid": 2947440, "name": "寂静岭f" }
         ]},
         { "awards": "debut", "appid": 1903340, "name": "光与影：33号远征队", "nominees": [
@@ -1502,14 +1502,14 @@
         ]},
         { "awards": "ongoing", "appid": 275850, "name": "无人深空", "nominees": [
           { "appid": 39210, "name": "FINAL FANTASY XIV Online" },
-          { "appid": "Epic 独占", "name": "堡垒之夜" },
+          { "appid": "Epic 独占", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b1/1a/4cb11adb-31a5-1436-de27-12cdeccca7b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "堡垒之夜" },
           { "appid": 553850, "name": "绝地潜兵2" },
           { "appid": 2767030, "name": "漫威争锋" }
         ]},
         { "awards": "playervoice", "appid": 3513350, "name": "鸣潮", "nominees": [
           { "appid": 1903340, "name": "光与影：33号远征队" },
           { "appid": 2592160, "name": "Dispatch" },
-          { "appid": "Steam 未收录", "name": "原神" },
+          { "appid": "Steam 未收录", "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e2/13/5ce21317-a08a-24ac-cc5f-2b25a4d71fa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg", "name": "原神" },
           { "appid": 1030300, "name": "空洞骑士：丝之歌" }
         ]}
       ]
